@@ -1,0 +1,994 @@
+Projekt;Ticketnummer;Datum;Projektticket;Mitarbeiter;Gebucht (in PT);Fakturierbar (in PT);Firma;Abrechnungsstatus;Abrechenbar
+Wasserfall AG / Water Conservation;8712886;28.02.2024;Implemented user authentication system.;Lara Zimmer;0.34629;0;Wasserfall AG;abgerechnet;00:25
+Wolfsblut GmbH / Wildlife Conservation;9685145;06.02.2024;Implemented user authentication system.;Emma Kruger;0.03452;0.03622;Wolfsblut GmbH;geprueft;00:28
+Wunderbar GmbH / Customer Engagement;1813341;02.02.2024;Resolved bug in the payment module.;Ben Richter;0.02545;0.0367;Wunderbar GmbH;geprueft;00:18
+Bergwerk AG / Sustainable Resources;7112373;16.02.2024;Optimized database queries for faster load times.;Tom Braun;0.11202;0.09663;Bergwerk AG;geprueft;00:44
+Fels & Stein GmbH / Mineral Extraction;8946660;13.02.2024;Automated deployment processes for CI/CD pipeline.;Tim Neumann;0.45377;0.5533;Fels & Stein GmbH;abgerechnet;04:44
+Silberfuchs GmbH / Technology R&D;3973980;14.02.2024;Automated deployment processes for CI/CD pipeline.;Liam Scholz;0.07439;0.06175;Silberfuchs GmbH;abgerechnet;00:40
+Sturm & Partner / Market Analysis;6242992;22.02.2024;Fixed compatibility issues with legacy systems.;Julia Weber;0.31185;0.27235;Sturm & Partner;abgerechnet;02:24
+Wunderbar GmbH / Marketing Overhaul;6715295;08.02.2024;Resolved bug in the payment module.;Lara Zimmer;0.02835;0;Wunderbar GmbH;abgerechnet;00:28
+Lichtblick AG / Environmental Impact;9990953;16.02.2024;Enhanced search functionality with advanced filters.;Felix Voigt;0.03079;0.03686;Lichtblick AG;abgerechnet;00:05
+Kleeblatt AG / Sustainability;9013699;19.02.2024;Added localization support for multiple languages.;Ben Richter;0.27309;0.28059;Kleeblatt AG;abgerechnet;02:05
+Wolfsblut GmbH / Veterinary Research;3522361;06.02.2024;Conducted performance testing and optimizations.;Paul Bauer;0.36386;0.33506;Wolfsblut GmbH;abgerechnet;02:29
+Funkeln & Glanz KG / Retail Expansion;3979024;05.02.2024;Implemented caching mechanism for efficiency.;Lena Krause;0.15466;0;Funkeln & Glanz KG;abgerechnet;00:09
+Wasserfall AG / Eco-friendly Solutions;9205426;12.02.2024;Refactored code for better maintainability.;Jonas Wagner;0.08522;0.09977;Wasserfall AG;abgerechnet;00:28
+Silberfuchs GmbH / Technology R&D;9768002;05.02.2024;Automated deployment processes for CI/CD pipeline.;Lukas Fischer;0.1032;0.25674;Silberfuchs GmbH;abgerechnet;01:44
+Funkeln & Glanz KG / Jewelry Design;5947794;13.02.2024;Conducted performance testing and optimizations.;Jonas Wagner;0.05438;0.05142;Funkeln & Glanz KG;abgerechnet;00:18
+Wolkenbruch AG / Data Security;5507095;29.02.2024;Improved security protocols to protect data.;Sophie Schmidt;0.16441;0.17976;Wolkenbruch AG;abgerechnet;01:35
+Silberfuchs GmbH / Technology R&D;5677543;05.02.2024;Automated deployment processes for CI/CD pipeline.;Lisa Schulz;0.10928;0.08536;Silberfuchs GmbH;abgerechnet;01:15
+Sturm & Partner / Financial Strategy;7146966;26.02.2024;Updated UI for a more modern look.;Clara Klein;0.03033;0.02826;Sturm & Partner;abgerechnet;00:20
+Sternschuppen AG / Satellite Technology;9799166;12.02.2024;Added localization support for multiple languages.;Lena Krause;0.11218;0.09121;Sternschuppen AG;abgerechnet;01:11
+Blitz & Co KG / Lightning Protection;3846989;07.02.2024;Integrated third-party API for extended functionality.;Clara Klein;0.03739;0.0295;Blitz & Co KG;abgerechnet;00:15
+Funkeln & Glanz KG / Luxury Goods;1100821;05.02.2024;Added localization support for multiple languages.;Emma Kruger;0.02584;0;Funkeln & Glanz KG;abgerechnet;00:30
+Drachenfels GmbH / Virtual Reality;4839139;29.02.2024;Fixed compatibility issues with legacy systems.;Simon Seidel;0.88374;0.83038;Drachenfels GmbH;abgerechnet;06:47
+Adlerflug GmbH / Aviation Safety;9646865;09.02.2024;Improved error handling and logging mechanisms.;Sara Brandt;0.03316;0.03062;Adlerflug GmbH;abgerechnet;00:06
+Bergwerk AG / Sustainable Resources;9757178;29.02.2024;Optimized database queries for faster load times.;Olivia Berg;0.0289;0.02709;Bergwerk AG;abgerechnet;00:33
+Wunderbar GmbH / Brand Innovation;5717531;19.02.2024;Added localization support for multiple languages.;Hannah Boehm;0.03559;0.02855;Wunderbar GmbH;abgerechnet;00:08
+Drachenfels GmbH / Fantasy Game Development;2811470;20.02.2024;Automated deployment processes for CI/CD pipeline.;Olivia Berg;0.05896;0.07105;Drachenfels GmbH;abgerechnet;00:33
+Fels & Stein GmbH / Rock Mechanics;2793858;26.02.2024;Developed prototype for upcoming product launch.;Liam Scholz;0.02518;0.03177;Fels & Stein GmbH;abgerechnet;00:21
+Seeblick GmbH / Hotel Management;4961038;29.02.2024;Implemented user authentication system.;Tom Braun;0.56443;0.46751;Seeblick GmbH;abgerechnet;04:41
+Morgenstern AG / Green Initiatives;8442685;28.02.2024;Improved security protocols to protect data.;Finn Lehmann;0.03311;0.03077;Morgenstern AG;abgerechnet;00:18
+Sandsturm AG / Climate Adaptation;2527026;05.02.2024;Developed new analytics dashboard for insights.;David Meier;0.03296;0.02577;Sandsturm AG;geprueft;00:45
+Sonnenstrahl KG / Sustainable Solutions;7501157;28.02.2024;Improved security protocols to protect data.;Jan Kohler;0.47633;0.74446;Sonnenstrahl KG;abgerechnet;07:30
+Silberfuchs GmbH / Technology R&D;6109408;27.02.2024;Integrated third-party API for extended functionality.;Mia Koch;0.13924;0.1237;Silberfuchs GmbH;abgerechnet;01:02
+Hinterland GmbH / Rural Development;3921612;22.02.2024;Implemented user authentication system.;Julia Weber;0.10435;0.08318;Hinterland GmbH;abgerechnet;00:24
+Wunderbar GmbH / Marketing Overhaul;4050035;28.02.2024;Improved security protocols to protect data.;Emma Kruger;0.03179;0.034;Wunderbar GmbH;abgerechnet;00:00
+Wasserfall AG / Hydropower Development;1709577;12.02.2024;Optimized database queries for faster load times.;Niklas Hahn;0.13947;0.13539;Wasserfall AG;abgerechnet;00:58
+Wasserfall AG / Water Conservation;6570631;01.02.2024;Integrated third-party API for extended functionality.;Lara Zimmer;0.03551;0.02802;Wasserfall AG;abgerechnet;00:45
+Wildfang AG / Adventure Gear;1542309;08.02.2024;Added a new feature to improve user experience.;Mia Koch;0.03133;0.02988;Wildfang AG;abgerechnet;00:25
+Wildfang AG / Outdoor Equipment;7111907;05.02.2024;Enhanced search functionality with advanced filters.;Tom Braun;0.0296;0.03028;Wildfang AG;abgerechnet;00:00
+Kieselstein GmbH / Construction Innovation;4394213;14.02.2024;Automated deployment processes for CI/CD pipeline.;Lara Zimmer;0.03461;0.03008;Kieselstein GmbH;abgerechnet;00:33
+Wasserfall AG / Hydropower Development;8470225;29.02.2024;Added localization support for multiple languages.;Tim Neumann;0.10574;0.11157;Wasserfall AG;abgerechnet;00:32
+Drachenfels GmbH / Fantasy Game Development;4353383;29.02.2024;Resolved bug in the payment module.;Clara Klein;0.09686;0.10803;Drachenfels GmbH;abgerechnet;00:28
+Hinterland GmbH / Rural Development;9957340;15.02.2024;Automated deployment processes for CI/CD pipeline.;Finn Lehmann;0.02981;0.02907;Hinterland GmbH;abgerechnet;00:24
+Blitz & Co KG / Smart Grid;5792889;14.02.2024;Refactored code for better maintainability.;Laura Schwarz;0.0367;0;Blitz & Co KG;abgerechnet;00:23
+Sturm & Partner / Risk Management;6343488;01.02.2024;Improved error handling and logging mechanisms.;Liam Scholz;0.03466;0;Sturm & Partner;abgerechnet;00:21
+Wasserfall AG / Hydropower Development;4462067;19.02.2024;Updated UI for a more modern look.;Ben Richter;0.02686;0.02832;Wasserfall AG;abgerechnet;00:34
+Sandsturm AG / Climate Adaptation;3993119;28.02.2024;Fixed compatibility issues with legacy systems.;Lea Schneider;0.11215;0.09799;Sandsturm AG;abgerechnet;00:55
+Sturm & Partner / Market Analysis;2536667;09.02.2024;Implemented user authentication system.;Simon Seidel;0.03224;0.02603;Sturm & Partner;abgerechnet;00:42
+Sturm & Partner / Market Analysis;7989407;27.02.2024;Refactored code for better maintainability.;Lena Krause;0.10246;0.13263;Sturm & Partner;abgerechnet;00:44
+Morgenstern AG / Solar Energy;1559981;27.02.2024;Implemented caching mechanism for efficiency.;Noah Schmid;0.03082;0.03415;Morgenstern AG;abgerechnet;00:12
+Wolfsblut GmbH / Wildlife Conservation;3244941;07.02.2024;Automated deployment processes for CI/CD pipeline.;Sophie Schmidt;0.02989;0;Wolfsblut GmbH;abgerechnet;00:03
+Blitz & Co KG / Smart Grid;2226790;26.02.2024;Updated UI for a more modern look.;Lisa Schulz;0.07627;0;Blitz & Co KG;abgerechnet;00:29
+Wolkenbruch AG / IT Infrastructure;3490577;13.02.2024;Implemented user authentication system.;Olivia Berg;0.06125;0.05803;Wolkenbruch AG;abgerechnet;00:12
+Hinterland GmbH / Community Building;4844007;13.02.2024;Fixed compatibility issues with legacy systems.;Lisa Schulz;0.05158;0;Hinterland GmbH;abgerechnet;00:01
+Sonnenstrahl KG / Energy Efficiency;9156646;07.02.2024;Automated deployment processes for CI/CD pipeline.;Tom Braun;0.06013;0.07388;Sonnenstrahl KG;abgerechnet;00:29
+Drachenfels GmbH / Fantasy Game Development;1435225;07.02.2024;Improved security protocols to protect data.;Lukas Fischer;0.0305;0.03545;Drachenfels GmbH;abgerechnet;00:03
+Silberfuchs GmbH / Cybersecurity;5020870;01.02.2024;Enhanced search functionality with advanced filters.;Emma Hoffmann;0.12218;0;Silberfuchs GmbH;abgerechnet;00:18
+Lichtblick AG / Solar Panel Tech;2361542;12.02.2024;Developed prototype for upcoming product launch.;Paul Bauer;0.1929;0.56916;Lichtblick AG;abgerechnet;04:41
+Sternschuppen AG / Astrophysics;5053976;27.02.2024;Automated deployment processes for CI/CD pipeline.;Tom Braun;0.06153;0.0591;Sternschuppen AG;abgerechnet;00:33
+Fels & Stein GmbH / Rock Mechanics;6139594;27.02.2024;Improved security protocols to protect data.;Anna Becker;0.08403;0;Fels & Stein GmbH;abgerechnet;00:09
+Eisberg GmbH / Logistics Optimization;9997434;27.02.2024;Added localization support for multiple languages.;Lukas Fischer;0.03321;0.03521;Eisberg GmbH;abgerechnet;00:44
+Wolkenbruch AG / IT Infrastructure;4425462;23.02.2024;Implemented caching mechanism for efficiency.;Hannah Boehm;0.07305;0.06321;Wolkenbruch AG;abgerechnet;00:14
+Hinterland GmbH / Rural Development;2679147;01.02.2024;Resolved bug in the payment module.;Clara Klein;0.03521;0;Hinterland GmbH;abgerechnet;00:15
+Wildfang AG / Adventure Gear;8361953;29.02.2024;Improved security protocols to protect data.;Anna Becker;0.07386;0.10854;Wildfang AG;abgerechnet;01:20
+Kieselstein GmbH / Construction Innovation;8138744;02.02.2024;Added a new feature to improve user experience.;Anna Becker;0.03577;0.03176;Kieselstein GmbH;abgerechnet;00:39
+Mondschein KG / Optical Engineering;8433343;06.02.2024;Implemented caching mechanism for efficiency.;Ben Richter;0.0688;0.07096;Mondschein KG;abgerechnet;00:16
+Funkeln & Glanz KG / Luxury Goods;9540471;01.02.2024;Enhanced search functionality with advanced filters.;Lukas Fischer;0.19214;0.19139;Funkeln & Glanz KG;abgerechnet;02:02
+Sternschuppen AG / Astrophysics;7846845;02.02.2024;Resolved bug in the payment module.;Emma Hoffmann;0.06937;0.07004;Sternschuppen AG;abgerechnet;00:53
+Lichtblick AG / Renewable Energy;7965850;14.02.2024;Optimized database queries for faster load times.;Lea Schneider;0.10125;0;Lichtblick AG;abgerechnet;00:16
+Wolfsblut GmbH / Veterinary Research;9015119;02.02.2024;Added a new feature to improve user experience.;Anna Becker;0.03075;0.03334;Wolfsblut GmbH;abgerechnet;00:04
+Glücksklee GmbH / Health Solutions;8644669;01.02.2024;Implemented caching mechanism for efficiency.;Hannah Boehm;0.33237;0.43241;Glücksklee GmbH;abgerechnet;02:40
+Mondschein KG / Innovation;2182253;29.02.2024;Refactored code for better maintainability.;Lisa Schulz;0.06837;0.11145;Mondschein KG;abgerechnet;00:58
+Feuersturm GmbH / Emergency Planning;8071529;09.02.2024;Developed prototype for upcoming product launch.;Jan Kohler;0.07238;0;Feuersturm GmbH;abgerechnet;00:06
+Feuersturm GmbH / Emergency Planning;8188382;16.02.2024;Updated UI for a more modern look.;Anna Becker;0.03637;0.03161;Feuersturm GmbH;abgerechnet;00:02
+Silberfuchs GmbH / Cybersecurity;9050666;09.02.2024;Fixed compatibility issues with legacy systems.;Lara Zimmer;0.03552;0.03312;Silberfuchs GmbH;abgerechnet;00:02
+Kieselstein GmbH / Urban Planning;7989992;05.02.2024;Integrated third-party API for extended functionality.;Noah Schmid;0.24666;0.2036;Kieselstein GmbH;abgerechnet;01:50
+Drachenfels GmbH / Fantasy Game Development;5266182;20.02.2024;Implemented user authentication system.;Emma Hoffmann;0.11012;0.10311;Drachenfels GmbH;abgerechnet;00:53
+Morgenstern AG / Solar Energy;2354564;12.02.2024;Redesigned landing page for better conversion rates.;David Meier;0.18129;0.31774;Morgenstern AG;abgerechnet;03:15
+Sternschuppen AG / Astrophysics;1340807;14.02.2024;Fixed compatibility issues with legacy systems.;Tim Neumann;0.28722;0.30052;Sternschuppen AG;abgerechnet;02:22
+Sandsturm AG / Climate Adaptation;8539406;21.02.2024;Improved security protocols to protect data.;Olivia Berg;0.10306;0.08762;Sandsturm AG;abgerechnet;01:06
+Wildfang AG / Product Innovation;4240608;21.02.2024;Upgraded server infrastructure for scalability.;Felix Voigt;0.02869;0.02637;Wildfang AG;geprueft;00:00
+Morgenstern AG / Eco-friendly Projects;5812673;26.02.2024;Implemented user authentication system.;Niklas Hahn;0.05931;0.14474;Morgenstern AG;abgerechnet;01:10
+Weitblick KG / Retirement Planning;4226186;05.02.2024;Added localization support for multiple languages.;Tim Neumann;0.02808;0.03166;Weitblick KG;abgerechnet;00:39
+Silberfuchs GmbH / Cybersecurity;7235505;26.02.2024;Improved error handling and logging mechanisms.;Jonas Wagner;0.30168;0;Silberfuchs GmbH;abgerechnet;00:19
+Weitblick KG / Retirement Planning;6598931;13.02.2024;Implemented user authentication system.;Niklas Hahn;0.17376;0.18294;Weitblick KG;abgerechnet;01:38
+Wolfsblut GmbH / Zoology;9321281;13.02.2024;Optimized database queries for faster load times.;Lara Zimmer;0.13137;0.14242;Wolfsblut GmbH;abgerechnet;00:58
+Weitblick KG / Long-Term Investments;8581015;21.02.2024;Resolved bug in the payment module.;Anna Becker;0.03293;0.02955;Weitblick KG;abgerechnet;00:17
+Mondschein KG / Optical Engineering;9461178;29.02.2024;Developed new analytics dashboard for insights.;Noah Schmid;0.07309;0.06111;Mondschein KG;abgerechnet;00:45
+Weitblick KG / Long-Term Investments;2443550;14.02.2024;Improved error handling and logging mechanisms.;Lisa Schulz;0.64463;1.78699;Weitblick KG;abgerechnet;15:00
+Sturm & Partner / Risk Management;6683259;14.02.2024;Added localization support for multiple languages.;Sara Brandt;0.05343;0.06442;Sturm & Partner;abgerechnet;00:26
+Sturm & Partner / Market Analysis;5410263;01.02.2024;Automated deployment processes for CI/CD pipeline.;Paul Bauer;0.07174;0.07342;Sturm & Partner;abgerechnet;00:59
+Wildfang AG / Outdoor Equipment;8479921;05.02.2024;Added localization support for multiple languages.;Felix Voigt;0.07803;0.09543;Wildfang AG;abgerechnet;00:42
+Adlerflug GmbH / Flight Dynamics;3578043;23.02.2024;Conducted performance testing and optimizations.;Hannah Boehm;0.03463;0.02906;Adlerflug GmbH;abgerechnet;00:35
+Funkeln & Glanz KG / Luxury Goods;7172988;01.02.2024;Refactored code for better maintainability.;Niklas Hahn;0.40932;1.05902;Funkeln & Glanz KG;abgerechnet;08:44
+Mondschein KG / Night Vision Tech;2502047;21.02.2024;Redesigned landing page for better conversion rates.;Paul Bauer;0.37542;0.50526;Mondschein KG;abgerechnet;04:12
+Kieselstein GmbH / Urban Planning;1087118;08.02.2024;Conducted performance testing and optimizations.;Sophie Schmidt;0.03226;0.035;Kieselstein GmbH;abgerechnet;00:35
+Seeblick GmbH / Eco-Tourism;5545175;14.02.2024;Resolved bug in the payment module.;Laura Schwarz;0.03047;0.02725;Seeblick GmbH;abgerechnet;00:05
+Wolfsblut GmbH / Veterinary Research;2997491;12.02.2024;Implemented user authentication system.;Hannah Boehm;0.0267;0.0304;Wolfsblut GmbH;abgerechnet;00:18
+Fels & Stein GmbH / Mineral Extraction;4441011;02.02.2024;Updated UI for a more modern look.;Julia Weber;0.2473;0.23161;Fels & Stein GmbH;abgerechnet;02:21
+Wolfsblut GmbH / Wildlife Conservation;6400427;07.02.2024;Improved error handling and logging mechanisms.;Lisa Schulz;0.09849;0;Wolfsblut GmbH;abgerechnet;00:06
+Morgenstern AG / Green Initiatives;5591174;19.02.2024;Improved error handling and logging mechanisms.;Finn Lehmann;0.03542;0.05086;Morgenstern AG;abgerechnet;00:08
+Kieselstein GmbH / Architectural Design;5875554;02.02.2024;Redesigned landing page for better conversion rates.;Laura Schwarz;0.102;0.10953;Kieselstein GmbH;abgerechnet;00:51
+Himmelsstürmer KG / Pilot Programs;5527054;13.02.2024;Optimized database queries for faster load times.;Finn Lehmann;0.08866;0.11077;Himmelsstürmer KG;abgerechnet;01:30
+Himmelsstürmer KG / Aircraft Maintenance;6688146;14.02.2024;Fixed compatibility issues with legacy systems.;Hannah Boehm;0.27646;0.81576;Himmelsstürmer KG;abgerechnet;06:38
+Hinterland GmbH / Rural Development;5229819;08.02.2024;Refactored code for better maintainability.;Tim Neumann;0.0282;0.02877;Hinterland GmbH;abgerechnet;00:34
+Sturm & Partner / Market Analysis;1727338;13.02.2024;Developed new analytics dashboard for insights.;Simon Seidel;0.03293;0.03418;Sturm & Partner;abgerechnet;00:12
+Blitz & Co KG / Lightning Protection;9613575;06.02.2024;Fixed compatibility issues with legacy systems.;Emma Hoffmann;0.06752;0.06465;Blitz & Co KG;abgerechnet;00:58
+Adlerflug GmbH / Aerospace Engineering;5077669;27.02.2024;Fixed compatibility issues with legacy systems.;Paul Bauer;0.36844;0.27842;Adlerflug GmbH;abgerechnet;02:01
+Drachenfels GmbH / Virtual Reality;5345423;05.02.2024;Automated deployment processes for CI/CD pipeline.;Clara Klein;0.24768;0.23684;Drachenfels GmbH;abgerechnet;01:50
+Himmelsstürmer KG / Pilot Programs;2665909;26.02.2024;Developed prototype for upcoming product launch.;Niklas Hahn;0.28991;0.48805;Himmelsstürmer KG;abgerechnet;05:11
+Sandsturm AG / Water Scarcity;6120878;08.02.2024;Enhanced search functionality with advanced filters.;Hannah Boehm;0.07966;0.08133;Sandsturm AG;abgerechnet;00:48
+Eisberg GmbH / Cold Chain Solutions;1866667;16.02.2024;Fixed compatibility issues with legacy systems.;Hannah Boehm;0.02608;0.03269;Eisberg GmbH;abgerechnet;00:24
+Sandsturm AG / Water Scarcity;4453094;01.02.2024;Added localization support for multiple languages.;Lukas Fischer;0.0631;0.15048;Sandsturm AG;abgerechnet;01:16
+Nordlicht KG / Arctic Exploration;8769175;16.02.2024;Enhanced search functionality with advanced filters.;Sophie Schmidt;0.48493;0.52864;Nordlicht KG;abgerechnet;04:11
+Mondschein KG / Optical Engineering;4158551;12.02.2024;Enhanced search functionality with advanced filters.;Noah Schmid;0.02525;0.03116;Mondschein KG;abgerechnet;00:18
+Wolfsblut GmbH / Zoology;9515028;22.02.2024;Upgraded server infrastructure for scalability.;Jan Kohler;0.0562;0.0535;Wolfsblut GmbH;abgerechnet;00:04
+Kleeblatt AG / Sustainability;5716518;15.02.2024;Automated deployment processes for CI/CD pipeline.;Julia Weber;0.41407;0.35608;Kleeblatt AG;abgerechnet;03:15
+Eisberg GmbH / Cold Chain Solutions;2732281;14.02.2024;Improved error handling and logging mechanisms.;Emma Kruger;0.03238;0.07479;Eisberg GmbH;abgerechnet;00:11
+Sturm & Partner / Financial Strategy;2511438;08.02.2024;Enhanced mobile responsiveness of the website.;Simon Seidel;0.16356;0;Sturm & Partner;abgerechnet;00:05
+Hinterland GmbH / Community Building;5019809;08.02.2024;Implemented caching mechanism for efficiency.;Sara Brandt;0.12602;0.11795;Hinterland GmbH;abgerechnet;01:02
+Sonnenstrahl KG / Sustainable Solutions;6198757;23.02.2024;Updated UI for a more modern look.;Lisa Schulz;0.14357;0.11912;Sonnenstrahl KG;abgerechnet;01:16
+Funkeln & Glanz KG / Luxury Goods;4928467;15.02.2024;Resolved bug in the payment module.;Jonas Wagner;0.03644;0.0702;Funkeln & Glanz KG;abgerechnet;00:34
+Seeblick GmbH / Hotel Management;1219369;28.02.2024;Optimized database queries for faster load times.;Simon Seidel;0.235;0.213;Seeblick GmbH;abgerechnet;02:26
+Wolkenbruch AG / IT Infrastructure;9414587;08.02.2024;Optimized database queries for faster load times.;Emma Kruger;0.10429;0.11769;Wolkenbruch AG;geprueft;00:33
+Adlerflug GmbH / Aviation Safety;2820052;26.02.2024;Redesigned landing page for better conversion rates.;Sara Brandt;0.46768;0;Adlerflug GmbH;abgerechnet;00:10
+Sonnenstrahl KG / Sustainable Solutions;3390594;12.02.2024;Resolved bug in the payment module.;Emma Hoffmann;0.05761;0;Sonnenstrahl KG;abgerechnet;00:12
+Seeblick GmbH / Eco-Tourism;1673690;22.02.2024;Integrated third-party API for extended functionality.;Lena Krause;1.12943;2.62247;Seeblick GmbH;abgerechnet;20:21
+Nordlicht KG / Arctic Exploration;4303399;28.02.2024;Integrated third-party API for extended functionality.;Niklas Hahn;0.06673;0.05708;Nordlicht KG;abgerechnet;00:54
+Wasserfall AG / Water Conservation;8854806;26.02.2024;Improved error handling and logging mechanisms.;Hannah Boehm;0.03077;0.03719;Wasserfall AG;abgerechnet;00:02
+Blitz & Co KG / Electrical Systems;4225434;01.02.2024;Resolved bug in the payment module.;Hannah Boehm;0.16639;0.17261;Blitz & Co KG;abgerechnet;01:23
+Eisberg GmbH / Cold Chain Solutions;2137102;12.02.2024;Developed prototype for upcoming product launch.;Simon Seidel;0.06586;0.07311;Eisberg GmbH;abgerechnet;00:23
+Weitblick KG / Long-Term Investments;6283047;05.02.2024;Improved security protocols to protect data.;Liam Scholz;0.02522;0.03263;Weitblick KG;abgerechnet;00:32
+Kieselstein GmbH / Construction Innovation;6056541;12.02.2024;Integrated third-party API for extended functionality.;Olivia Berg;0.75634;1.15806;Kieselstein GmbH;abgerechnet;07:33
+Bergwerk AG / Mining Expansion;7510478;21.02.2024;Developed prototype for upcoming product launch.;Laura Schwarz;0.11327;0.12364;Bergwerk AG;abgerechnet;00:52
+Morgenstern AG / Eco-friendly Projects;8666594;23.02.2024;Added a new feature to improve user experience.;Lisa Schulz;0.30719;0.25267;Morgenstern AG;abgerechnet;02:03
+Wasserfall AG / Eco-friendly Solutions;8025331;20.02.2024;Refactored code for better maintainability.;Lena Krause;0.08417;0.07821;Wasserfall AG;abgerechnet;00:38
+Himmelsstürmer KG / Pilot Programs;3671859;15.02.2024;Added a new feature to improve user experience.;Noah Schmid;0.05052;0.06088;Himmelsstürmer KG;abgerechnet;00:06
+Funkeln & Glanz KG / Luxury Goods;3989179;09.02.2024;Resolved bug in the payment module.;Sophie Schmidt;0.03168;0;Funkeln & Glanz KG;abgerechnet;00:12
+Wildfang AG / Product Innovation;8362687;21.02.2024;Enhanced mobile responsiveness of the website.;Emma Hoffmann;0.40774;0.48442;Wildfang AG;abgerechnet;03:39
+Sonnenstrahl KG / Energy Efficiency;5309766;28.02.2024;Improved error handling and logging mechanisms.;Mia Koch;0.02956;0.02774;Sonnenstrahl KG;abgerechnet;00:31
+Glücksklee GmbH / Biotech Research;1609692;23.02.2024;Developed prototype for upcoming product launch.;Finn Lehmann;0.5692;0;Glücksklee GmbH;abgerechnet;00:24
+Eisberg GmbH / Cold Chain Solutions;8550112;13.02.2024;Fixed compatibility issues with legacy systems.;Laura Schwarz;0.02641;0.03681;Eisberg GmbH;abgerechnet;00:10
+Wolfsblut GmbH / Wildlife Conservation;2862919;15.02.2024;Updated UI for a more modern look.;Anna Becker;0.24372;0.35108;Wolfsblut GmbH;abgerechnet;02:49
+Lichtblick AG / Renewable Energy;2595319;02.02.2024;Optimized database queries for faster load times.;Tim Neumann;0.02836;0;Lichtblick AG;abgerechnet;00:08
+Glücksklee GmbH / Health Solutions;3135148;08.02.2024;Implemented user authentication system.;David Meier;0.06158;0.05605;Glücksklee GmbH;abgerechnet;00:09
+Sonnenstrahl KG / Sustainable Solutions;3849204;07.02.2024;Automated deployment processes for CI/CD pipeline.;Lisa Schulz;0.17069;0.17621;Sonnenstrahl KG;abgerechnet;01:13
+Sandsturm AG / Water Scarcity;9297676;08.02.2024;Automated deployment processes for CI/CD pipeline.;Finn Lehmann;0.06384;0;Sandsturm AG;abgerechnet;00:20
+Fels & Stein GmbH / Rock Mechanics;7543639;20.02.2024;Redesigned landing page for better conversion rates.;Lisa Schulz;0.11299;0.10446;Fels & Stein GmbH;abgerechnet;00:55
+Bergwerk AG / Safety Enhancement;7377446;14.02.2024;Enhanced mobile responsiveness of the website.;Sara Brandt;0.03377;0.02579;Bergwerk AG;abgerechnet;00:15
+Kieselstein GmbH / Urban Planning;8256141;15.02.2024;Implemented user authentication system.;Simon Seidel;0.03287;0.0553;Kieselstein GmbH;abgerechnet;00:52
+Eisberg GmbH / Supply Chain;1851739;05.02.2024;Developed new analytics dashboard for insights.;Emma Hoffmann;0.02698;0.02728;Eisberg GmbH;abgerechnet;00:33
+Sternschuppen AG / Space Exploration;7288762;20.02.2024;Added a new feature to improve user experience.;Ben Richter;0.05024;0.0508;Sternschuppen AG;abgerechnet;00:31
+Feuersturm GmbH / Emergency Planning;4533827;07.02.2024;Upgraded server infrastructure for scalability.;Mia Koch;0.02919;0;Feuersturm GmbH;abgerechnet;00:21
+Hinterland GmbH / Rural Development;6471176;19.02.2024;Conducted performance testing and optimizations.;Noah Schmid;0.07011;0.07337;Hinterland GmbH;abgerechnet;00:10
+Wolkenbruch AG / Cloud Computing;4003296;15.02.2024;Fixed compatibility issues with legacy systems.;Niklas Hahn;0.05871;0.0722;Wolkenbruch AG;abgerechnet;00:21
+Fels & Stein GmbH / Rock Mechanics;3924175;08.02.2024;Implemented caching mechanism for efficiency.;Laura Schwarz;0.20411;0.21482;Fels & Stein GmbH;abgerechnet;01:29
+Kleeblatt AG / Agriculture Innovation;7409131;12.02.2024;Developed prototype for upcoming product launch.;Sophie Schmidt;0.02669;0.0316;Kleeblatt AG;abgerechnet;00:38
+Kleeblatt AG / Crop Management;6864125;08.02.2024;Developed prototype for upcoming product launch.;Julia Weber;0.20393;0;Kleeblatt AG;abgerechnet;00:05
+Feuersturm GmbH / Emergency Planning;6856879;26.02.2024;Upgraded server infrastructure for scalability.;Anna Becker;0.06594;0.06473;Feuersturm GmbH;abgerechnet;00:44
+Schattenspringer AG / Digital Media;2627706;14.02.2024;Fixed compatibility issues with legacy systems.;Lena Krause;0.19621;0.16598;Schattenspringer AG;abgerechnet;01:21
+Wolkenbruch AG / Cloud Computing;2732812;22.02.2024;Automated deployment processes for CI/CD pipeline.;Sophie Schmidt;0.06969;0.05908;Wolkenbruch AG;abgerechnet;00:17
+Fels & Stein GmbH / Mineral Extraction;1608429;14.02.2024;Integrated third-party API for extended functionality.;Olivia Berg;0.03487;0.03718;Fels & Stein GmbH;abgerechnet;00:05
+Glücksklee GmbH / Pharmaceutical Development;3343703;06.02.2024;Conducted performance testing and optimizations.;Olivia Berg;0.18633;0.19243;Glücksklee GmbH;abgerechnet;01:43
+Feuersturm GmbH / Fire Safety;2107149;19.02.2024;Redesigned landing page for better conversion rates.;Lukas Fischer;0.05217;0;Feuersturm GmbH;abgerechnet;00:18
+Lichtblick AG / Solar Panel Tech;3072914;14.02.2024;Developed new analytics dashboard for insights.;Finn Lehmann;0.13689;0.16152;Lichtblick AG;abgerechnet;01:27
+Sturm & Partner / Risk Management;5054787;28.02.2024;Implemented caching mechanism for efficiency.;Jan Kohler;0.17539;0.15074;Sturm & Partner;abgerechnet;01:35
+Wolfsblut GmbH / Veterinary Research;4231054;14.02.2024;Redesigned landing page for better conversion rates.;Liam Scholz;0.10336;0.1477;Wolfsblut GmbH;abgerechnet;01:19
+Hinterland GmbH / Infrastructure;1614226;15.02.2024;Automated deployment processes for CI/CD pipeline.;Lea Schneider;0.14405;0.17624;Hinterland GmbH;abgerechnet;01:22
+Bergwerk AG / Sustainable Resources;5349619;09.02.2024;Developed new analytics dashboard for insights.;Mia Koch;0.0314;0.02562;Bergwerk AG;abgerechnet;00:08
+Morgenstern AG / Green Initiatives;4162243;28.02.2024;Fixed compatibility issues with legacy systems.;Emma Kruger;0.03612;0.05703;Morgenstern AG;abgerechnet;00:31
+Wolkenbruch AG / IT Infrastructure;5727982;19.02.2024;Improved security protocols to protect data.;Jan Kohler;0.02589;0.02613;Wolkenbruch AG;abgerechnet;00:02
+Wunderbar GmbH / Marketing Overhaul;3876464;16.02.2024;Automated deployment processes for CI/CD pipeline.;Lisa Schulz;0.07257;0.05283;Wunderbar GmbH;abgerechnet;00:49
+Kleeblatt AG / Sustainability;9645614;06.02.2024;Automated deployment processes for CI/CD pipeline.;Tim Neumann;0.45507;0.66307;Kleeblatt AG;abgerechnet;05:44
+Wunderbar GmbH / Customer Engagement;1019886;29.02.2024;Implemented caching mechanism for efficiency.;Lena Krause;0.09343;0.10143;Wunderbar GmbH;abgerechnet;00:57
+Seeblick GmbH / Eco-Tourism;9678088;27.02.2024;Fixed compatibility issues with legacy systems.;Laura Schwarz;0.13185;0.12429;Seeblick GmbH;abgerechnet;00:45
+Schattenspringer AG / Film Production;6523650;09.02.2024;Refactored code for better maintainability.;Max Mueller;0.10448;0;Schattenspringer AG;abgerechnet;00:28
+Seeblick GmbH / Eco-Tourism;5319984;27.02.2024;Updated UI for a more modern look.;Lukas Fischer;0.02869;0.03111;Seeblick GmbH;abgerechnet;00:41
+Morgenstern AG / Solar Energy;8325919;06.02.2024;Integrated third-party API for extended functionality.;Noah Schmid;0.08165;0.09281;Morgenstern AG;abgerechnet;01:12
+Himmelsstürmer KG / Pilot Programs;3140072;27.02.2024;Conducted performance testing and optimizations.;Max Mueller;0.03305;0.03239;Himmelsstürmer KG;abgerechnet;00:39
+Kleeblatt AG / Crop Management;4574307;22.02.2024;Integrated third-party API for extended functionality.;Hannah Boehm;0.10309;0.11248;Kleeblatt AG;abgerechnet;00:37
+Blitz & Co KG / Lightning Protection;4444217;27.02.2024;Developed new analytics dashboard for insights.;Paul Bauer;0.0368;0.05314;Blitz & Co KG;abgerechnet;00:02
+Bergwerk AG / Safety Enhancement;5237458;13.02.2024;Improved error handling and logging mechanisms.;Liam Scholz;0.17819;0.14073;Bergwerk AG;abgerechnet;01:32
+Wolkenbruch AG / IT Infrastructure;5808590;22.02.2024;Automated deployment processes for CI/CD pipeline.;Noah Schmid;0.03116;0.03285;Wolkenbruch AG;abgerechnet;00:04
+Wunderbar GmbH / Brand Innovation;7926997;19.02.2024;Improved security protocols to protect data.;Emma Kruger;0.08599;0.23511;Wunderbar GmbH;abgerechnet;01:37
+Weitblick KG / Long-Term Investments;9063763;27.02.2024;Enhanced search functionality with advanced filters.;Tom Braun;0.35466;0;Weitblick KG;abgerechnet;00:29
+Eisberg GmbH / Cold Chain Solutions;4589818;09.02.2024;Optimized database queries for faster load times.;Lukas Fischer;0.02611;0.02755;Eisberg GmbH;geprueft;00:27
+Seeblick GmbH / Hotel Management;4445897;09.02.2024;Implemented caching mechanism for efficiency.;David Meier;0.03567;0.03171;Seeblick GmbH;geprueft;00:10
+Drachenfels GmbH / Fantasy Game Development;6200748;26.02.2024;Redesigned landing page for better conversion rates.;Laura Schwarz;0.05115;0.14293;Drachenfels GmbH;abgerechnet;01:44
+Drachenfels GmbH / Storytelling;2666840;27.02.2024;Upgraded server infrastructure for scalability.;Julia Weber;0.02628;0.02799;Drachenfels GmbH;abgerechnet;00:45
+Eisberg GmbH / Logistics Optimization;1052871;26.02.2024;Optimized database queries for faster load times.;Mia Koch;0.36922;0.46237;Eisberg GmbH;abgerechnet;03:13
+Himmelsstürmer KG / Aircraft Maintenance;1250515;20.02.2024;Upgraded server infrastructure for scalability.;Emma Hoffmann;0.21204;0.23183;Himmelsstürmer KG;abgerechnet;02:18
+Eisberg GmbH / Cold Chain Solutions;2030236;21.02.2024;Improved security protocols to protect data.;Laura Schwarz;0.03259;0.02727;Eisberg GmbH;abgerechnet;00:26
+Sturm & Partner / Market Analysis;6322040;06.02.2024;Enhanced mobile responsiveness of the website.;Jan Kohler;0.02948;0.05539;Sturm & Partner;abgerechnet;00:35
+Adlerflug GmbH / Flight Dynamics;3616877;28.02.2024;Refactored code for better maintainability.;Sara Brandt;0.4138;0.76338;Adlerflug GmbH;abgerechnet;07:03
+Feuersturm GmbH / Fire Safety;4252196;08.02.2024;Improved security protocols to protect data.;David Meier;0.02512;0.02792;Feuersturm GmbH;abgerechnet;00:32
+Kleeblatt AG / Crop Management;7779237;13.02.2024;Enhanced mobile responsiveness of the website.;Ben Richter;0.03073;0.03212;Kleeblatt AG;abgerechnet;00:10
+Blitz & Co KG / Smart Grid;5323884;22.02.2024;Enhanced mobile responsiveness of the website.;Lara Zimmer;0.026;0.03227;Blitz & Co KG;abgerechnet;00:43
+Seeblick GmbH / Hotel Management;5793817;16.02.2024;Integrated third-party API for extended functionality.;Tim Neumann;0.22805;0.23322;Seeblick GmbH;abgerechnet;01:59
+Blitz & Co KG / Lightning Protection;4064054;27.02.2024;Improved security protocols to protect data.;Lena Krause;0.0281;0;Blitz & Co KG;abgerechnet;00:25
+Mondschein KG / Innovation;5823182;21.02.2024;Implemented user authentication system.;Emma Hoffmann;0.06761;0.07429;Mondschein KG;abgerechnet;00:53
+Hinterland GmbH / Infrastructure;6006054;07.02.2024;Optimized database queries for faster load times.;Julia Weber;0.05324;0.13392;Hinterland GmbH;abgerechnet;00:39
+Hinterland GmbH / Infrastructure;4224826;19.02.2024;Fixed compatibility issues with legacy systems.;Tim Neumann;0.11811;0.18082;Hinterland GmbH;abgerechnet;01:38
+Kleeblatt AG / Crop Management;5033654;01.02.2024;Updated UI for a more modern look.;Ben Richter;0.13574;0.12981;Kleeblatt AG;abgerechnet;01:42
+Eisberg GmbH / Cold Chain Solutions;9933143;27.02.2024;Integrated third-party API for extended functionality.;Tom Braun;0.06454;0;Eisberg GmbH;abgerechnet;00:30
+Lichtblick AG / Renewable Energy;5572461;12.02.2024;Integrated third-party API for extended functionality.;Jan Kohler;0.05053;0.06807;Lichtblick AG;abgerechnet;00:54
+Wasserfall AG / Hydropower Development;6599748;22.02.2024;Improved error handling and logging mechanisms.;Noah Schmid;0.33727;0.33533;Wasserfall AG;abgerechnet;02:27
+Fels & Stein GmbH / Rock Mechanics;2412811;13.02.2024;Enhanced mobile responsiveness of the website.;Finn Lehmann;0.1762;0.26026;Fels & Stein GmbH;abgerechnet;01:48
+Fels & Stein GmbH / Mineral Extraction;2886822;01.02.2024;Developed new analytics dashboard for insights.;Clara Klein;0.07442;0.06928;Fels & Stein GmbH;abgerechnet;00:51
+Feuersturm GmbH / Equipment Design;7065332;09.02.2024;Added localization support for multiple languages.;Olivia Berg;0.02583;0;Feuersturm GmbH;abgerechnet;00:26
+Eisberg GmbH / Supply Chain;2627934;15.02.2024;Implemented user authentication system.;Emma Hoffmann;0.03517;0.06084;Eisberg GmbH;abgerechnet;00:25
+Morgenstern AG / Solar Energy;6362136;14.02.2024;Fixed compatibility issues with legacy systems.;Anna Becker;0.07798;0.29759;Morgenstern AG;abgerechnet;01:54
+Glücksklee GmbH / Biotech Research;9746552;14.02.2024;Conducted performance testing and optimizations.;Julia Weber;0.10465;0;Glücksklee GmbH;abgerechnet;00:25
+Weitblick KG / Retirement Planning;4845382;06.02.2024;Refactored code for better maintainability.;Julia Weber;0.03096;0;Weitblick KG;abgerechnet;00:26
+Sandsturm AG / Desert Farming;4112029;20.02.2024;Redesigned landing page for better conversion rates.;David Meier;0.33281;0.23994;Sandsturm AG;abgerechnet;01:47
+Sandsturm AG / Desert Farming;7783250;15.02.2024;Integrated third-party API for extended functionality.;Niklas Hahn;0.26576;0.23084;Sandsturm AG;geprueft;01:59
+Sturm & Partner / Risk Management;3578402;02.02.2024;Refactored code for better maintainability.;Jonas Wagner;0.02786;0.0282;Sturm & Partner;abgerechnet;00:20
+Blitz & Co KG / Electrical Systems;4746173;06.02.2024;Integrated third-party API for extended functionality.;Simon Seidel;0.02678;0.02851;Blitz & Co KG;abgerechnet;00:26
+Bergwerk AG / Safety Enhancement;3990824;01.02.2024;Developed prototype for upcoming product launch.;Sophie Schmidt;0.10864;0.0764;Bergwerk AG;geprueft;00:39
+Bergwerk AG / Safety Enhancement;6334527;02.02.2024;Upgraded server infrastructure for scalability.;Jan Kohler;0.02942;0.03224;Bergwerk AG;abgerechnet;00:30
+Morgenstern AG / Eco-friendly Projects;4769470;15.02.2024;Enhanced mobile responsiveness of the website.;Lukas Fischer;0.12529;0.36388;Morgenstern AG;abgerechnet;02:10
+Feuersturm GmbH / Emergency Planning;3730241;19.02.2024;Developed prototype for upcoming product launch.;Julia Weber;0.70488;1.59132;Feuersturm GmbH;abgerechnet;12:04
+Adlerflug GmbH / Flight Dynamics;4879343;06.02.2024;Implemented user authentication system.;Julia Weber;0.12512;0.11432;Adlerflug GmbH;abgerechnet;00:47
+Bergwerk AG / Sustainable Resources;8738625;07.02.2024;Resolved bug in the payment module.;Julia Weber;0.02722;0.02739;Bergwerk AG;abgerechnet;00:06
+Mondschein KG / Optical Engineering;4433684;13.02.2024;Added a new feature to improve user experience.;Emma Kruger;0.10248;0;Mondschein KG;abgerechnet;00:13
+Wasserfall AG / Water Conservation;4230825;19.02.2024;Implemented caching mechanism for efficiency.;Lena Krause;0.03678;0.05887;Wasserfall AG;abgerechnet;00:52
+Weitblick KG / Retirement Planning;5535773;15.02.2024;Added localization support for multiple languages.;Max Mueller;0;0.02576;Weitblick KG;abgerechnet;00:03
+Himmelsstürmer KG / Aircraft Maintenance;2009616;19.02.2024;Enhanced mobile responsiveness of the website.;Anna Becker;0.0291;0.06032;Himmelsstürmer KG;abgerechnet;00:03
+Sandsturm AG / Desert Farming;6085741;13.02.2024;Upgraded server infrastructure for scalability.;Sophie Schmidt;0.23833;0.52788;Sandsturm AG;abgerechnet;04:31
+Wunderbar GmbH / Customer Engagement;3403709;15.02.2024;Refactored code for better maintainability.;Simon Seidel;0.20447;0.18669;Wunderbar GmbH;abgerechnet;01:52
+Kleeblatt AG / Agriculture Innovation;2565616;07.02.2024;Fixed compatibility issues with legacy systems.;Lisa Schulz;0.60832;0.54228;Kleeblatt AG;abgerechnet;03:55
+Wolfsblut GmbH / Wildlife Conservation;5402478;05.02.2024;Integrated third-party API for extended functionality.;Felix Voigt;0.35674;0.26377;Wolfsblut GmbH;abgerechnet;02:38
+Wildfang AG / Product Innovation;1698825;12.02.2024;Improved security protocols to protect data.;Niklas Hahn;0.15482;0.1653;Wildfang AG;abgerechnet;01:09
+Sternschuppen AG / Space Exploration;5231009;06.02.2024;Integrated third-party API for extended functionality.;Liam Scholz;0.06391;0.05246;Sternschuppen AG;abgerechnet;00:42
+Fels & Stein GmbH / Rock Mechanics;4151799;29.02.2024;Enhanced mobile responsiveness of the website.;Lukas Fischer;0.03155;0.06628;Fels & Stein GmbH;abgerechnet;00:15
+Wunderbar GmbH / Customer Engagement;2325617;02.02.2024;Implemented caching mechanism for efficiency.;Felix Voigt;0.21521;0.28067;Wunderbar GmbH;abgerechnet;02:22
+Sturm & Partner / Financial Strategy;3581340;15.02.2024;Improved error handling and logging mechanisms.;Hannah Boehm;0.06622;0.0552;Sturm & Partner;abgerechnet;00:44
+Wasserfall AG / Hydropower Development;5446885;01.02.2024;Upgraded server infrastructure for scalability.;Liam Scholz;0.66996;0.58645;Wasserfall AG;abgerechnet;05:04
+Sonnenstrahl KG / Energy Efficiency;1398037;22.02.2024;Added a new feature to improve user experience.;Tim Neumann;0.90448;1.39351;Sonnenstrahl KG;abgerechnet;13:45
+Adlerflug GmbH / Aerospace Engineering;8836928;28.02.2024;Improved error handling and logging mechanisms.;Lara Zimmer;0.45497;0.75325;Adlerflug GmbH;abgerechnet;06:56
+Hinterland GmbH / Community Building;4290924;16.02.2024;Developed new analytics dashboard for insights.;Lisa Schulz;0.51778;0.67559;Hinterland GmbH;abgerechnet;04:50
+Silberfuchs GmbH / AI Implementation;9766885;13.02.2024;Automated deployment processes for CI/CD pipeline.;Liam Scholz;0.02976;0.034;Silberfuchs GmbH;abgerechnet;00:13
+Silberfuchs GmbH / AI Implementation;2442799;26.02.2024;Added localization support for multiple languages.;David Meier;0.12987;0.1029;Silberfuchs GmbH;abgerechnet;01:23
+Silberfuchs GmbH / Cybersecurity;5210694;22.02.2024;Implemented caching mechanism for efficiency.;Paul Bauer;0.19719;0.42612;Silberfuchs GmbH;abgerechnet;03:08
+Eisberg GmbH / Cold Chain Solutions;2601738;08.02.2024;Developed new analytics dashboard for insights.;Emma Hoffmann;0.20486;0.3877;Eisberg GmbH;abgerechnet;03:02
+Eisberg GmbH / Cold Chain Solutions;9850463;28.02.2024;Added localization support for multiple languages.;Emma Hoffmann;0.05169;0.12929;Eisberg GmbH;abgerechnet;01:29
+Wasserfall AG / Hydropower Development;5870900;12.02.2024;Updated UI for a more modern look.;Tim Neumann;0.02522;0.03083;Wasserfall AG;abgerechnet;00:02
+Bergwerk AG / Mining Expansion;9452305;15.02.2024;Redesigned landing page for better conversion rates.;Liam Scholz;0.07369;0.07016;Bergwerk AG;abgerechnet;00:50
+Lichtblick AG / Solar Panel Tech;6998928;28.02.2024;Developed prototype for upcoming product launch.;Finn Lehmann;0.06123;0.06685;Lichtblick AG;abgerechnet;00:20
+Sturm & Partner / Risk Management;8983926;02.02.2024;Improved error handling and logging mechanisms.;Tom Braun;0.07731;0.08372;Sturm & Partner;abgerechnet;00:59
+Sandsturm AG / Desert Farming;7772741;29.02.2024;Fixed compatibility issues with legacy systems.;Emma Hoffmann;0.34143;0.31327;Sandsturm AG;abgerechnet;03:00
+Sonnenstrahl KG / Sustainable Solutions;5552545;05.02.2024;Refactored code for better maintainability.;Max Mueller;0.14133;0.1069;Sonnenstrahl KG;abgerechnet;01:04
+Nordlicht KG / Climate Research;9109263;19.02.2024;Integrated third-party API for extended functionality.;Lea Schneider;0.06012;0.05935;Nordlicht KG;abgerechnet;00:41
+Adlerflug GmbH / Aerospace Engineering;9126008;07.02.2024;Automated deployment processes for CI/CD pipeline.;Sophie Schmidt;0.19267;0.16462;Adlerflug GmbH;abgerechnet;01:23
+Blitz & Co KG / Electrical Systems;2979111;20.02.2024;Redesigned landing page for better conversion rates.;Felix Voigt;0.08622;0.10409;Blitz & Co KG;abgerechnet;01:00
+Sandsturm AG / Climate Adaptation;3306104;16.02.2024;Refactored code for better maintainability.;Paul Bauer;0.05133;0.053;Sandsturm AG;abgerechnet;00:51
+Mondschein KG / Optical Engineering;3034862;27.02.2024;Implemented user authentication system.;Finn Lehmann;0.09473;0;Mondschein KG;abgerechnet;00:30
+Wildfang AG / Outdoor Equipment;2396406;09.02.2024;Redesigned landing page for better conversion rates.;Emma Kruger;0.28231;0.35714;Wildfang AG;abgerechnet;02:04
+Sandsturm AG / Water Scarcity;3277317;21.02.2024;Optimized database queries for faster load times.;Laura Schwarz;0.06596;0.07331;Sandsturm AG;abgerechnet;00:32
+Wasserfall AG / Hydropower Development;4786883;16.02.2024;Automated deployment processes for CI/CD pipeline.;Mia Koch;0.12567;0.18072;Wasserfall AG;abgerechnet;01:05
+Morgenstern AG / Green Initiatives;8789410;01.02.2024;Added localization support for multiple languages.;Liam Scholz;0.02799;0.0275;Morgenstern AG;abgerechnet;00:38
+Wunderbar GmbH / Brand Innovation;7578884;07.02.2024;Integrated third-party API for extended functionality.;Emma Hoffmann;0.02665;0.03451;Wunderbar GmbH;abgerechnet;00:02
+Bergwerk AG / Safety Enhancement;4960424;26.02.2024;Integrated third-party API for extended functionality.;Mia Koch;0.05182;0.07229;Bergwerk AG;abgerechnet;00:54
+Drachenfels GmbH / Fantasy Game Development;5655224;06.02.2024;Resolved bug in the payment module.;Lea Schneider;0.06749;0.064;Drachenfels GmbH;abgerechnet;00:10
+Glücksklee GmbH / Pharmaceutical Development;7346407;08.02.2024;Updated UI for a more modern look.;Julia Weber;0.08171;0.09786;Glücksklee GmbH;abgerechnet;01:06
+Sternschuppen AG / Astrophysics;8197881;07.02.2024;Developed new analytics dashboard for insights.;Jan Kohler;0.02524;0.02746;Sternschuppen AG;abgerechnet;00:30
+Funkeln & Glanz KG / Retail Expansion;9726341;19.02.2024;Resolved bug in the payment module.;Tim Neumann;0.05121;0;Funkeln & Glanz KG;abgerechnet;00:28
+Morgenstern AG / Eco-friendly Projects;3639271;12.02.2024;Conducted performance testing and optimizations.;Clara Klein;0.03245;0.03403;Morgenstern AG;abgerechnet;00:33
+Mondschein KG / Optical Engineering;3675896;01.02.2024;Improved error handling and logging mechanisms.;Olivia Berg;0.31186;0.6816;Mondschein KG;abgerechnet;06:38
+Glücksklee GmbH / Biotech Research;7983097;13.02.2024;Upgraded server infrastructure for scalability.;David Meier;0.20142;0.21025;Glücksklee GmbH;abgerechnet;01:24
+Adlerflug GmbH / Flight Dynamics;6719531;08.02.2024;Implemented caching mechanism for efficiency.;Lukas Fischer;0.06773;0.0545;Adlerflug GmbH;abgerechnet;00:12
+Wunderbar GmbH / Brand Innovation;6338648;15.02.2024;Upgraded server infrastructure for scalability.;Lena Krause;0.03377;0.02828;Wunderbar GmbH;abgerechnet;00:37
+Lichtblick AG / Environmental Impact;7011523;29.02.2024;Upgraded server infrastructure for scalability.;Simon Seidel;0.05922;0.05625;Lichtblick AG;abgerechnet;00:38
+Adlerflug GmbH / Flight Dynamics;4503405;29.02.2024;Improved error handling and logging mechanisms.;Emma Hoffmann;0.05643;0;Adlerflug GmbH;abgerechnet;00:16
+Wolfsblut GmbH / Zoology;3160491;27.02.2024;Implemented caching mechanism for efficiency.;David Meier;0.07366;0.17814;Wolfsblut GmbH;abgerechnet;00:49
+Blitz & Co KG / Lightning Protection;8144041;05.02.2024;Developed new analytics dashboard for insights.;Tom Braun;0.03519;0.03661;Blitz & Co KG;abgerechnet;00:30
+Wasserfall AG / Eco-friendly Solutions;5251982;08.02.2024;Added localization support for multiple languages.;Anna Becker;0.05501;0.05844;Wasserfall AG;abgerechnet;00:53
+Sonnenstrahl KG / Lighting Design;6209177;14.02.2024;Optimized database queries for faster load times.;Finn Lehmann;0.0878;0.20236;Sonnenstrahl KG;abgerechnet;01:35
+Blitz & Co KG / Lightning Protection;1138042;14.02.2024;Automated deployment processes for CI/CD pipeline.;Emma Kruger;0.2072;0;Blitz & Co KG;abgerechnet;00:08
+Silberfuchs GmbH / Cybersecurity;2614398;29.02.2024;Updated UI for a more modern look.;Jonas Wagner;0.02614;0.03538;Silberfuchs GmbH;abgerechnet;00:20
+Wolkenbruch AG / Data Security;2057284;13.02.2024;Improved error handling and logging mechanisms.;Lisa Schulz;0.03363;0.05626;Wolkenbruch AG;abgerechnet;00:22
+Nordlicht KG / Renewable Energy;3465276;15.02.2024;Improved security protocols to protect data.;Liam Scholz;0.03178;0;Nordlicht KG;abgerechnet;00:17
+Blitz & Co KG / Lightning Protection;7514052;27.02.2024;Updated UI for a more modern look.;Felix Voigt;0.0657;0.17443;Blitz & Co KG;abgerechnet;01:21
+Wildfang AG / Adventure Gear;6663230;22.02.2024;Improved security protocols to protect data.;Lisa Schulz;0.02926;0.03714;Wildfang AG;abgerechnet;00:09
+Eisberg GmbH / Cold Chain Solutions;6246138;21.02.2024;Resolved bug in the payment module.;Tim Neumann;0.12875;0.36377;Eisberg GmbH;abgerechnet;02:06
+Morgenstern AG / Eco-friendly Projects;9798107;01.02.2024;Conducted performance testing and optimizations.;Tom Braun;0.02622;0;Morgenstern AG;abgerechnet;00:26
+Weitblick KG / Wealth Management;1717292;28.02.2024;Optimized database queries for faster load times.;Emma Kruger;0.02544;0.02661;Weitblick KG;abgerechnet;00:27
+Sturm & Partner / Market Analysis;5006418;15.02.2024;Upgraded server infrastructure for scalability.;Sophie Schmidt;0.14316;0.25836;Sturm & Partner;abgerechnet;02:44
+Wasserfall AG / Water Conservation;6455056;29.02.2024;Added localization support for multiple languages.;Paul Bauer;0.0564;0.05024;Wasserfall AG;abgerechnet;00:46
+Funkeln & Glanz KG / Luxury Goods;5812883;13.02.2024;Integrated third-party API for extended functionality.;Clara Klein;0.06026;0.07236;Funkeln & Glanz KG;geprueft;00:24
+Drachenfels GmbH / Virtual Reality;4342635;22.02.2024;Updated UI for a more modern look.;Mia Koch;0.03518;0.07173;Drachenfels GmbH;abgerechnet;00:17
+Lichtblick AG / Renewable Energy;5861349;27.02.2024;Conducted performance testing and optimizations.;Laura Schwarz;0.03211;0.02628;Lichtblick AG;abgerechnet;00:14
+Drachenfels GmbH / Storytelling;9897612;07.02.2024;Developed prototype for upcoming product launch.;Clara Klein;0.22315;0;Drachenfels GmbH;abgerechnet;00:14
+Glücksklee GmbH / Health Solutions;3674578;20.02.2024;Redesigned landing page for better conversion rates.;Julia Weber;0.03688;0.03549;Glücksklee GmbH;abgerechnet;00:27
+Blitz & Co KG / Smart Grid;5355345;23.02.2024;Enhanced mobile responsiveness of the website.;David Meier;0.1555;0.35889;Blitz & Co KG;abgerechnet;02:33
+Hinterland GmbH / Rural Development;9321844;21.02.2024;Enhanced mobile responsiveness of the website.;Tom Braun;0.05836;0;Hinterland GmbH;abgerechnet;00:23
+Fels & Stein GmbH / Rock Mechanics;1403081;06.02.2024;Developed new analytics dashboard for insights.;Lukas Fischer;0.09064;0.08645;Fels & Stein GmbH;abgerechnet;01:07
+Drachenfels GmbH / Virtual Reality;4361142;15.02.2024;Conducted performance testing and optimizations.;Lukas Fischer;0.03196;0.05793;Drachenfels GmbH;abgerechnet;00:28
+Schattenspringer AG / Film Production;2006391;15.02.2024;Automated deployment processes for CI/CD pipeline.;Laura Schwarz;0.03392;0.0722;Schattenspringer AG;abgerechnet;00:33
+Sturm & Partner / Financial Strategy;7229184;02.02.2024;Optimized database queries for faster load times.;Clara Klein;0.20531;0.21015;Sturm & Partner;abgerechnet;01:53
+Hinterland GmbH / Infrastructure;5869691;20.02.2024;Upgraded server infrastructure for scalability.;Ben Richter;0.0661;0.17603;Hinterland GmbH;abgerechnet;01:13
+Fels & Stein GmbH / Rock Mechanics;5738961;09.02.2024;Added a new feature to improve user experience.;Felix Voigt;0.1527;0.15609;Fels & Stein GmbH;geprueft;00:59
+Kleeblatt AG / Crop Management;2819518;14.02.2024;Optimized database queries for faster load times.;Paul Bauer;0.03338;0.02953;Kleeblatt AG;abgerechnet;00:11
+Hinterland GmbH / Infrastructure;1304923;16.02.2024;Upgraded server infrastructure for scalability.;Lukas Fischer;0.03082;0.03037;Hinterland GmbH;abgerechnet;00:04
+Sternschuppen AG / Space Exploration;6759077;28.02.2024;Improved security protocols to protect data.;Paul Bauer;0.09974;0.22495;Sternschuppen AG;abgerechnet;01:21
+Glücksklee GmbH / Health Solutions;5208589;13.02.2024;Automated deployment processes for CI/CD pipeline.;Sophie Schmidt;0.16011;0.19456;Glücksklee GmbH;abgerechnet;01:22
+Glücksklee GmbH / Biotech Research;1929573;02.02.2024;Improved error handling and logging mechanisms.;Julia Weber;0.0643;0.06093;Glücksklee GmbH;geprueft;00:46
+Drachenfels GmbH / Storytelling;7814453;16.02.2024;Fixed compatibility issues with legacy systems.;Max Mueller;0.18661;0.23183;Drachenfels GmbH;abgerechnet;01:49
+Eisberg GmbH / Cold Chain Solutions;2209612;13.02.2024;Automated deployment processes for CI/CD pipeline.;Finn Lehmann;0.06902;0;Eisberg GmbH;abgerechnet;00:16
+Fels & Stein GmbH / Mineral Extraction;7446182;28.02.2024;Automated deployment processes for CI/CD pipeline.;Tom Braun;0.02982;0.03509;Fels & Stein GmbH;abgerechnet;00:28
+Kieselstein GmbH / Urban Planning;8546468;14.02.2024;Automated deployment processes for CI/CD pipeline.;Emma Hoffmann;0.075;0.06991;Kieselstein GmbH;abgerechnet;00:35
+Wunderbar GmbH / Marketing Overhaul;1040073;27.02.2024;Added localization support for multiple languages.;Finn Lehmann;0.03417;0.034;Wunderbar GmbH;abgerechnet;00:33
+Wasserfall AG / Hydropower Development;8160459;07.02.2024;Added localization support for multiple languages.;Max Mueller;0.03143;0.02922;Wasserfall AG;abgerechnet;00:38
+Sandsturm AG / Water Scarcity;8160262;29.02.2024;Improved error handling and logging mechanisms.;Liam Scholz;0.05405;0.12807;Sandsturm AG;abgerechnet;01:17
+Sonnenstrahl KG / Lighting Design;1719852;19.02.2024;Enhanced search functionality with advanced filters.;Finn Lehmann;0.18742;0;Sonnenstrahl KG;abgerechnet;00:10
+Feuersturm GmbH / Fire Safety;9462419;21.02.2024;Redesigned landing page for better conversion rates.;Julia Weber;0.91437;1.9355;Feuersturm GmbH;abgerechnet;15:13
+Sonnenstrahl KG / Lighting Design;3668877;21.02.2024;Added a new feature to improve user experience.;Max Mueller;0.03013;0.03077;Sonnenstrahl KG;abgerechnet;00:22
+Sonnenstrahl KG / Sustainable Solutions;5346318;02.02.2024;Enhanced mobile responsiveness of the website.;Emma Hoffmann;0.03686;0;Sonnenstrahl KG;abgerechnet;00:01
+Adlerflug GmbH / Aerospace Engineering;7350948;06.02.2024;Refactored code for better maintainability.;Lea Schneider;0.06654;0.05452;Adlerflug GmbH;abgerechnet;01:00
+Seeblick GmbH / Tourism Development;7602417;22.02.2024;Developed prototype for upcoming product launch.;Tim Neumann;0.02717;0;Seeblick GmbH;abgerechnet;00:05
+Schattenspringer AG / Film Production;3116238;12.02.2024;Implemented caching mechanism for efficiency.;Tim Neumann;0.02971;0.07092;Schattenspringer AG;abgerechnet;00:41
+Sandsturm AG / Desert Farming;6081204;28.02.2024;Optimized database queries for faster load times.;Felix Voigt;0.03676;0.02842;Sandsturm AG;abgerechnet;00:40
+Funkeln & Glanz KG / Luxury Goods;7997443;21.02.2024;Improved security protocols to protect data.;Laura Schwarz;0.31763;0.32512;Funkeln & Glanz KG;abgerechnet;03:05
+Schattenspringer AG / Entertainment Ventures;9294068;19.02.2024;Refactored code for better maintainability.;Tom Braun;0.03374;0.02941;Schattenspringer AG;abgerechnet;00:09
+Adlerflug GmbH / Flight Dynamics;4022813;08.02.2024;Added a new feature to improve user experience.;Anna Becker;0.03192;0;Adlerflug GmbH;abgerechnet;00:03
+Mondschein KG / Innovation;5919774;27.02.2024;Improved security protocols to protect data.;Lukas Fischer;0.10543;0.25442;Mondschein KG;abgerechnet;01:25
+Wolkenbruch AG / IT Infrastructure;3432941;26.02.2024;Fixed compatibility issues with legacy systems.;Simon Seidel;0.89737;0.82044;Wolkenbruch AG;abgerechnet;06:29
+Blitz & Co KG / Electrical Systems;7824544;06.02.2024;Updated UI for a more modern look.;Liam Scholz;0.02899;0.037;Blitz & Co KG;abgerechnet;00:06
+Silberfuchs GmbH / AI Implementation;4227374;02.02.2024;Developed new analytics dashboard for insights.;Simon Seidel;0.09964;0;Silberfuchs GmbH;abgerechnet;00:28
+Fels & Stein GmbH / Geological Surveys;7620229;16.02.2024;Added a new feature to improve user experience.;Sophie Schmidt;0.03542;0.03341;Fels & Stein GmbH;abgerechnet;00:21
+Seeblick GmbH / Eco-Tourism;3992394;02.02.2024;Developed new analytics dashboard for insights.;Tim Neumann;0.26921;0.59927;Seeblick GmbH;abgerechnet;04:40
+Weitblick KG / Retirement Planning;9430154;07.02.2024;Automated deployment processes for CI/CD pipeline.;Julia Weber;0.03473;0.03737;Weitblick KG;abgerechnet;00:16
+Himmelsstürmer KG / Aviation Training;2212899;12.02.2024;Upgraded server infrastructure for scalability.;Ben Richter;0.18123;0.24061;Himmelsstürmer KG;abgerechnet;02:02
+Lichtblick AG / Renewable Energy;4354078;15.02.2024;Integrated third-party API for extended functionality.;Finn Lehmann;0.15433;0.42708;Lichtblick AG;abgerechnet;03:20
+Wasserfall AG / Water Conservation;9218730;15.02.2024;Improved security protocols to protect data.;Emma Kruger;0.08954;0.0999;Wasserfall AG;abgerechnet;00:35
+Lichtblick AG / Renewable Energy;2552705;21.02.2024;Enhanced search functionality with advanced filters.;Liam Scholz;0.03744;0;Lichtblick AG;abgerechnet;00:24
+Wolkenbruch AG / Data Security;5174957;23.02.2024;Improved security protocols to protect data.;Liam Scholz;0.26472;0.91979;Wolkenbruch AG;abgerechnet;06:01
+Lichtblick AG / Renewable Energy;5263597;12.02.2024;Added a new feature to improve user experience.;Niklas Hahn;0.03243;0.03601;Lichtblick AG;abgerechnet;00:10
+Silberfuchs GmbH / Technology R&D;8782926;27.02.2024;Upgraded server infrastructure for scalability.;Lena Krause;0.05591;0.1681;Silberfuchs GmbH;abgerechnet;00:54
+Eisberg GmbH / Supply Chain;6009614;22.02.2024;Updated UI for a more modern look.;Sara Brandt;0.05883;0.06727;Eisberg GmbH;abgerechnet;00:43
+Kleeblatt AG / Agriculture Innovation;5322630;13.02.2024;Enhanced mobile responsiveness of the website.;Mia Koch;0.06236;0.0559;Kleeblatt AG;abgerechnet;00:12
+Fels & Stein GmbH / Rock Mechanics;9594443;29.02.2024;Fixed compatibility issues with legacy systems.;Jan Kohler;0.08986;0.10489;Fels & Stein GmbH;abgerechnet;00:37
+Seeblick GmbH / Hotel Management;1993502;13.02.2024;Enhanced mobile responsiveness of the website.;Clara Klein;0.03229;0;Seeblick GmbH;abgerechnet;00:11
+Sturm & Partner / Financial Strategy;5058361;28.02.2024;Upgraded server infrastructure for scalability.;Liam Scholz;0.03423;0.06288;Sturm & Partner;abgerechnet;00:46
+Wasserfall AG / Water Conservation;1934304;05.02.2024;Improved security protocols to protect data.;Max Mueller;0.07303;0;Wasserfall AG;abgerechnet;00:13
+Mondschein KG / Night Vision Tech;6118121;13.02.2024;Added localization support for multiple languages.;Clara Klein;0.06334;0.06241;Mondschein KG;abgerechnet;00:07
+Schattenspringer AG / Digital Media;3093369;05.02.2024;Integrated third-party API for extended functionality.;Simon Seidel;0.06898;0.05424;Schattenspringer AG;abgerechnet;00:58
+Sturm & Partner / Financial Strategy;6128659;08.02.2024;Added localization support for multiple languages.;Lea Schneider;0.13832;0;Sturm & Partner;abgerechnet;00:11
+Glücksklee GmbH / Health Solutions;3623452;05.02.2024;Improved security protocols to protect data.;Lara Zimmer;0.02628;0.03665;Glücksklee GmbH;abgerechnet;00:17
+Sandsturm AG / Climate Adaptation;9242608;01.02.2024;Redesigned landing page for better conversion rates.;Niklas Hahn;0.12997;0.14985;Sandsturm AG;abgerechnet;01:28
+Drachenfels GmbH / Storytelling;9429625;08.02.2024;Resolved bug in the payment module.;Sophie Schmidt;0.074;0.15828;Drachenfels GmbH;abgerechnet;00:55
+Fels & Stein GmbH / Rock Mechanics;2710931;15.02.2024;Enhanced search functionality with advanced filters.;Sara Brandt;0.05142;0.07085;Fels & Stein GmbH;abgerechnet;00:51
+Bergwerk AG / Mining Expansion;4675154;02.02.2024;Added a new feature to improve user experience.;Liam Scholz;0.24551;0.50276;Bergwerk AG;abgerechnet;05:06
+Wildfang AG / Product Innovation;4929641;14.02.2024;Automated deployment processes for CI/CD pipeline.;Finn Lehmann;0.03276;0.07496;Wildfang AG;abgerechnet;00:18
+Sturm & Partner / Market Analysis;1386968;29.02.2024;Developed prototype for upcoming product launch.;Olivia Berg;0.33491;0.61178;Sturm & Partner;abgerechnet;05:38
+Sonnenstrahl KG / Energy Efficiency;5381097;12.02.2024;Automated deployment processes for CI/CD pipeline.;Paul Bauer;0.02561;0.02931;Sonnenstrahl KG;abgerechnet;00:14
+Wildfang AG / Outdoor Equipment;2524120;12.02.2024;Improved error handling and logging mechanisms.;Tim Neumann;0.02734;0.03222;Wildfang AG;abgerechnet;00:06
+Hinterland GmbH / Community Building;5416385;07.02.2024;Conducted performance testing and optimizations.;Noah Schmid;0.03128;0.02777;Hinterland GmbH;abgerechnet;00:39
+Sternschuppen AG / Astrophysics;6129227;20.02.2024;Improved error handling and logging mechanisms.;Paul Bauer;0.02903;0;Sternschuppen AG;abgerechnet;00:12
+Hinterland GmbH / Rural Development;7607783;27.02.2024;Improved security protocols to protect data.;Lara Zimmer;0.03726;0;Hinterland GmbH;abgerechnet;00:05
+Mondschein KG / Innovation;3587837;01.02.2024;Enhanced search functionality with advanced filters.;Tom Braun;0.15669;0;Mondschein KG;abgerechnet;00:17
+Sternschuppen AG / Space Exploration;8745853;05.02.2024;Developed new analytics dashboard for insights.;Tom Braun;0.19363;0.2042;Sternschuppen AG;abgerechnet;01:53
+Wunderbar GmbH / Brand Innovation;8233414;13.02.2024;Optimized database queries for faster load times.;Felix Voigt;0.18299;0.17623;Wunderbar GmbH;abgerechnet;01:32
+Hinterland GmbH / Community Building;7353799;27.02.2024;Enhanced search functionality with advanced filters.;Finn Lehmann;0.49843;0.57199;Hinterland GmbH;abgerechnet;04:37
+Adlerflug GmbH / Aerospace Engineering;1662630;10.02.2024;Fixed compatibility issues with legacy systems.;Lisa Schulz;0.92158;2.71151;Adlerflug GmbH;abgerechnet;26:16:00
+Schattenspringer AG / Digital Media;6504609;06.02.2024;Enhanced mobile responsiveness of the website.;Lukas Fischer;0.03268;0.03005;Schattenspringer AG;abgerechnet;00:26
+Bergwerk AG / Safety Enhancement;1043486;07.02.2024;Optimized database queries for faster load times.;Simon Seidel;0.05207;0;Bergwerk AG;abgerechnet;00:28
+Schattenspringer AG / Film Production;6496681;20.02.2024;Fixed compatibility issues with legacy systems.;Ben Richter;0.05524;0.05737;Schattenspringer AG;abgerechnet;00:26
+Sturm & Partner / Market Analysis;2251533;15.02.2024;Resolved bug in the payment module.;Julia Weber;0.06299;0.13019;Sturm & Partner;abgerechnet;01:20
+Wolkenbruch AG / Cloud Computing;4226236;06.02.2024;Implemented user authentication system.;David Meier;0.18914;0.23068;Wolkenbruch AG;abgerechnet;02:29
+Kleeblatt AG / Sustainability;5660862;16.02.2024;Added localization support for multiple languages.;Clara Klein;0.02722;0.02931;Kleeblatt AG;abgerechnet;00:33
+Wunderbar GmbH / Marketing Overhaul;4011497;09.02.2024;Added a new feature to improve user experience.;David Meier;0.03353;0.03105;Wunderbar GmbH;abgerechnet;00:16
+Feuersturm GmbH / Equipment Design;1485551;28.02.2024;Integrated third-party API for extended functionality.;Mia Koch;0.03381;0.03442;Feuersturm GmbH;abgerechnet;00:35
+Sonnenstrahl KG / Energy Efficiency;9180548;13.02.2024;Added a new feature to improve user experience.;Finn Lehmann;0.02876;0.03143;Sonnenstrahl KG;abgerechnet;00:06
+Wasserfall AG / Eco-friendly Solutions;5646103;13.02.2024;Updated UI for a more modern look.;Sara Brandt;0.02513;0.02609;Wasserfall AG;abgerechnet;00:32
+Schattenspringer AG / Digital Media;8057387;21.02.2024;Integrated third-party API for extended functionality.;Lara Zimmer;0.0313;0.03695;Schattenspringer AG;abgerechnet;00:01
+Kieselstein GmbH / Architectural Design;2027431;29.02.2024;Implemented caching mechanism for efficiency.;David Meier;0.06862;0.05503;Kieselstein GmbH;abgerechnet;00:01
+Kleeblatt AG / Crop Management;9364909;12.02.2024;Resolved bug in the payment module.;Jan Kohler;0.25338;0.38327;Kleeblatt AG;abgerechnet;03:26
+Feuersturm GmbH / Emergency Planning;8793844;15.02.2024;Enhanced search functionality with advanced filters.;Ben Richter;0.06657;0.06259;Feuersturm GmbH;abgerechnet;00:38
+Mondschein KG / Innovation;4561370;01.02.2024;Redesigned landing page for better conversion rates.;Tim Neumann;0.09602;0.11242;Mondschein KG;abgerechnet;00:56
+Nordlicht KG / Climate Research;9875604;05.02.2024;Added localization support for multiple languages.;Julia Weber;0.25491;0.32025;Nordlicht KG;abgerechnet;02:30
+Himmelsstürmer KG / Aircraft Maintenance;8122085;20.02.2024;Redesigned landing page for better conversion rates.;Felix Voigt;0.08685;0.09549;Himmelsstürmer KG;abgerechnet;01:02
+Wildfang AG / Product Innovation;6352441;15.02.2024;Improved security protocols to protect data.;Liam Scholz;0.02747;0.06361;Wildfang AG;abgerechnet;00:14
+Lichtblick AG / Renewable Energy;9262603;26.02.2024;Improved security protocols to protect data.;Sophie Schmidt;0.0289;0.02498;Lichtblick AG;abgerechnet;00:36
+Nordlicht KG / Renewable Energy;2688764;06.02.2024;Resolved bug in the payment module.;David Meier;0.20246;0;Nordlicht KG;abgerechnet;00:12
+Funkeln & Glanz KG / Jewelry Design;9251659;02.02.2024;Developed new analytics dashboard for insights.;Lena Krause;0.25201;0.25174;Funkeln & Glanz KG;abgerechnet;01:42
+Kieselstein GmbH / Architectural Design;2738458;23.02.2024;Developed prototype for upcoming product launch.;Anna Becker;0.2065;0;Kieselstein GmbH;abgerechnet;00:25
+Feuersturm GmbH / Emergency Planning;8192376;02.02.2024;Added a new feature to improve user experience.;Clara Klein;0.16226;0.45529;Feuersturm GmbH;abgerechnet;04:09
+Seeblick GmbH / Hotel Management;2156014;05.02.2024;Optimized database queries for faster load times.;Hannah Boehm;0.03405;0;Seeblick GmbH;abgerechnet;00:17
+Himmelsstürmer KG / Aircraft Maintenance;2132234;16.02.2024;Developed new analytics dashboard for insights.;Emma Hoffmann;0.02771;0.07087;Himmelsstürmer KG;abgerechnet;00:40
+Wolfsblut GmbH / Zoology;3017292;28.02.2024;Implemented user authentication system.;Max Mueller;0.09448;0.10636;Wolfsblut GmbH;abgerechnet;00:27
+Kleeblatt AG / Agriculture Innovation;8925034;08.02.2024;Added a new feature to improve user experience.;Ben Richter;0.02956;0.03451;Kleeblatt AG;abgerechnet;00:02
+Kieselstein GmbH / Construction Innovation;7627220;27.02.2024;Automated deployment processes for CI/CD pipeline.;Tim Neumann;0.18892;0;Kieselstein GmbH;abgerechnet;00:07
+Sandsturm AG / Climate Adaptation;4712196;19.02.2024;Implemented caching mechanism for efficiency.;Mia Koch;0.03604;0.03442;Sandsturm AG;abgerechnet;00:31
+Seeblick GmbH / Hotel Management;7222017;27.02.2024;Enhanced mobile responsiveness of the website.;Finn Lehmann;0.24847;0.27029;Seeblick GmbH;abgerechnet;02:08
+Drachenfels GmbH / Virtual Reality;4548103;09.02.2024;Implemented user authentication system.;Finn Lehmann;0.02728;0.03373;Drachenfels GmbH;abgerechnet;00:09
+Seeblick GmbH / Hotel Management;9462055;12.02.2024;Conducted performance testing and optimizations.;Olivia Berg;0.13769;0.14353;Seeblick GmbH;abgerechnet;01:21
+Seeblick GmbH / Hotel Management;6594527;28.02.2024;Developed prototype for upcoming product launch.;Mia Koch;0.13996;0.33354;Seeblick GmbH;abgerechnet;02:05
+Sternschuppen AG / Satellite Technology;7246667;12.02.2024;Developed new analytics dashboard for insights.;Finn Lehmann;0.19224;0.41812;Sternschuppen AG;abgerechnet;04:13
+Adlerflug GmbH / Flight Dynamics;1116155;20.02.2024;Improved security protocols to protect data.;Clara Klein;0.15966;0.49989;Adlerflug GmbH;abgerechnet;03:25
+Adlerflug GmbH / Aerospace Engineering;3387012;26.02.2024;Redesigned landing page for better conversion rates.;David Meier;0.03554;0.03536;Adlerflug GmbH;abgerechnet;00:18
+Mondschein KG / Innovation;4175771;16.02.2024;Enhanced mobile responsiveness of the website.;Noah Schmid;0.02611;0.03706;Mondschein KG;abgerechnet;00:13
+Morgenstern AG / Green Initiatives;1505799;15.02.2024;Added a new feature to improve user experience.;Hannah Boehm;0.02694;0.03043;Morgenstern AG;abgerechnet;00:12
+Hinterland GmbH / Rural Development;8952151;14.02.2024;Redesigned landing page for better conversion rates.;Clara Klein;0.27363;0.26326;Hinterland GmbH;abgerechnet;02:00
+Kleeblatt AG / Agriculture Innovation;2106242;02.02.2024;Developed prototype for upcoming product launch.;Jonas Wagner;0.4389;0.65204;Kleeblatt AG;abgerechnet;05:05
+Weitblick KG / Retirement Planning;6139879;08.02.2024;Updated UI for a more modern look.;Simon Seidel;0.26101;0.30039;Weitblick KG;abgerechnet;01:51
+Sandsturm AG / Climate Adaptation;3845189;29.02.2024;Redesigned landing page for better conversion rates.;Clara Klein;0.20077;0.21807;Sandsturm AG;abgerechnet;01:44
+Schattenspringer AG / Digital Media;7241138;27.02.2024;Conducted performance testing and optimizations.;Emma Kruger;0.40288;0.32966;Schattenspringer AG;abgerechnet;03:29
+Kleeblatt AG / Crop Management;9317724;01.02.2024;Enhanced mobile responsiveness of the website.;Laura Schwarz;0.02774;0.03283;Kleeblatt AG;abgerechnet;00:35
+Adlerflug GmbH / Aerospace Engineering;8917101;19.02.2024;Improved security protocols to protect data.;Lisa Schulz;0.03455;0.05068;Adlerflug GmbH;abgerechnet;00:41
+Blitz & Co KG / Lightning Protection;5475937;01.02.2024;Refactored code for better maintainability.;Emma Hoffmann;0.03675;0;Blitz & Co KG;abgerechnet;00:29
+Silberfuchs GmbH / Technology R&D;7439013;28.02.2024;Implemented caching mechanism for efficiency.;Paul Bauer;0.10557;0.1315;Silberfuchs GmbH;abgerechnet;01:00
+Mondschein KG / Night Vision Tech;4344215;22.02.2024;Updated UI for a more modern look.;Laura Schwarz;0.07361;0.05859;Mondschein KG;abgerechnet;00:48
+Wolkenbruch AG / Cloud Computing;1330146;28.02.2024;Refactored code for better maintainability.;Lena Krause;0.17799;0.3426;Wolkenbruch AG;abgerechnet;02:24
+Morgenstern AG / Solar Energy;4436836;05.02.2024;Added localization support for multiple languages.;Lara Zimmer;0.03687;0.03462;Morgenstern AG;abgerechnet;00:11
+Drachenfels GmbH / Storytelling;7732596;22.02.2024;Improved security protocols to protect data.;Lea Schneider;0.05683;0;Drachenfels GmbH;abgerechnet;00:30
+Sonnenstrahl KG / Lighting Design;7169493;21.02.2024;Developed prototype for upcoming product launch.;Emma Hoffmann;0.14725;0.18532;Sonnenstrahl KG;abgerechnet;00:45
+Blitz & Co KG / Electrical Systems;3641377;21.02.2024;Developed prototype for upcoming product launch.;Lea Schneider;0.026;0;Blitz & Co KG;abgerechnet;00:00
+Wolfsblut GmbH / Zoology;6089221;27.02.2024;Refactored code for better maintainability.;David Meier;0.0348;0.06558;Wolfsblut GmbH;abgerechnet;00:49
+Sternschuppen AG / Satellite Technology;6311039;12.02.2024;Developed new analytics dashboard for insights.;Anna Becker;0.17638;0.16419;Sternschuppen AG;abgerechnet;01:46
+Kleeblatt AG / Crop Management;2585450;26.02.2024;Conducted performance testing and optimizations.;Liam Scholz;0.03513;0.08533;Kleeblatt AG;abgerechnet;00:40
+Bergwerk AG / Sustainable Resources;5652814;15.02.2024;Implemented caching mechanism for efficiency.;Tim Neumann;0.03675;0.03728;Bergwerk AG;abgerechnet;00:18
+Sternschuppen AG / Astrophysics;6265289;27.02.2024;Automated deployment processes for CI/CD pipeline.;Noah Schmid;0.05699;0.17285;Sternschuppen AG;abgerechnet;01:44
+Bergwerk AG / Sustainable Resources;3258524;08.02.2024;Implemented user authentication system.;Tom Braun;0.06711;0.07275;Bergwerk AG;abgerechnet;00:11
+Morgenstern AG / Solar Energy;8377722;16.02.2024;Implemented caching mechanism for efficiency.;Lukas Fischer;0.02754;0.0253;Morgenstern AG;abgerechnet;00:43
+Funkeln & Glanz KG / Retail Expansion;7739931;05.02.2024;Upgraded server infrastructure for scalability.;Liam Scholz;0.10642;0.1417;Funkeln & Glanz KG;abgerechnet;01:13
+Sonnenstrahl KG / Lighting Design;8032509;08.02.2024;Conducted performance testing and optimizations.;Julia Weber;0.13413;0.1184;Sonnenstrahl KG;abgerechnet;00:52
+Bergwerk AG / Safety Enhancement;4506445;19.02.2024;Added a new feature to improve user experience.;Hannah Boehm;0.0632;0.05449;Bergwerk AG;abgerechnet;00:15
+Nordlicht KG / Arctic Exploration;7837086;08.02.2024;Resolved bug in the payment module.;Tom Braun;0.02709;0.02653;Nordlicht KG;abgerechnet;00:37
+Sturm & Partner / Financial Strategy;2034124;19.02.2024;Automated deployment processes for CI/CD pipeline.;Tom Braun;0.02938;0.07366;Sturm & Partner;abgerechnet;00:38
+Mondschein KG / Optical Engineering;2069427;22.02.2024;Conducted performance testing and optimizations.;Sara Brandt;0.03659;0.03473;Mondschein KG;abgerechnet;00:01
+Seeblick GmbH / Eco-Tourism;7463947;16.02.2024;Automated deployment processes for CI/CD pipeline.;Emma Kruger;0.23831;0.58489;Seeblick GmbH;abgerechnet;05:30
+Wolkenbruch AG / IT Infrastructure;8436630;08.02.2024;Optimized database queries for faster load times.;Simon Seidel;0.03248;0.05696;Wolkenbruch AG;abgerechnet;00:34
+Nordlicht KG / Climate Research;8676132;26.02.2024;Implemented caching mechanism for efficiency.;Laura Schwarz;0.07229;0;Nordlicht KG;abgerechnet;00:07
+Morgenstern AG / Green Initiatives;8844298;01.02.2024;Updated UI for a more modern look.;Emma Hoffmann;0.15954;0;Morgenstern AG;geprueft;00:30
+Sandsturm AG / Desert Farming;1133386;12.02.2024;Redesigned landing page for better conversion rates.;Tim Neumann;0.08071;0.08707;Sandsturm AG;abgerechnet;00:17
+Fels & Stein GmbH / Mineral Extraction;7549837;21.02.2024;Implemented user authentication system.;Lea Schneider;0.23224;0.65661;Fels & Stein GmbH;abgerechnet;04:32
+Funkeln & Glanz KG / Jewelry Design;9802136;07.02.2024;Upgraded server infrastructure for scalability.;Jan Kohler;0.06321;0.06653;Funkeln & Glanz KG;abgerechnet;00:16
+Sturm & Partner / Financial Strategy;6556676;14.02.2024;Refactored code for better maintainability.;David Meier;0.03474;0.05479;Sturm & Partner;abgerechnet;00:15
+Kieselstein GmbH / Construction Innovation;2902998;15.02.2024;Integrated third-party API for extended functionality.;Lara Zimmer;0.02793;0.03649;Kieselstein GmbH;abgerechnet;00:13
+Funkeln & Glanz KG / Luxury Goods;2720651;19.02.2024;Enhanced mobile responsiveness of the website.;Tim Neumann;0.13824;0.10406;Funkeln & Glanz KG;geprueft;00:54
+Kleeblatt AG / Crop Management;5825464;07.02.2024;Updated UI for a more modern look.;Tim Neumann;0.11791;0.11277;Kleeblatt AG;abgerechnet;00:36
+Wasserfall AG / Hydropower Development;5476330;06.02.2024;Refactored code for better maintainability.;Olivia Berg;0.13987;0.1081;Wasserfall AG;abgerechnet;01:23
+Blitz & Co KG / Lightning Protection;3492309;12.02.2024;Enhanced mobile responsiveness of the website.;Sophie Schmidt;0.07416;0.0527;Blitz & Co KG;abgerechnet;00:25
+Fels & Stein GmbH / Geological Surveys;6360458;09.02.2024;Developed prototype for upcoming product launch.;Lara Zimmer;0.45955;0.50372;Fels & Stein GmbH;abgerechnet;04:58
+Wunderbar GmbH / Brand Innovation;3171180;15.02.2024;Updated UI for a more modern look.;Olivia Berg;0.03606;0.02617;Wunderbar GmbH;abgerechnet;00:11
+Mondschein KG / Optical Engineering;6781718;08.02.2024;Fixed compatibility issues with legacy systems.;Lea Schneider;0.03163;0;Mondschein KG;abgerechnet;00:05
+Himmelsstürmer KG / Aircraft Maintenance;3591582;27.02.2024;Fixed compatibility issues with legacy systems.;Jan Kohler;0.03503;0.03172;Himmelsstürmer KG;abgerechnet;00:10
+Schattenspringer AG / Digital Media;9996686;19.02.2024;Automated deployment processes for CI/CD pipeline.;Simon Seidel;0.03345;0.06956;Schattenspringer AG;abgerechnet;00:24
+Adlerflug GmbH / Aerospace Engineering;8564502;08.02.2024;Upgraded server infrastructure for scalability.;Julia Weber;0.02723;0.03082;Adlerflug GmbH;abgerechnet;00:24
+Sandsturm AG / Climate Adaptation;7605165;09.02.2024;Optimized database queries for faster load times.;Anna Becker;0.02535;0.03556;Sandsturm AG;abgerechnet;00:23
+Weitblick KG / Retirement Planning;6312367;22.02.2024;Added a new feature to improve user experience.;Mia Koch;0.05416;0.07266;Weitblick KG;abgerechnet;00:38
+Feuersturm GmbH / Emergency Planning;2185219;28.02.2024;Conducted performance testing and optimizations.;Sophie Schmidt;0.0531;0.07099;Feuersturm GmbH;abgerechnet;00:04
+Kieselstein GmbH / Construction Innovation;8676458;07.02.2024;Redesigned landing page for better conversion rates.;David Meier;0.03619;0.02816;Kieselstein GmbH;abgerechnet;00:09
+Funkeln & Glanz KG / Jewelry Design;8922508;19.02.2024;Fixed compatibility issues with legacy systems.;Clara Klein;0.03393;0.03389;Funkeln & Glanz KG;abgerechnet;00:35
+Wildfang AG / Product Innovation;4915191;27.02.2024;Automated deployment processes for CI/CD pipeline.;Liam Scholz;0.05586;0.11281;Wildfang AG;abgerechnet;01:23
+Wolfsblut GmbH / Wildlife Conservation;5737941;16.02.2024;Developed new analytics dashboard for insights.;Finn Lehmann;0.03726;0.02658;Wolfsblut GmbH;abgerechnet;00:39
+Seeblick GmbH / Tourism Development;9736466;14.02.2024;Implemented user authentication system.;Jan Kohler;0.06494;0.14552;Seeblick GmbH;abgerechnet;01:28
+Nordlicht KG / Arctic Exploration;7195770;14.02.2024;Optimized database queries for faster load times.;Clara Klein;0.03091;0.02543;Nordlicht KG;abgerechnet;00:38
+Morgenstern AG / Solar Energy;6236413;07.02.2024;Enhanced mobile responsiveness of the website.;Liam Scholz;0.02611;0.03524;Morgenstern AG;abgerechnet;00:24
+Wolfsblut GmbH / Veterinary Research;4750293;16.02.2024;Added a new feature to improve user experience.;Finn Lehmann;0.05579;0;Wolfsblut GmbH;abgerechnet;00:30
+Schattenspringer AG / Entertainment Ventures;7086908;08.02.2024;Upgraded server infrastructure for scalability.;Simon Seidel;0.0632;0.06389;Schattenspringer AG;abgerechnet;00:46
+Sonnenstrahl KG / Sustainable Solutions;5696367;16.02.2024;Implemented caching mechanism for efficiency.;Laura Schwarz;0.07082;0.0537;Sonnenstrahl KG;abgerechnet;00:08
+Sandsturm AG / Climate Adaptation;9676340;01.02.2024;Updated UI for a more modern look.;Ben Richter;0.53036;0.8382;Sandsturm AG;abgerechnet;06:51
+Morgenstern AG / Green Initiatives;6064483;05.02.2024;Integrated third-party API for extended functionality.;Laura Schwarz;0.05717;0.06017;Morgenstern AG;abgerechnet;00:59
+Eisberg GmbH / Supply Chain;2026172;15.02.2024;Developed new analytics dashboard for insights.;Felix Voigt;0.25074;0.21239;Eisberg GmbH;abgerechnet;01:50
+Feuersturm GmbH / Emergency Planning;9991838;02.02.2024;Enhanced mobile responsiveness of the website.;Sophie Schmidt;0.20154;0.23236;Feuersturm GmbH;abgerechnet;01:23
+Glücksklee GmbH / Pharmaceutical Development;6714324;19.02.2024;Refactored code for better maintainability.;Tim Neumann;0.02581;0.02747;Glücksklee GmbH;abgerechnet;00:31
+Sturm & Partner / Risk Management;1487722;08.02.2024;Resolved bug in the payment module.;Felix Voigt;0.05108;0.06021;Sturm & Partner;abgerechnet;00:05
+Silberfuchs GmbH / AI Implementation;1867590;01.02.2024;Fixed compatibility issues with legacy systems.;Hannah Boehm;0.13565;0.18565;Silberfuchs GmbH;abgerechnet;01:08
+Himmelsstürmer KG / Pilot Programs;6647689;14.02.2024;Added a new feature to improve user experience.;Simon Seidel;0.02721;0.03013;Himmelsstürmer KG;abgerechnet;00:28
+Sternschuppen AG / Satellite Technology;1614406;13.02.2024;Conducted performance testing and optimizations.;Finn Lehmann;0.03341;0.05154;Sternschuppen AG;abgerechnet;00:42
+Wasserfall AG / Hydropower Development;2809067;12.02.2024;Upgraded server infrastructure for scalability.;Liam Scholz;0.03269;0;Wasserfall AG;abgerechnet;00:11
+Feuersturm GmbH / Emergency Planning;8594379;01.02.2024;Added a new feature to improve user experience.;Lea Schneider;0.05858;0.12199;Feuersturm GmbH;abgerechnet;01:25
+Sternschuppen AG / Astrophysics;5058386;19.02.2024;Optimized database queries for faster load times.;Tom Braun;0.02746;0.02883;Sternschuppen AG;abgerechnet;00:15
+Schattenspringer AG / Film Production;9576402;26.02.2024;Enhanced mobile responsiveness of the website.;Anna Becker;0.02575;0;Schattenspringer AG;abgerechnet;00:12
+Wasserfall AG / Water Conservation;5527469;22.02.2024;Resolved bug in the payment module.;Lea Schneider;0.07271;0.05656;Wasserfall AG;abgerechnet;00:44
+Seeblick GmbH / Eco-Tourism;3578640;15.02.2024;Automated deployment processes for CI/CD pipeline.;Sara Brandt;0.03691;0.02903;Seeblick GmbH;abgerechnet;00:35
+Morgenstern AG / Green Initiatives;5896510;01.02.2024;Added a new feature to improve user experience.;Lara Zimmer;0.1331;0.31498;Morgenstern AG;abgerechnet;02:47
+Sturm & Partner / Risk Management;4260644;08.02.2024;Optimized database queries for faster load times.;Emma Hoffmann;0.05252;0.06705;Sturm & Partner;abgerechnet;00:12
+Morgenstern AG / Green Initiatives;3165512;09.02.2024;Refactored code for better maintainability.;Max Mueller;0.29368;0;Morgenstern AG;abgerechnet;00:18
+Eisberg GmbH / Supply Chain;2255010;15.02.2024;Added localization support for multiple languages.;Niklas Hahn;0.03352;0.02648;Eisberg GmbH;abgerechnet;00:16
+Himmelsstürmer KG / Aviation Training;2013878;13.02.2024;Enhanced mobile responsiveness of the website.;Jan Kohler;0.14447;0.1782;Himmelsstürmer KG;abgerechnet;01:22
+Wasserfall AG / Hydropower Development;9428688;27.02.2024;Redesigned landing page for better conversion rates.;Laura Schwarz;0.19318;0.17726;Wasserfall AG;abgerechnet;01:37
+Lichtblick AG / Renewable Energy;9868737;02.02.2024;Improved security protocols to protect data.;Emma Kruger;0.07102;0.05439;Lichtblick AG;abgerechnet;00:36
+Wunderbar GmbH / Marketing Overhaul;2206623;05.02.2024;Optimized database queries for faster load times.;Sophie Schmidt;0.36863;0.35683;Wunderbar GmbH;abgerechnet;02:14
+Eisberg GmbH / Supply Chain;3269140;16.02.2024;Developed prototype for upcoming product launch.;Sophie Schmidt;0.34373;0.31216;Eisberg GmbH;abgerechnet;02:17
+Schattenspringer AG / Film Production;8523926;15.02.2024;Developed new analytics dashboard for insights.;Laura Schwarz;0.14432;0.39277;Schattenspringer AG;abgerechnet;02:44
+Wolkenbruch AG / Data Security;4928212;08.02.2024;Improved security protocols to protect data.;Max Mueller;0.22456;0.68044;Wolkenbruch AG;abgerechnet;05:00
+Sternschuppen AG / Space Exploration;9190794;14.02.2024;Automated deployment processes for CI/CD pipeline.;Lea Schneider;0.13014;0.30468;Sternschuppen AG;abgerechnet;02:35
+Seeblick GmbH / Hotel Management;6614231;12.02.2024;Fixed compatibility issues with legacy systems.;Mia Koch;0.16643;0.17829;Seeblick GmbH;abgerechnet;01:04
+Himmelsstürmer KG / Pilot Programs;7859032;27.02.2024;Integrated third-party API for extended functionality.;Lukas Fischer;0.0297;0.03454;Himmelsstürmer KG;abgerechnet;00:11
+Wunderbar GmbH / Brand Innovation;1877257;19.02.2024;Automated deployment processes for CI/CD pipeline.;Mia Koch;0.08145;0.08109;Wunderbar GmbH;abgerechnet;00:56
+Nordlicht KG / Renewable Energy;1558670;29.02.2024;Refactored code for better maintainability.;Clara Klein;0.0255;0.05345;Nordlicht KG;abgerechnet;00:24
+Sandsturm AG / Climate Adaptation;5491518;26.02.2024;Added a new feature to improve user experience.;Lena Krause;0.03374;0.03083;Sandsturm AG;abgerechnet;00:13
+Eisberg GmbH / Cold Chain Solutions;9648492;12.02.2024;Fixed compatibility issues with legacy systems.;Clara Klein;0.02915;0.02529;Eisberg GmbH;abgerechnet;00:14
+Bergwerk AG / Mining Expansion;9232509;23.02.2024;Implemented caching mechanism for efficiency.;Lukas Fischer;0.1261;0.12529;Bergwerk AG;geprueft;01:02
+Hinterland GmbH / Rural Development;2609685;07.02.2024;Refactored code for better maintainability.;Sophie Schmidt;0.38111;0.37346;Hinterland GmbH;abgerechnet;03:23
+Schattenspringer AG / Digital Media;2541076;28.02.2024;Redesigned landing page for better conversion rates.;Felix Voigt;0.02617;0.02535;Schattenspringer AG;abgerechnet;00:18
+Blitz & Co KG / Electrical Systems;4672017;29.02.2024;Enhanced search functionality with advanced filters.;Tim Neumann;0.17916;0.1804;Blitz & Co KG;abgerechnet;02:14
+Kieselstein GmbH / Urban Planning;1454670;14.02.2024;Added a new feature to improve user experience.;Liam Scholz;0.1673;0;Kieselstein GmbH;abgerechnet;00:12
+Mondschein KG / Optical Engineering;7859506;05.02.2024;Integrated third-party API for extended functionality.;Julia Weber;0.37001;0.36739;Mondschein KG;abgerechnet;02:26
+Adlerflug GmbH / Flight Dynamics;2403548;19.02.2024;Fixed compatibility issues with legacy systems.;Lukas Fischer;0.8734;1.07545;Adlerflug GmbH;abgerechnet;07:38
+Wolfsblut GmbH / Veterinary Research;3763810;05.02.2024;Conducted performance testing and optimizations.;Lena Krause;0.03524;0.05543;Wolfsblut GmbH;abgerechnet;00:26
+Silberfuchs GmbH / Cybersecurity;9183458;29.02.2024;Integrated third-party API for extended functionality.;Lukas Fischer;0.10819;0.13566;Silberfuchs GmbH;abgerechnet;00:33
+Blitz & Co KG / Lightning Protection;5279508;02.02.2024;Enhanced search functionality with advanced filters.;Emma Hoffmann;0.0704;0.05183;Blitz & Co KG;abgerechnet;00:23
+Himmelsstürmer KG / Pilot Programs;9482683;20.02.2024;Added a new feature to improve user experience.;Niklas Hahn;0.02902;0.03418;Himmelsstürmer KG;abgerechnet;00:20
+Silberfuchs GmbH / AI Implementation;1024619;26.02.2024;Developed prototype for upcoming product launch.;Anna Becker;0.4444;0.47986;Silberfuchs GmbH;abgerechnet;03:26
+Sturm & Partner / Financial Strategy;7016950;12.02.2024;Improved error handling and logging mechanisms.;Jonas Wagner;0.07142;0;Sturm & Partner;abgerechnet;00:27
+Wolkenbruch AG / Data Security;7990472;20.02.2024;Enhanced search functionality with advanced filters.;Emma Kruger;0.06287;0.07342;Wolkenbruch AG;abgerechnet;00:23
+Blitz & Co KG / Lightning Protection;9264997;12.02.2024;Integrated third-party API for extended functionality.;Jonas Wagner;0.03359;0.02537;Blitz & Co KG;abgerechnet;00:07
+Sternschuppen AG / Satellite Technology;5817254;16.02.2024;Refactored code for better maintainability.;Sophie Schmidt;0.43955;0.49018;Sternschuppen AG;abgerechnet;03:39
+Funkeln & Glanz KG / Retail Expansion;4290997;14.02.2024;Resolved bug in the payment module.;Lara Zimmer;0.03471;0.03508;Funkeln & Glanz KG;abgerechnet;00:39
+Kieselstein GmbH / Architectural Design;5116096;12.02.2024;Enhanced search functionality with advanced filters.;Tim Neumann;0.15752;0.19301;Kieselstein GmbH;abgerechnet;01:20
+Drachenfels GmbH / Storytelling;8242947;14.02.2024;Developed new analytics dashboard for insights.;Jan Kohler;0.11062;0.25555;Drachenfels GmbH;abgerechnet;02:26
+Himmelsstürmer KG / Aviation Training;2839392;12.02.2024;Refactored code for better maintainability.;Tom Braun;0.02623;0.03531;Himmelsstürmer KG;abgerechnet;00:18
+Feuersturm GmbH / Equipment Design;7690558;16.02.2024;Redesigned landing page for better conversion rates.;Lea Schneider;0.05216;0.0628;Feuersturm GmbH;abgerechnet;00:56
+Wildfang AG / Adventure Gear;7166636;06.02.2024;Enhanced mobile responsiveness of the website.;Liam Scholz;0.12721;0.14503;Wildfang AG;abgerechnet;00:54
+Eisberg GmbH / Supply Chain;3947282;29.02.2024;Redesigned landing page for better conversion rates.;Max Mueller;0.14269;0.10556;Eisberg GmbH;abgerechnet;00:49
+Bergwerk AG / Sustainable Resources;1159680;01.02.2024;Resolved bug in the payment module.;Tim Neumann;0.02972;0.03633;Bergwerk AG;abgerechnet;00:43
+Seeblick GmbH / Tourism Development;2388152;15.02.2024;Developed prototype for upcoming product launch.;Noah Schmid;0.08118;0.11453;Seeblick GmbH;abgerechnet;01:28
+Funkeln & Glanz KG / Jewelry Design;3123419;29.02.2024;Implemented user authentication system.;Max Mueller;0.07406;0.10969;Funkeln & Glanz KG;abgerechnet;01:29
+Wunderbar GmbH / Customer Engagement;8755116;26.02.2024;Refactored code for better maintainability.;Hannah Boehm;0.0332;0.0288;Wunderbar GmbH;abgerechnet;00:28
+Nordlicht KG / Arctic Exploration;5397562;26.02.2024;Implemented caching mechanism for efficiency.;Hannah Boehm;0.46674;1.2161;Nordlicht KG;abgerechnet;09:33
+Schattenspringer AG / Film Production;7972932;07.02.2024;Conducted performance testing and optimizations.;Paul Bauer;0.03371;0;Schattenspringer AG;abgerechnet;00:12
+Fels & Stein GmbH / Rock Mechanics;3908274;15.02.2024;Implemented user authentication system.;Julia Weber;0.36199;0.25236;Fels & Stein GmbH;abgerechnet;02:56
+Feuersturm GmbH / Fire Safety;1497817;26.02.2024;Enhanced search functionality with advanced filters.;Emma Hoffmann;0.03288;0.03706;Feuersturm GmbH;abgerechnet;00:01
+Sternschuppen AG / Satellite Technology;7816576;15.02.2024;Improved error handling and logging mechanisms.;Paul Bauer;0.10351;0.1301;Sternschuppen AG;geprueft;01:04
+Seeblick GmbH / Tourism Development;3821669;15.02.2024;Implemented caching mechanism for efficiency.;Lena Krause;0.0375;0.02803;Seeblick GmbH;abgerechnet;00:18
+Wolfsblut GmbH / Zoology;4380680;14.02.2024;Implemented user authentication system.;Finn Lehmann;0.0273;0.02785;Wolfsblut GmbH;abgerechnet;00:12
+Mondschein KG / Night Vision Tech;6494194;01.02.2024;Resolved bug in the payment module.;Jan Kohler;0.05105;0.06577;Mondschein KG;abgerechnet;00:40
+Schattenspringer AG / Film Production;3694228;14.02.2024;Enhanced search functionality with advanced filters.;Paul Bauer;0.07424;0.07078;Schattenspringer AG;abgerechnet;00:36
+Seeblick GmbH / Hotel Management;1304996;05.02.2024;Improved error handling and logging mechanisms.;Olivia Berg;0.03124;0.03378;Seeblick GmbH;abgerechnet;00:44
+Kieselstein GmbH / Construction Innovation;5262643;27.02.2024;Upgraded server infrastructure for scalability.;Finn Lehmann;0.03692;0.03247;Kieselstein GmbH;abgerechnet;00:20
+Funkeln & Glanz KG / Jewelry Design;7056362;20.02.2024;Refactored code for better maintainability.;Sophie Schmidt;0.03194;0.06407;Funkeln & Glanz KG;abgerechnet;00:15
+Wolkenbruch AG / Data Security;3554141;12.02.2024;Redesigned landing page for better conversion rates.;Mia Koch;0.02523;0.03067;Wolkenbruch AG;abgerechnet;00:27
+Feuersturm GmbH / Fire Safety;5037130;19.02.2024;Enhanced mobile responsiveness of the website.;Lukas Fischer;0.0288;0.03658;Feuersturm GmbH;abgerechnet;00:18
+Silberfuchs GmbH / Technology R&D;5380754;13.02.2024;Added localization support for multiple languages.;Laura Schwarz;0.10112;0.08726;Silberfuchs GmbH;geprueft;00:57
+Lichtblick AG / Environmental Impact;4259445;19.02.2024;Refactored code for better maintainability.;Olivia Berg;0.32483;0.25467;Lichtblick AG;abgerechnet;02:04
+Schattenspringer AG / Entertainment Ventures;3069243;07.02.2024;Updated UI for a more modern look.;Tim Neumann;0.17259;0.14641;Schattenspringer AG;abgerechnet;01:32
+Kleeblatt AG / Sustainability;5293939;06.02.2024;Added a new feature to improve user experience.;Simon Seidel;0.02842;0;Kleeblatt AG;abgerechnet;00:12
+Eisberg GmbH / Cold Chain Solutions;8100905;14.02.2024;Fixed compatibility issues with legacy systems.;Noah Schmid;0.30586;0.31661;Eisberg GmbH;abgerechnet;02:18
+Wasserfall AG / Eco-friendly Solutions;4766884;06.02.2024;Added localization support for multiple languages.;Noah Schmid;0.03493;0.03493;Wasserfall AG;abgerechnet;00:21
+Mondschein KG / Innovation;3009321;13.02.2024;Implemented user authentication system.;Sophie Schmidt;0.05851;0.06961;Mondschein KG;abgerechnet;00:43
+Blitz & Co KG / Smart Grid;1199719;08.02.2024;Optimized database queries for faster load times.;Lena Krause;0.03222;0.03351;Blitz & Co KG;geprueft;00:41
+Wolkenbruch AG / IT Infrastructure;5062293;14.02.2024;Fixed compatibility issues with legacy systems.;Hannah Boehm;0.42583;0;Wolkenbruch AG;abgerechnet;00:08
+Sturm & Partner / Financial Strategy;9880125;15.02.2024;Enhanced mobile responsiveness of the website.;Laura Schwarz;0.02791;0.02644;Sturm & Partner;abgerechnet;00:34
+Seeblick GmbH / Tourism Development;2868637;22.02.2024;Added a new feature to improve user experience.;Felix Voigt;0.15531;0;Seeblick GmbH;abgerechnet;00:16
+Sturm & Partner / Risk Management;7025563;21.02.2024;Resolved bug in the payment module.;Emma Kruger;0.06057;0.06084;Sturm & Partner;abgerechnet;00:07
+Kleeblatt AG / Crop Management;4732434;27.02.2024;Developed prototype for upcoming product launch.;Finn Lehmann;0.09705;0.10659;Kleeblatt AG;abgerechnet;00:53
+Sternschuppen AG / Satellite Technology;5819069;14.02.2024;Developed prototype for upcoming product launch.;Emma Hoffmann;0.02942;0;Sternschuppen AG;abgerechnet;00:27
+Wildfang AG / Outdoor Equipment;6196854;19.02.2024;Updated UI for a more modern look.;Laura Schwarz;0.02625;0.03575;Wildfang AG;abgerechnet;00:06
+Wasserfall AG / Eco-friendly Solutions;8802806;23.02.2024;Resolved bug in the payment module.;Finn Lehmann;0.52304;0.51668;Wasserfall AG;abgerechnet;04:40
+Wolfsblut GmbH / Wildlife Conservation;6035488;07.02.2024;Redesigned landing page for better conversion rates.;Sara Brandt;0.06773;0;Wolfsblut GmbH;abgerechnet;00:07
+Silberfuchs GmbH / Cybersecurity;2759691;09.02.2024;Added a new feature to improve user experience.;Felix Voigt;0.1636;0;Silberfuchs GmbH;abgerechnet;00:01
+Drachenfels GmbH / Storytelling;2416986;06.02.2024;Conducted performance testing and optimizations.;Mia Koch;0.03025;0.03141;Drachenfels GmbH;abgerechnet;00:01
+Eisberg GmbH / Supply Chain;4200300;13.02.2024;Implemented user authentication system.;Lukas Fischer;0.4783;1.04116;Eisberg GmbH;abgerechnet;09:43
+Sonnenstrahl KG / Lighting Design;4390084;12.02.2024;Developed new analytics dashboard for insights.;David Meier;0.05418;0.059;Sonnenstrahl KG;abgerechnet;00:48
+Sonnenstrahl KG / Energy Efficiency;5827904;14.02.2024;Developed new analytics dashboard for insights.;Niklas Hahn;0.52736;0.60278;Sonnenstrahl KG;abgerechnet;04:55
+Fels & Stein GmbH / Rock Mechanics;7493181;26.02.2024;Redesigned landing page for better conversion rates.;Anna Becker;0.03657;0.07225;Fels & Stein GmbH;abgerechnet;00:40
+Himmelsstürmer KG / Pilot Programs;7936093;20.02.2024;Enhanced search functionality with advanced filters.;Julia Weber;0.03037;0.02877;Himmelsstürmer KG;abgerechnet;00:30
+Bergwerk AG / Mining Expansion;4194334;26.02.2024;Enhanced search functionality with advanced filters.;Laura Schwarz;0.02513;0.02637;Bergwerk AG;abgerechnet;00:38
+Weitblick KG / Retirement Planning;7840122;13.02.2024;Enhanced search functionality with advanced filters.;Emma Kruger;0.0275;0;Weitblick KG;abgerechnet;00:18
+Himmelsstürmer KG / Aircraft Maintenance;9194691;22.02.2024;Improved security protocols to protect data.;Clara Klein;0.03485;0.06567;Himmelsstürmer KG;abgerechnet;00:45
+Adlerflug GmbH / Aviation Safety;2351845;12.02.2024;Added a new feature to improve user experience.;Lara Zimmer;0.02615;0.03146;Adlerflug GmbH;abgerechnet;00:26
+Sternschuppen AG / Satellite Technology;4357876;15.02.2024;Resolved bug in the payment module.;Olivia Berg;0.08916;0.08971;Sternschuppen AG;abgerechnet;01:05
+Sternschuppen AG / Astrophysics;9729602;13.02.2024;Fixed compatibility issues with legacy systems.;Lea Schneider;0.03667;0.02678;Sternschuppen AG;abgerechnet;00:36
+Sturm & Partner / Financial Strategy;9332225;13.02.2024;Added a new feature to improve user experience.;Clara Klein;0.03419;0;Sturm & Partner;abgerechnet;00:18
+Hinterland GmbH / Infrastructure;7624264;15.02.2024;Updated UI for a more modern look.;Tom Braun;0.03664;0;Hinterland GmbH;abgerechnet;00:04
+Wildfang AG / Adventure Gear;7713967;20.02.2024;Automated deployment processes for CI/CD pipeline.;Sophie Schmidt;0.18776;0.21983;Wildfang AG;abgerechnet;01:21
+Glücksklee GmbH / Pharmaceutical Development;1780442;12.02.2024;Added localization support for multiple languages.;Mia Koch;0.03354;0.03136;Glücksklee GmbH;abgerechnet;00:20
+Himmelsstürmer KG / Aviation Training;8671783;12.02.2024;Conducted performance testing and optimizations.;Noah Schmid;0.14655;0.11647;Himmelsstürmer KG;abgerechnet;00:58
+Nordlicht KG / Climate Research;3118239;27.02.2024;Improved error handling and logging mechanisms.;Niklas Hahn;0.18177;0.16632;Nordlicht KG;abgerechnet;00:53
+Kleeblatt AG / Agriculture Innovation;8429266;29.02.2024;Improved security protocols to protect data.;Simon Seidel;0.02782;0.07292;Kleeblatt AG;abgerechnet;00:28
+Wildfang AG / Product Innovation;5792344;08.02.2024;Implemented caching mechanism for efficiency.;Clara Klein;0.03203;0.03191;Wildfang AG;abgerechnet;00:38
+Kleeblatt AG / Agriculture Innovation;7309747;05.02.2024;Implemented user authentication system.;Jonas Wagner;0.06194;0.06968;Kleeblatt AG;abgerechnet;00:32
+Kieselstein GmbH / Urban Planning;5517293;01.02.2024;Developed prototype for upcoming product launch.;Jonas Wagner;0.03594;0;Kieselstein GmbH;abgerechnet;00:17
+Wolkenbruch AG / IT Infrastructure;8249218;12.02.2024;Automated deployment processes for CI/CD pipeline.;Lara Zimmer;0.05033;0.06596;Wolkenbruch AG;abgerechnet;00:45
+Lichtblick AG / Solar Panel Tech;8541390;01.02.2024;Fixed compatibility issues with legacy systems.;Hannah Boehm;0.11596;0;Lichtblick AG;abgerechnet;00:26
+Sturm & Partner / Market Analysis;8872564;15.02.2024;Upgraded server infrastructure for scalability.;Sara Brandt;0.50154;0.47633;Sturm & Partner;abgerechnet;03:05
+Adlerflug GmbH / Aerospace Engineering;6477120;09.02.2024;Resolved bug in the payment module.;Max Mueller;0.10576;0.09135;Adlerflug GmbH;abgerechnet;01:13
+Feuersturm GmbH / Equipment Design;9259530;07.02.2024;Integrated third-party API for extended functionality.;Laura Schwarz;0.2648;0.23206;Feuersturm GmbH;abgerechnet;02:05
+Kleeblatt AG / Agriculture Innovation;8141847;16.02.2024;Developed prototype for upcoming product launch.;Laura Schwarz;0.08011;0;Kleeblatt AG;abgerechnet;00:12
+Himmelsstürmer KG / Aircraft Maintenance;7818173;06.02.2024;Implemented user authentication system.;Finn Lehmann;0.02651;0.02571;Himmelsstürmer KG;abgerechnet;00:07
+Kieselstein GmbH / Architectural Design;8295533;05.02.2024;Added localization support for multiple languages.;Lea Schneider;0.03587;0.03343;Kieselstein GmbH;abgerechnet;00:07
+Silberfuchs GmbH / AI Implementation;3154408;16.02.2024;Redesigned landing page for better conversion rates.;Mia Koch;0.02862;0.03624;Silberfuchs GmbH;abgerechnet;00:18
+Schattenspringer AG / Film Production;8071474;28.02.2024;Enhanced search functionality with advanced filters.;Emma Hoffmann;0.18164;0.34079;Schattenspringer AG;abgerechnet;03:23
+Hinterland GmbH / Rural Development;5412310;13.02.2024;Conducted performance testing and optimizations.;Emma Kruger;0.05174;0.05006;Hinterland GmbH;abgerechnet;00:24
+Sturm & Partner / Risk Management;1816689;08.02.2024;Resolved bug in the payment module.;Liam Scholz;0.03241;0.03605;Sturm & Partner;abgerechnet;00:30
+Bergwerk AG / Sustainable Resources;4547109;15.02.2024;Improved error handling and logging mechanisms.;Jonas Wagner;0.03636;0.0685;Bergwerk AG;abgerechnet;00:51
+Glücksklee GmbH / Pharmaceutical Development;7392544;19.02.2024;Fixed compatibility issues with legacy systems.;Jonas Wagner;0.02813;0.03366;Glücksklee GmbH;abgerechnet;00:36
+Blitz & Co KG / Smart Grid;5272298;12.02.2024;Integrated third-party API for extended functionality.;Olivia Berg;0.06943;0;Blitz & Co KG;abgerechnet;00:02
+Glücksklee GmbH / Pharmaceutical Development;8801260;15.02.2024;Redesigned landing page for better conversion rates.;Simon Seidel;0.11592;0.1024;Glücksklee GmbH;abgerechnet;01:04
+Funkeln & Glanz KG / Jewelry Design;7197073;15.02.2024;Automated deployment processes for CI/CD pipeline.;Olivia Berg;0.0316;0.06229;Funkeln & Glanz KG;abgerechnet;00:25
+Wolfsblut GmbH / Wildlife Conservation;4627962;12.02.2024;Redesigned landing page for better conversion rates.;Felix Voigt;0.05057;0.06717;Wolfsblut GmbH;geprueft;00:48
+Glücksklee GmbH / Health Solutions;2939532;26.02.2024;Improved security protocols to protect data.;Finn Lehmann;0.33241;0.71031;Glücksklee GmbH;abgerechnet;05:56
+Nordlicht KG / Renewable Energy;4524909;09.02.2024;Fixed compatibility issues with legacy systems.;Lukas Fischer;0;0.05285;Nordlicht KG;abgerechnet;00:49
+Wildfang AG / Adventure Gear;5471271;14.02.2024;Conducted performance testing and optimizations.;Lena Krause;0.08183;0.09815;Wildfang AG;abgerechnet;00:44
+Wildfang AG / Adventure Gear;3529135;20.02.2024;Optimized database queries for faster load times.;Hannah Boehm;0.06754;0;Wildfang AG;abgerechnet;00:11
+Hinterland GmbH / Rural Development;7673444;09.02.2024;Resolved bug in the payment module.;Noah Schmid;0.03177;0.02659;Hinterland GmbH;abgerechnet;00:24
+Kleeblatt AG / Agriculture Innovation;6874201;13.02.2024;Optimized database queries for faster load times.;Mia Koch;0.02534;0;Kleeblatt AG;abgerechnet;00:06
+Wolkenbruch AG / Cloud Computing;9211876;27.02.2024;Developed new analytics dashboard for insights.;Emma Hoffmann;0.17129;0.37497;Wolkenbruch AG;abgerechnet;03:40
+Glücksklee GmbH / Pharmaceutical Development;5333823;15.02.2024;Updated UI for a more modern look.;Laura Schwarz;0.0996;0.23325;Glücksklee GmbH;abgerechnet;01:30
+Feuersturm GmbH / Fire Safety;6178474;01.02.2024;Optimized database queries for faster load times.;Liam Scholz;0.10622;0.08185;Feuersturm GmbH;abgerechnet;00:20
+Himmelsstürmer KG / Aviation Training;9451462;13.02.2024;Integrated third-party API for extended functionality.;David Meier;0.59041;0.51541;Himmelsstürmer KG;abgerechnet;04:25
+Sonnenstrahl KG / Lighting Design;7425589;15.02.2024;Developed new analytics dashboard for insights.;Jan Kohler;0.22934;0.28633;Sonnenstrahl KG;abgerechnet;02:14
+Morgenstern AG / Green Initiatives;5685261;29.02.2024;Resolved bug in the payment module.;Julia Weber;0.32787;0.35564;Morgenstern AG;abgerechnet;02:25
+Nordlicht KG / Renewable Energy;7962649;08.02.2024;Developed new analytics dashboard for insights.;Sara Brandt;0.07061;0.05446;Nordlicht KG;abgerechnet;00:23
+Mondschein KG / Optical Engineering;2636355;05.02.2024;Conducted performance testing and optimizations.;Clara Klein;0.20481;0.21702;Mondschein KG;abgerechnet;01:54
+Wildfang AG / Outdoor Equipment;4807020;09.02.2024;Optimized database queries for faster load times.;Sara Brandt;0.89076;1.17808;Wildfang AG;abgerechnet;07:35
+Drachenfels GmbH / Storytelling;5335691;27.02.2024;Updated UI for a more modern look.;Anna Becker;0.02754;0.02905;Drachenfels GmbH;abgerechnet;00:05
+Adlerflug GmbH / Aerospace Engineering;4292120;19.02.2024;Improved security protocols to protect data.;Felix Voigt;0.03643;0.02614;Adlerflug GmbH;abgerechnet;00:45
+Feuersturm GmbH / Fire Safety;4961470;27.02.2024;Upgraded server infrastructure for scalability.;Mia Koch;0.06374;0.07339;Feuersturm GmbH;abgerechnet;00:33
+Mondschein KG / Optical Engineering;1289993;28.02.2024;Improved security protocols to protect data.;Simon Seidel;0.92283;1.58836;Mondschein KG;abgerechnet;10:57
+Drachenfels GmbH / Fantasy Game Development;4963033;07.02.2024;Conducted performance testing and optimizations.;David Meier;0.36537;0.82551;Drachenfels GmbH;abgerechnet;06:22
+Kieselstein GmbH / Architectural Design;5065201;14.02.2024;Updated UI for a more modern look.;Jan Kohler;0.06154;0.06077;Kieselstein GmbH;abgerechnet;00:00
+Seeblick GmbH / Eco-Tourism;2583427;15.02.2024;Automated deployment processes for CI/CD pipeline.;Sara Brandt;0.0957;0.11236;Seeblick GmbH;abgerechnet;00:26
+Sturm & Partner / Risk Management;8211960;21.02.2024;Developed prototype for upcoming product launch.;Lara Zimmer;0.42531;0.79857;Sturm & Partner;abgerechnet;07:33
+Adlerflug GmbH / Aviation Safety;5918516;22.02.2024;Implemented caching mechanism for efficiency.;Sophie Schmidt;0.05871;0.0732;Adlerflug GmbH;abgerechnet;01:00
+Sturm & Partner / Financial Strategy;5325483;15.02.2024;Automated deployment processes for CI/CD pipeline.;Niklas Hahn;0.49486;1.30526;Sturm & Partner;abgerechnet;08:36
+Lichtblick AG / Environmental Impact;9867586;29.02.2024;Optimized database queries for faster load times.;Emma Kruger;0.02625;0.07278;Lichtblick AG;abgerechnet;00:11
+Wolkenbruch AG / IT Infrastructure;3930940;14.02.2024;Added localization support for multiple languages.;Olivia Berg;0.06117;0;Wolkenbruch AG;abgerechnet;00:10
+Blitz & Co KG / Lightning Protection;6133260;15.02.2024;Enhanced search functionality with advanced filters.;Liam Scholz;0.15621;0.24917;Blitz & Co KG;abgerechnet;02:08
+Blitz & Co KG / Smart Grid;7587867;23.02.2024;Improved error handling and logging mechanisms.;Lukas Fischer;0.03247;0.03604;Blitz & Co KG;abgerechnet;00:38
+Mondschein KG / Optical Engineering;8989856;23.02.2024;Resolved bug in the payment module.;Lea Schneider;0.03108;0.02588;Mondschein KG;abgerechnet;00:37
+Funkeln & Glanz KG / Retail Expansion;3608422;16.02.2024;Added localization support for multiple languages.;Paul Bauer;0.26015;0.2588;Funkeln & Glanz KG;abgerechnet;02:24
+Eisberg GmbH / Logistics Optimization;2689173;07.02.2024;Fixed compatibility issues with legacy systems.;Paul Bauer;0.03198;0.02824;Eisberg GmbH;abgerechnet;00:27
+Nordlicht KG / Renewable Energy;2838439;28.02.2024;Improved security protocols to protect data.;Julia Weber;0.02604;0.02511;Nordlicht KG;abgerechnet;00:30
+Wunderbar GmbH / Marketing Overhaul;6366162;27.02.2024;Enhanced search functionality with advanced filters.;Noah Schmid;0.07584;0.14082;Wunderbar GmbH;abgerechnet;01:11
+Blitz & Co KG / Lightning Protection;5550192;28.02.2024;Refactored code for better maintainability.;Jonas Wagner;0.02701;0.03407;Blitz & Co KG;abgerechnet;00:44
+Feuersturm GmbH / Equipment Design;6729641;20.02.2024;Improved error handling and logging mechanisms.;Lara Zimmer;0.05339;0.17126;Feuersturm GmbH;abgerechnet;00:55
+Funkeln & Glanz KG / Luxury Goods;9927566;05.02.2024;Improved security protocols to protect data.;Tom Braun;0.2383;0.26057;Funkeln & Glanz KG;abgerechnet;01:56
+Funkeln & Glanz KG / Retail Expansion;8869410;08.02.2024;Updated UI for a more modern look.;Finn Lehmann;0.09039;0.07675;Funkeln & Glanz KG;abgerechnet;00:57
+Sonnenstrahl KG / Sustainable Solutions;6538552;20.02.2024;Automated deployment processes for CI/CD pipeline.;Max Mueller;0.03583;0;Sonnenstrahl KG;abgerechnet;00:27
+Schattenspringer AG / Entertainment Ventures;3135024;27.02.2024;Added localization support for multiple languages.;Ben Richter;0.063;0.07396;Schattenspringer AG;abgerechnet;00:20
+Sternschuppen AG / Satellite Technology;8493009;14.02.2024;Optimized database queries for faster load times.;Lukas Fischer;0.02831;0.03357;Sternschuppen AG;abgerechnet;00:06
+Weitblick KG / Wealth Management;7326455;02.02.2024;Upgraded server infrastructure for scalability.;Hannah Boehm;0.12569;0.17523;Weitblick KG;abgerechnet;01:26
+Kieselstein GmbH / Architectural Design;7781841;05.02.2024;Improved security protocols to protect data.;Sara Brandt;0.11049;0.10948;Kieselstein GmbH;abgerechnet;01:01
+Adlerflug GmbH / Flight Dynamics;3612699;27.02.2024;Conducted performance testing and optimizations.;Jan Kohler;0.05222;0.05371;Adlerflug GmbH;abgerechnet;00:00
+Sonnenstrahl KG / Sustainable Solutions;9868643;28.02.2024;Automated deployment processes for CI/CD pipeline.;Anna Becker;0.03197;0.02982;Sonnenstrahl KG;abgerechnet;00:36
+Feuersturm GmbH / Emergency Planning;8102155;09.02.2024;Added a new feature to improve user experience.;Sophie Schmidt;0.03291;0.0276;Feuersturm GmbH;geprueft;00:21
+Wildfang AG / Adventure Gear;1194077;13.02.2024;Improved error handling and logging mechanisms.;Emma Hoffmann;0.10983;0.12495;Wildfang AG;abgerechnet;01:28
+Kieselstein GmbH / Architectural Design;8665593;23.02.2024;Redesigned landing page for better conversion rates.;Finn Lehmann;0.07395;0.05323;Kieselstein GmbH;abgerechnet;00:31
+Hinterland GmbH / Rural Development;7287951;05.02.2024;Implemented caching mechanism for efficiency.;Anna Becker;0.25105;0.46807;Hinterland GmbH;abgerechnet;04:32
+Adlerflug GmbH / Flight Dynamics;5916757;23.02.2024;Developed new analytics dashboard for insights.;Emma Kruger;0.11516;0.11004;Adlerflug GmbH;abgerechnet;00:47
+Drachenfels GmbH / Storytelling;3928249;01.02.2024;Added a new feature to improve user experience.;Julia Weber;0.03204;0;Drachenfels GmbH;abgerechnet;00:28
+Glücksklee GmbH / Health Solutions;3954079;28.02.2024;Added a new feature to improve user experience.;Laura Schwarz;0.07113;0.05322;Glücksklee GmbH;abgerechnet;00:16
+Wasserfall AG / Hydropower Development;4281622;19.02.2024;Enhanced mobile responsiveness of the website.;Jonas Wagner;0.05253;0.14787;Wasserfall AG;abgerechnet;01:10
+Adlerflug GmbH / Aerospace Engineering;8652069;07.02.2024;Conducted performance testing and optimizations.;Lisa Schulz;0.03374;0;Adlerflug GmbH;abgerechnet;00:04
+Feuersturm GmbH / Fire Safety;7695096;16.02.2024;Developed prototype for upcoming product launch.;Niklas Hahn;0.06287;0;Feuersturm GmbH;abgerechnet;00:18
+Wildfang AG / Outdoor Equipment;4353351;15.02.2024;Optimized database queries for faster load times.;Tom Braun;0.74058;0.65168;Wildfang AG;abgerechnet;04:36
+Seeblick GmbH / Hotel Management;8588002;16.02.2024;Implemented user authentication system.;Julia Weber;0.0297;0.02511;Seeblick GmbH;abgerechnet;00:06
+Silberfuchs GmbH / Cybersecurity;4276112;15.02.2024;Redesigned landing page for better conversion rates.;Lea Schneider;0.07798;0.22449;Silberfuchs GmbH;abgerechnet;01:34
+Funkeln & Glanz KG / Retail Expansion;3471459;08.02.2024;Upgraded server infrastructure for scalability.;David Meier;0.03046;0.03573;Funkeln & Glanz KG;geprueft;00:00
+Wildfang AG / Product Innovation;3100561;29.02.2024;Resolved bug in the payment module.;Clara Klein;0.03602;0.03229;Wildfang AG;abgerechnet;00:11
+Feuersturm GmbH / Equipment Design;5219419;13.02.2024;Integrated third-party API for extended functionality.;Jonas Wagner;0.30833;0.26549;Feuersturm GmbH;abgerechnet;02:12
+Glücksklee GmbH / Pharmaceutical Development;6463212;13.02.2024;Integrated third-party API for extended functionality.;Lena Krause;0.13166;0.10138;Glücksklee GmbH;abgerechnet;00:39
+Seeblick GmbH / Hotel Management;6995279;19.02.2024;Refactored code for better maintainability.;Emma Kruger;0.0369;0.03289;Seeblick GmbH;abgerechnet;00:24
+Drachenfels GmbH / Fantasy Game Development;3490670;28.02.2024;Implemented user authentication system.;Ben Richter;0.05185;0.11463;Drachenfels GmbH;abgerechnet;00:34
+Nordlicht KG / Renewable Energy;4544893;29.02.2024;Improved security protocols to protect data.;Felix Voigt;0.14625;0.25235;Nordlicht KG;abgerechnet;02:23
+Sandsturm AG / Climate Adaptation;9982415;27.02.2024;Developed prototype for upcoming product launch.;Lukas Fischer;0.11525;0.11692;Sandsturm AG;abgerechnet;01:09
+Silberfuchs GmbH / AI Implementation;3871813;07.02.2024;Developed prototype for upcoming product launch.;Niklas Hahn;0.11132;0.13414;Silberfuchs GmbH;abgerechnet;00:54
+Wildfang AG / Product Innovation;4063662;07.02.2024;Developed new analytics dashboard for insights.;Noah Schmid;0.12945;0.31763;Wildfang AG;abgerechnet;02:47
+Mondschein KG / Optical Engineering;4253312;26.02.2024;Enhanced search functionality with advanced filters.;Anna Becker;0.18132;0.21693;Mondschein KG;abgerechnet;01:33
+Sonnenstrahl KG / Lighting Design;5237308;09.02.2024;Refactored code for better maintainability.;Lukas Fischer;0.11854;0.12936;Sonnenstrahl KG;abgerechnet;01:15
+Kleeblatt AG / Sustainability;7179056;26.02.2024;Implemented user authentication system.;Tim Neumann;0.2013;0.44494;Kleeblatt AG;abgerechnet;03:47
+Mondschein KG / Innovation;7253179;02.02.2024;Refactored code for better maintainability.;Julia Weber;0.03706;0.0348;Mondschein KG;abgerechnet;00:21
+Lichtblick AG / Renewable Energy;4607402;14.02.2024;Automated deployment processes for CI/CD pipeline.;Niklas Hahn;0.03322;0.0251;Lichtblick AG;abgerechnet;00:24
+Feuersturm GmbH / Equipment Design;4180656;19.02.2024;Improved security protocols to protect data.;Jan Kohler;0.768;0.93402;Feuersturm GmbH;abgerechnet;06:44
+Wasserfall AG / Water Conservation;5611094;12.02.2024;Implemented caching mechanism for efficiency.;Paul Bauer;0.05605;0.05204;Wasserfall AG;abgerechnet;00:25
+Nordlicht KG / Arctic Exploration;6139413;01.02.2024;Redesigned landing page for better conversion rates.;Olivia Berg;0.05898;0.05477;Nordlicht KG;abgerechnet;00:30
+Kleeblatt AG / Crop Management;5552534;06.02.2024;Enhanced mobile responsiveness of the website.;Emma Hoffmann;0.03358;0.0267;Kleeblatt AG;abgerechnet;00:08
+Sturm & Partner / Risk Management;4125458;12.02.2024;Added localization support for multiple languages.;Emma Hoffmann;0.4366;0.43081;Sturm & Partner;abgerechnet;03:18
+Drachenfels GmbH / Virtual Reality;6719561;15.02.2024;Updated UI for a more modern look.;Mia Koch;0.0263;0.03142;Drachenfels GmbH;abgerechnet;00:30
+Glücksklee GmbH / Pharmaceutical Development;7578282;13.02.2024;Optimized database queries for faster load times.;Simon Seidel;0.14363;0;Glücksklee GmbH;abgerechnet;00:11
+Kieselstein GmbH / Architectural Design;2359059;29.02.2024;Added a new feature to improve user experience.;Lisa Schulz;0.03695;0.07362;Kieselstein GmbH;abgerechnet;00:15
+Sandsturm AG / Water Scarcity;5751301;08.02.2024;Resolved bug in the payment module.;Lea Schneider;0.27042;0.74783;Sandsturm AG;abgerechnet;04:35
+Silberfuchs GmbH / Technology R&D;3884635;05.02.2024;Fixed compatibility issues with legacy systems.;Simon Seidel;0.02572;0.02919;Silberfuchs GmbH;abgerechnet;00:39
+Silberfuchs GmbH / AI Implementation;8195484;22.02.2024;Implemented caching mechanism for efficiency.;David Meier;0.0304;0.03337;Silberfuchs GmbH;abgerechnet;00:14
+Drachenfels GmbH / Fantasy Game Development;5617220;12.02.2024;Developed prototype for upcoming product launch.;Emma Kruger;0.05235;0.05153;Drachenfels GmbH;abgerechnet;00:05
+Morgenstern AG / Solar Energy;3639432;14.02.2024;Implemented user authentication system.;Anna Becker;0.03479;0.03253;Morgenstern AG;abgerechnet;00:13
+Kleeblatt AG / Agriculture Innovation;5230826;14.02.2024;Added localization support for multiple languages.;Anna Becker;0.06048;0.05709;Kleeblatt AG;abgerechnet;00:48
+Morgenstern AG / Eco-friendly Projects;6558059;19.02.2024;Improved security protocols to protect data.;Lea Schneider;0.05253;0.06143;Morgenstern AG;abgerechnet;00:50
+Sternschuppen AG / Space Exploration;4394375;22.02.2024;Integrated third-party API for extended functionality.;Paul Bauer;0.03136;0.03541;Sternschuppen AG;abgerechnet;00:21
+Wasserfall AG / Hydropower Development;9650255;12.02.2024;Developed prototype for upcoming product launch.;Felix Voigt;0.06625;0;Wasserfall AG;abgerechnet;00:28
+Sonnenstrahl KG / Energy Efficiency;8169534;08.02.2024;Updated UI for a more modern look.;Niklas Hahn;0.41489;0.54485;Sonnenstrahl KG;abgerechnet;04:01
+Drachenfels GmbH / Virtual Reality;7094230;15.02.2024;Added a new feature to improve user experience.;Simon Seidel;0.07756;0.08352;Drachenfels GmbH;abgerechnet;00:59
+Mondschein KG / Innovation;7458580;01.02.2024;Added a new feature to improve user experience.;Olivia Berg;0.09835;0.22631;Mondschein KG;abgerechnet;02:20
+Lichtblick AG / Solar Panel Tech;7547400;05.02.2024;Fixed compatibility issues with legacy systems.;Lisa Schulz;0.0342;0.02929;Lichtblick AG;abgerechnet;00:44
+Nordlicht KG / Arctic Exploration;6744145;06.02.2024;Developed new analytics dashboard for insights.;Jonas Wagner;0.03078;0.02768;Nordlicht KG;abgerechnet;00:17
+Himmelsstürmer KG / Pilot Programs;3912021;14.02.2024;Developed new analytics dashboard for insights.;Paul Bauer;0.31485;0.32446;Himmelsstürmer KG;abgerechnet;02:46
+Lichtblick AG / Environmental Impact;6386178;07.02.2024;Improved error handling and logging mechanisms.;Olivia Berg;0.18581;0;Lichtblick AG;abgerechnet;00:04
+Weitblick KG / Long-Term Investments;3435062;29.02.2024;Improved security protocols to protect data.;Julia Weber;0.09367;0.0909;Weitblick KG;abgerechnet;00:45
+Wolkenbruch AG / Cloud Computing;1631632;21.02.2024;Updated UI for a more modern look.;Emma Kruger;0.87995;1.02172;Wolkenbruch AG;abgerechnet;08:19
+Sternschuppen AG / Space Exploration;6607122;05.02.2024;Fixed compatibility issues with legacy systems.;Julia Weber;0.02858;0.02945;Sternschuppen AG;abgerechnet;00:20
+Fels & Stein GmbH / Mineral Extraction;6729762;12.02.2024;Added a new feature to improve user experience.;Laura Schwarz;0.03612;0;Fels & Stein GmbH;abgerechnet;00:06
+Kleeblatt AG / Sustainability;5128296;13.02.2024;Added localization support for multiple languages.;Noah Schmid;0.14072;0;Kleeblatt AG;abgerechnet;00:26
+Adlerflug GmbH / Flight Dynamics;7337043;28.02.2024;Enhanced mobile responsiveness of the website.;Max Mueller;0.03503;0.06719;Adlerflug GmbH;abgerechnet;00:01
+Mondschein KG / Optical Engineering;5800856;23.02.2024;Automated deployment processes for CI/CD pipeline.;Lena Krause;0.29389;0.82163;Mondschein KG;abgerechnet;05:01
+Nordlicht KG / Climate Research;7008502;07.02.2024;Developed prototype for upcoming product launch.;Julia Weber;0.03344;0.02497;Nordlicht KG;abgerechnet;00:34
+Adlerflug GmbH / Aviation Safety;5311816;08.02.2024;Developed new analytics dashboard for insights.;Lea Schneider;0.02847;0.0354;Adlerflug GmbH;abgerechnet;00:06
+Kieselstein GmbH / Construction Innovation;4349887;12.02.2024;Added a new feature to improve user experience.;Hannah Boehm;0.06709;0.06518;Kieselstein GmbH;abgerechnet;00:28
+Mondschein KG / Night Vision Tech;8287853;14.02.2024;Developed new analytics dashboard for insights.;Finn Lehmann;0.06519;0.06323;Mondschein KG;abgerechnet;00:00
+Sonnenstrahl KG / Lighting Design;3611872;29.02.2024;Implemented caching mechanism for efficiency.;Olivia Berg;0.03433;0.03609;Sonnenstrahl KG;abgerechnet;00:33
+Nordlicht KG / Climate Research;3296497;16.02.2024;Enhanced search functionality with advanced filters.;Lukas Fischer;0.05063;0.07085;Nordlicht KG;abgerechnet;00:47
+Weitblick KG / Retirement Planning;4585971;27.02.2024;Upgraded server infrastructure for scalability.;Niklas Hahn;0.15259;0;Weitblick KG;abgerechnet;00:00
+Kieselstein GmbH / Construction Innovation;8132880;19.02.2024;Improved security protocols to protect data.;Lukas Fischer;0.07409;0;Kieselstein GmbH;abgerechnet;00:27
+Fels & Stein GmbH / Mineral Extraction;5679709;29.02.2024;Integrated third-party API for extended functionality.;Lara Zimmer;0.17877;0.33391;Fels & Stein GmbH;abgerechnet;02:25
+Blitz & Co KG / Lightning Protection;6426279;29.02.2024;Fixed compatibility issues with legacy systems.;Emma Kruger;0.21683;0.62675;Blitz & Co KG;abgerechnet;03:55
+Fels & Stein GmbH / Mineral Extraction;9856809;08.02.2024;Added localization support for multiple languages.;Max Mueller;0.03147;0;Fels & Stein GmbH;abgerechnet;00:14
+Mondschein KG / Night Vision Tech;4890043;07.02.2024;Integrated third-party API for extended functionality.;Emma Hoffmann;0.09725;0.09922;Mondschein KG;abgerechnet;00:20
+Adlerflug GmbH / Flight Dynamics;1190911;24.02.2024;Integrated third-party API for extended functionality.;Liam Scholz;0.2921;0.29169;Adlerflug GmbH;abgerechnet;02:26
+Adlerflug GmbH / Aviation Safety;4232861;29.02.2024;Added a new feature to improve user experience.;David Meier;0.13843;0.10948;Adlerflug GmbH;abgerechnet;01:02
+Kleeblatt AG / Agriculture Innovation;2841070;13.02.2024;Enhanced search functionality with advanced filters.;Noah Schmid;0.037;0;Kleeblatt AG;abgerechnet;00:13
+Kieselstein GmbH / Construction Innovation;5890975;07.02.2024;Redesigned landing page for better conversion rates.;Julia Weber;0.0621;0;Kieselstein GmbH;abgerechnet;00:23
+Fels & Stein GmbH / Rock Mechanics;8656769;12.02.2024;Refactored code for better maintainability.;Max Mueller;0.0333;0;Fels & Stein GmbH;abgerechnet;00:30
+Sandsturm AG / Water Scarcity;5513673;01.02.2024;Added a new feature to improve user experience.;Lena Krause;0.08774;0.20728;Sandsturm AG;abgerechnet;02:03
+Wunderbar GmbH / Marketing Overhaul;6473556;20.02.2024;Implemented user authentication system.;Niklas Hahn;0.06978;0.17709;Wunderbar GmbH;abgerechnet;01:20
+Kleeblatt AG / Agriculture Innovation;8951902;05.02.2024;Added localization support for multiple languages.;Felix Voigt;0.02806;0.03001;Kleeblatt AG;abgerechnet;00:45
+Kieselstein GmbH / Urban Planning;9544677;15.02.2024;Enhanced search functionality with advanced filters.;Noah Schmid;0.2549;0.2367;Kieselstein GmbH;abgerechnet;01:24
+Schattenspringer AG / Entertainment Ventures;4288042;15.02.2024;Enhanced mobile responsiveness of the website.;Ben Richter;0.03044;0.054;Schattenspringer AG;abgerechnet;00:34
+Bergwerk AG / Mining Expansion;6387250;21.02.2024;Automated deployment processes for CI/CD pipeline.;Clara Klein;0.23894;0.22399;Bergwerk AG;abgerechnet;01:39
+Drachenfels GmbH / Virtual Reality;3077972;12.02.2024;Refactored code for better maintainability.;Hannah Boehm;0.03441;0;Drachenfels GmbH;abgerechnet;00:24
+Wolfsblut GmbH / Veterinary Research;6450308;01.02.2024;Enhanced search functionality with advanced filters.;Liam Scholz;0.36729;0.46157;Wolfsblut GmbH;abgerechnet;03:42
+Wasserfall AG / Hydropower Development;4779803;26.02.2024;Resolved bug in the payment module.;Laura Schwarz;0.03125;0.03722;Wasserfall AG;abgerechnet;00:04
+Bergwerk AG / Safety Enhancement;8313802;13.02.2024;Added localization support for multiple languages.;Lisa Schulz;0.03516;0.03124;Bergwerk AG;abgerechnet;00:03
+Wolfsblut GmbH / Veterinary Research;2036584;22.02.2024;Developed new analytics dashboard for insights.;Ben Richter;0.06155;0.12158;Wolfsblut GmbH;abgerechnet;01:21
+Kieselstein GmbH / Urban Planning;6216576;06.02.2024;Implemented user authentication system.;Lara Zimmer;0.06388;0.06846;Kieselstein GmbH;abgerechnet;00:31
+Himmelsstürmer KG / Pilot Programs;4617156;22.02.2024;Developed new analytics dashboard for insights.;Ben Richter;0.08729;0.08494;Himmelsstürmer KG;abgerechnet;00:47
+Weitblick KG / Retirement Planning;4661638;12.02.2024;Added a new feature to improve user experience.;Anna Becker;0.05909;0.06904;Weitblick KG;abgerechnet;00:12
+Wasserfall AG / Water Conservation;1520420;07.02.2024;Added a new feature to improve user experience.;Clara Klein;0.05026;0.0698;Wasserfall AG;abgerechnet;00:34
+Lichtblick AG / Solar Panel Tech;8881858;29.02.2024;Redesigned landing page for better conversion rates.;Lara Zimmer;0.06241;0.05819;Lichtblick AG;abgerechnet;00:19
+Schattenspringer AG / Entertainment Ventures;1760178;02.02.2024;Implemented user authentication system.;Olivia Berg;0.02504;0.03519;Schattenspringer AG;abgerechnet;00:09
+Wasserfall AG / Hydropower Development;6070050;19.02.2024;Upgraded server infrastructure for scalability.;Anna Becker;0.03229;0.05506;Wasserfall AG;abgerechnet;00:41
+Silberfuchs GmbH / AI Implementation;6967067;27.02.2024;Enhanced search functionality with advanced filters.;Emma Kruger;0.03197;0.02832;Silberfuchs GmbH;abgerechnet;00:34
+Silberfuchs GmbH / Technology R&D;1797254;23.02.2024;Resolved bug in the payment module.;Tim Neumann;0.30181;0.54088;Silberfuchs GmbH;abgerechnet;05:18
+Wolfsblut GmbH / Zoology;7498700;29.02.2024;Enhanced search functionality with advanced filters.;Ben Richter;0.05216;0.06007;Wolfsblut GmbH;abgerechnet;00:48
+Sandsturm AG / Desert Farming;8920805;14.02.2024;Improved error handling and logging mechanisms.;David Meier;0.74865;0.61965;Sandsturm AG;abgerechnet;05:14
+Kleeblatt AG / Sustainability;7923702;15.02.2024;Implemented caching mechanism for efficiency.;Lea Schneider;0.10325;0.09451;Kleeblatt AG;abgerechnet;00:20
+Feuersturm GmbH / Equipment Design;1398679;13.02.2024;Improved security protocols to protect data.;Clara Klein;0.02701;0;Feuersturm GmbH;abgerechnet;00:25
+Sonnenstrahl KG / Energy Efficiency;6459630;26.02.2024;Automated deployment processes for CI/CD pipeline.;Liam Scholz;0.03282;0.06235;Sonnenstrahl KG;abgerechnet;00:32
+Kleeblatt AG / Sustainability;1173290;15.02.2024;Improved error handling and logging mechanisms.;Tim Neumann;0.15982;0.14767;Kleeblatt AG;abgerechnet;00:54
+Himmelsstürmer KG / Aviation Training;1798593;02.02.2024;Added localization support for multiple languages.;Lukas Fischer;0.3103;0.41561;Himmelsstürmer KG;abgerechnet;02:43
+Blitz & Co KG / Lightning Protection;1100327;07.02.2024;Developed new analytics dashboard for insights.;Noah Schmid;0.0333;0;Blitz & Co KG;abgerechnet;00:02
+Nordlicht KG / Renewable Energy;3823893;05.02.2024;Redesigned landing page for better conversion rates.;Tim Neumann;0.32294;0.76961;Nordlicht KG;abgerechnet;06:36
+Bergwerk AG / Safety Enhancement;3856049;19.02.2024;Improved error handling and logging mechanisms.;Lena Krause;0.02889;0.06134;Bergwerk AG;abgerechnet;00:02
+Wildfang AG / Adventure Gear;5504544;27.02.2024;Enhanced search functionality with advanced filters.;Tim Neumann;0.08925;0;Wildfang AG;abgerechnet;00:24
+Mondschein KG / Night Vision Tech;6902572;01.02.2024;Developed prototype for upcoming product launch.;Lisa Schulz;0.36401;0.8751;Mondschein KG;abgerechnet;05:46
+Nordlicht KG / Climate Research;3043742;19.02.2024;Redesigned landing page for better conversion rates.;Jan Kohler;0.15992;0.1915;Nordlicht KG;abgerechnet;01:30
+Bergwerk AG / Mining Expansion;9783835;21.02.2024;Fixed compatibility issues with legacy systems.;Jonas Wagner;0.03005;0.02882;Bergwerk AG;abgerechnet;00:00
+Eisberg GmbH / Supply Chain;2951041;08.02.2024;Improved error handling and logging mechanisms.;Sara Brandt;0.07041;0;Eisberg GmbH;abgerechnet;00:13
+Wolkenbruch AG / Data Security;8408356;21.02.2024;Implemented user authentication system.;Sara Brandt;0.13638;0.17686;Wolkenbruch AG;abgerechnet;00:57
+Wunderbar GmbH / Customer Engagement;6134691;12.02.2024;Integrated third-party API for extended functionality.;Paul Bauer;0.14131;0;Wunderbar GmbH;abgerechnet;00:21
+Wunderbar GmbH / Brand Innovation;8872458;07.02.2024;Improved error handling and logging mechanisms.;Emma Kruger;0.11197;0.16942;Wunderbar GmbH;abgerechnet;01:21
+Lichtblick AG / Solar Panel Tech;2575930;26.02.2024;Developed prototype for upcoming product launch.;Simon Seidel;0.10849;0.27728;Lichtblick AG;abgerechnet;01:49
+Morgenstern AG / Eco-friendly Projects;4388706;14.02.2024;Added a new feature to improve user experience.;David Meier;0.19495;0.19531;Morgenstern AG;abgerechnet;01:35
+Adlerflug GmbH / Aviation Safety;8646950;06.02.2024;Developed prototype for upcoming product launch.;Anna Becker;0.28578;0.29542;Adlerflug GmbH;abgerechnet;01:55
+Glücksklee GmbH / Pharmaceutical Development;1630831;01.02.2024;Updated UI for a more modern look.;Emma Hoffmann;0.06776;0.05272;Glücksklee GmbH;abgerechnet;00:03
+Fels & Stein GmbH / Rock Mechanics;4618563;12.02.2024;Conducted performance testing and optimizations.;Sara Brandt;0.05312;0;Fels & Stein GmbH;abgerechnet;00:24
+Seeblick GmbH / Eco-Tourism;7475445;13.02.2024;Conducted performance testing and optimizations.;Lukas Fischer;0.03114;0.03626;Seeblick GmbH;abgerechnet;00:23
+Nordlicht KG / Renewable Energy;2155617;01.02.2024;Improved error handling and logging mechanisms.;Jan Kohler;0.05084;0.05273;Nordlicht KG;abgerechnet;00:40
+Weitblick KG / Long-Term Investments;5159282;23.02.2024;Developed prototype for upcoming product launch.;Hannah Boehm;0.05746;0.06227;Weitblick KG;abgerechnet;00:16
+Feuersturm GmbH / Equipment Design;9715701;02.02.2024;Implemented user authentication system.;Lukas Fischer;0.50227;0.38376;Feuersturm GmbH;abgerechnet;04:08
+Blitz & Co KG / Smart Grid;5346530;09.02.2024;Implemented caching mechanism for efficiency.;Ben Richter;0.03235;0.03094;Blitz & Co KG;abgerechnet;00:10
+Schattenspringer AG / Film Production;3497483;19.02.2024;Conducted performance testing and optimizations.;Olivia Berg;0.05252;0.06923;Schattenspringer AG;abgerechnet;00:37
+Lichtblick AG / Solar Panel Tech;2318826;14.02.2024;Added a new feature to improve user experience.;Emma Hoffmann;0.05601;0;Lichtblick AG;abgerechnet;00:14
+Feuersturm GmbH / Equipment Design;2783328;20.02.2024;Automated deployment processes for CI/CD pipeline.;Sara Brandt;0.0331;0.02721;Feuersturm GmbH;abgerechnet;00:34
+Drachenfels GmbH / Storytelling;6421429;28.02.2024;Added a new feature to improve user experience.;Lisa Schulz;0.02508;0.03634;Drachenfels GmbH;abgerechnet;00:03
+Kleeblatt AG / Agriculture Innovation;6008410;29.02.2024;Optimized database queries for faster load times.;Tim Neumann;0.08723;0.07669;Kleeblatt AG;abgerechnet;00:30
+Silberfuchs GmbH / Cybersecurity;4798867;19.02.2024;Automated deployment processes for CI/CD pipeline.;Anna Becker;0.02785;0.06651;Silberfuchs GmbH;abgerechnet;00:42
+Bergwerk AG / Sustainable Resources;4680681;02.02.2024;Integrated third-party API for extended functionality.;Emma Hoffmann;0.06688;0;Bergwerk AG;abgerechnet;00:28
+Wolkenbruch AG / IT Infrastructure;5067711;15.02.2024;Enhanced search functionality with advanced filters.;Max Mueller;0.07146;0.05548;Wolkenbruch AG;abgerechnet;00:51
+Wasserfall AG / Water Conservation;2884440;15.02.2024;Improved error handling and logging mechanisms.;Liam Scholz;0.10506;0.09644;Wasserfall AG;abgerechnet;00:42
+Wolkenbruch AG / IT Infrastructure;7323357;15.02.2024;Resolved bug in the payment module.;Tom Braun;0.05833;0.06894;Wolkenbruch AG;abgerechnet;00:56
+Wolfsblut GmbH / Veterinary Research;3359267;12.02.2024;Integrated third-party API for extended functionality.;Emma Kruger;0.05569;0.15559;Wolfsblut GmbH;abgerechnet;00:45
+Morgenstern AG / Eco-friendly Projects;4871258;15.02.2024;Optimized database queries for faster load times.;Emma Kruger;0.02766;0.06434;Morgenstern AG;abgerechnet;00:37
+Kieselstein GmbH / Architectural Design;3485397;19.02.2024;Added a new feature to improve user experience.;Lena Krause;0.02867;0.06599;Kieselstein GmbH;abgerechnet;00:45
+Nordlicht KG / Renewable Energy;6110914;16.02.2024;Implemented user authentication system.;Finn Lehmann;0.44788;1.09387;Nordlicht KG;abgerechnet;07:38
+Mondschein KG / Optical Engineering;7917680;22.02.2024;Improved error handling and logging mechanisms.;Noah Schmid;0.12546;0.13691;Mondschein KG;abgerechnet;00:33
+Sonnenstrahl KG / Sustainable Solutions;4997431;27.02.2024;Optimized database queries for faster load times.;David Meier;0.07119;0.12353;Sonnenstrahl KG;abgerechnet;01:27
+Adlerflug GmbH / Flight Dynamics;9895601;12.02.2024;Updated UI for a more modern look.;Felix Voigt;0.02919;0;Adlerflug GmbH;abgerechnet;00:14
+Himmelsstürmer KG / Aircraft Maintenance;5540056;28.02.2024;Updated UI for a more modern look.;Anna Becker;0.11653;0.12071;Himmelsstürmer KG;abgerechnet;01:29
+Sternschuppen AG / Astrophysics;4154760;01.02.2024;Enhanced search functionality with advanced filters.;Finn Lehmann;0.0712;0.13804;Sternschuppen AG;abgerechnet;00:48
+Sandsturm AG / Climate Adaptation;9048103;29.02.2024;Enhanced search functionality with advanced filters.;Ben Richter;0.02552;0.06722;Sandsturm AG;abgerechnet;00:03
+Wolkenbruch AG / IT Infrastructure;3876441;20.02.2024;Developed new analytics dashboard for insights.;Jan Kohler;0.02839;0.02877;Wolkenbruch AG;abgerechnet;00:14
+Feuersturm GmbH / Emergency Planning;8383646;13.02.2024;Automated deployment processes for CI/CD pipeline.;Felix Voigt;0.03474;0.0332;Feuersturm GmbH;abgerechnet;00:26
+Wunderbar GmbH / Customer Engagement;4758167;13.02.2024;Fixed compatibility issues with legacy systems.;Paul Bauer;0.0975;0.08626;Wunderbar GmbH;abgerechnet;00:18
+Sonnenstrahl KG / Energy Efficiency;2198121;13.02.2024;Enhanced mobile responsiveness of the website.;Jan Kohler;0.09261;0.11892;Sonnenstrahl KG;abgerechnet;00:37
+Morgenstern AG / Solar Energy;4746126;29.02.2024;Automated deployment processes for CI/CD pipeline.;Lisa Schulz;0.10568;0.08259;Morgenstern AG;abgerechnet;01:05
+Weitblick KG / Wealth Management;6026158;16.02.2024;Fixed compatibility issues with legacy systems.;Olivia Berg;0.07593;0.26099;Weitblick KG;abgerechnet;01:58
+Lichtblick AG / Solar Panel Tech;3446084;21.02.2024;Automated deployment processes for CI/CD pipeline.;Max Mueller;0.03299;0.03377;Lichtblick AG;abgerechnet;00:39
+Blitz & Co KG / Lightning Protection;2270392;01.02.2024;Upgraded server infrastructure for scalability.;Niklas Hahn;0.02698;0;Blitz & Co KG;abgerechnet;00:13
+Funkeln & Glanz KG / Retail Expansion;1736722;21.02.2024;Conducted performance testing and optimizations.;Sophie Schmidt;0.33313;0.2643;Funkeln & Glanz KG;abgerechnet;02:34
+Wildfang AG / Outdoor Equipment;5996916;22.02.2024;Enhanced search functionality with advanced filters.;Sara Brandt;0.03486;0.03019;Wildfang AG;abgerechnet;00:44
+Schattenspringer AG / Entertainment Ventures;8345987;27.02.2024;Refactored code for better maintainability.;Hannah Boehm;0.30933;0.36419;Schattenspringer AG;abgerechnet;02:10
+Blitz & Co KG / Lightning Protection;2618331;02.02.2024;Redesigned landing page for better conversion rates.;Julia Weber;0.02518;0.02586;Blitz & Co KG;abgerechnet;00:00
+Nordlicht KG / Renewable Energy;9223271;14.02.2024;Fixed compatibility issues with legacy systems.;Julia Weber;0.03175;0.02647;Nordlicht KG;abgerechnet;00:10
+Eisberg GmbH / Supply Chain;3616209;22.02.2024;Added localization support for multiple languages.;Tim Neumann;0.11393;0.13954;Eisberg GmbH;abgerechnet;01:04
+Sternschuppen AG / Satellite Technology;7194912;27.02.2024;Developed new analytics dashboard for insights.;Julia Weber;0.07111;0.06333;Sternschuppen AG;abgerechnet;00:17
+Eisberg GmbH / Cold Chain Solutions;3972485;13.02.2024;Developed prototype for upcoming product launch.;Max Mueller;0.05516;0.1306;Eisberg GmbH;abgerechnet;00:50
+Wolfsblut GmbH / Veterinary Research;7494180;29.02.2024;Implemented user authentication system.;David Meier;0.0522;0.05342;Wolfsblut GmbH;abgerechnet;00:57
+Funkeln & Glanz KG / Retail Expansion;1016036;05.02.2024;Added a new feature to improve user experience.;Lea Schneider;0.1914;0.24818;Funkeln & Glanz KG;abgerechnet;01:46
+Funkeln & Glanz KG / Retail Expansion;9681785;28.02.2024;Upgraded server infrastructure for scalability.;Finn Lehmann;0.03159;0.05505;Funkeln & Glanz KG;abgerechnet;00:09
+Hinterland GmbH / Rural Development;8645742;16.02.2024;Developed prototype for upcoming product launch.;Max Mueller;0.31515;0.25858;Hinterland GmbH;abgerechnet;01:59
+Wasserfall AG / Eco-friendly Solutions;6286184;01.02.2024;Improved error handling and logging mechanisms.;Hannah Boehm;0.02771;0;Wasserfall AG;abgerechnet;00:12
+Wildfang AG / Outdoor Equipment;5940287;20.02.2024;Developed new analytics dashboard for insights.;Laura Schwarz;0.02912;0.036;Wildfang AG;abgerechnet;00:38
+Glücksklee GmbH / Pharmaceutical Development;9255660;05.02.2024;Automated deployment processes for CI/CD pipeline.;Julia Weber;0.21197;0.20889;Glücksklee GmbH;abgerechnet;01:39
+Sonnenstrahl KG / Energy Efficiency;6310449;05.02.2024;Enhanced mobile responsiveness of the website.;Lea Schneider;0.1053;0.14899;Sonnenstrahl KG;abgerechnet;01:21
+Glücksklee GmbH / Health Solutions;1320585;29.02.2024;Updated UI for a more modern look.;Finn Lehmann;0.07693;0.11081;Glücksklee GmbH;abgerechnet;01:13
+Mondschein KG / Night Vision Tech;8140167;06.02.2024;Enhanced mobile responsiveness of the website.;Sophie Schmidt;0.03425;0;Mondschein KG;abgerechnet;00:18
+Glücksklee GmbH / Biotech Research;2620826;20.02.2024;Added a new feature to improve user experience.;Clara Klein;0.03631;0.03481;Glücksklee GmbH;abgerechnet;00:12
+Fels & Stein GmbH / Rock Mechanics;5557164;19.02.2024;Conducted performance testing and optimizations.;David Meier;0.03101;0.0266;Fels & Stein GmbH;abgerechnet;00:30
+Wunderbar GmbH / Customer Engagement;2906534;14.02.2024;Improved error handling and logging mechanisms.;Mia Koch;0.03525;0.03405;Wunderbar GmbH;abgerechnet;00:26
+Sonnenstrahl KG / Energy Efficiency;2515784;26.02.2024;Refactored code for better maintainability.;Sara Brandt;0.19712;0.17682;Sonnenstrahl KG;abgerechnet;01:22
+Weitblick KG / Retirement Planning;9967051;14.02.2024;Implemented caching mechanism for efficiency.;Jan Kohler;0.02694;0.02722;Weitblick KG;abgerechnet;00:17
+Wasserfall AG / Hydropower Development;2220642;13.02.2024;Implemented caching mechanism for efficiency.;Max Mueller;0.06569;0.14567;Wasserfall AG;abgerechnet;00:52
+Kleeblatt AG / Crop Management;1551096;08.02.2024;Optimized database queries for faster load times.;Jonas Wagner;0.02676;0.02507;Kleeblatt AG;abgerechnet;00:35
+Glücksklee GmbH / Pharmaceutical Development;4651556;05.02.2024;Redesigned landing page for better conversion rates.;Finn Lehmann;0.32227;0.7212;Glücksklee GmbH;abgerechnet;06:21
+Wolfsblut GmbH / Wildlife Conservation;2932994;20.02.2024;Improved security protocols to protect data.;Lara Zimmer;0.03523;0.02965;Wolfsblut GmbH;abgerechnet;00:19
+Feuersturm GmbH / Equipment Design;9595977;15.02.2024;Developed prototype for upcoming product launch.;Lukas Fischer;0.08582;0.1133;Feuersturm GmbH;abgerechnet;01:21
+Sonnenstrahl KG / Sustainable Solutions;8841314;20.02.2024;Developed new analytics dashboard for insights.;Anna Becker;0.06566;0.05827;Sonnenstrahl KG;abgerechnet;00:49
+Morgenstern AG / Eco-friendly Projects;3248440;05.02.2024;Improved error handling and logging mechanisms.;Noah Schmid;0.36825;0.33129;Morgenstern AG;abgerechnet;02:43
+Fels & Stein GmbH / Geological Surveys;8938127;09.02.2024;Optimized database queries for faster load times.;Lisa Schulz;0.03589;0.03427;Fels & Stein GmbH;abgerechnet;00:03
+Glücksklee GmbH / Biotech Research;4560918;09.02.2024;Updated UI for a more modern look.;Niklas Hahn;0.03576;0.03007;Glücksklee GmbH;abgerechnet;00:17
+Wolkenbruch AG / Data Security;7217378;19.02.2024;Added localization support for multiple languages.;David Meier;0.22708;0.21423;Wolkenbruch AG;abgerechnet;02:12
+Wolfsblut GmbH / Wildlife Conservation;5313510;07.02.2024;Enhanced search functionality with advanced filters.;Simon Seidel;0.02503;0.03207;Wolfsblut GmbH;abgerechnet;00:34
+Silberfuchs GmbH / AI Implementation;8238975;21.02.2024;Enhanced search functionality with advanced filters.;Simon Seidel;0.03201;0.03396;Silberfuchs GmbH;abgerechnet;00:12
+Wildfang AG / Outdoor Equipment;9100181;05.02.2024;Implemented user authentication system.;Jan Kohler;0.25425;0.22663;Wildfang AG;abgerechnet;01:33
+Eisberg GmbH / Logistics Optimization;7424883;02.02.2024;Conducted performance testing and optimizations.;Lea Schneider;0.03404;0.03101;Eisberg GmbH;abgerechnet;00:08
+Sternschuppen AG / Satellite Technology;7880188;14.02.2024;Implemented caching mechanism for efficiency.;Sara Brandt;0.07061;0;Sternschuppen AG;abgerechnet;00:15
+Bergwerk AG / Sustainable Resources;3421806;29.02.2024;Implemented caching mechanism for efficiency.;Lara Zimmer;0.03407;0.03641;Bergwerk AG;abgerechnet;00:06
+Morgenstern AG / Solar Energy;4989410;14.02.2024;Added a new feature to improve user experience.;Emma Kruger;0.08805;0.10232;Morgenstern AG;abgerechnet;01:03
+Kleeblatt AG / Sustainability;8681418;02.02.2024;Conducted performance testing and optimizations.;Tom Braun;0.03596;0;Kleeblatt AG;abgerechnet;00:30
+Wildfang AG / Product Innovation;4744326;28.02.2024;Implemented user authentication system.;Lukas Fischer;0.79321;0.87113;Wildfang AG;abgerechnet;06:54
+Wasserfall AG / Eco-friendly Solutions;3433882;14.02.2024;Added localization support for multiple languages.;Julia Weber;0.02619;0.02905;Wasserfall AG;abgerechnet;00:41
+Weitblick KG / Long-Term Investments;9137588;26.02.2024;Enhanced mobile responsiveness of the website.;Lena Krause;0.02829;0.03097;Weitblick KG;abgerechnet;00:35
+Mondschein KG / Optical Engineering;4144362;20.02.2024;Resolved bug in the payment module.;Noah Schmid;0.0744;0;Mondschein KG;abgerechnet;00:10
+Sonnenstrahl KG / Energy Efficiency;7428871;12.02.2024;Redesigned landing page for better conversion rates.;Tom Braun;0.05359;0.06246;Sonnenstrahl KG;abgerechnet;00:32
+Weitblick KG / Wealth Management;4282505;15.02.2024;Developed prototype for upcoming product launch.;Liam Scholz;0.03527;0.02852;Weitblick KG;abgerechnet;00:21
+Seeblick GmbH / Eco-Tourism;8489482;21.02.2024;Improved security protocols to protect data.;Olivia Berg;0.08288;0.07651;Seeblick GmbH;abgerechnet;01:15
+Mondschein KG / Night Vision Tech;7295661;16.02.2024;Refactored code for better maintainability.;Noah Schmid;0.07237;0.0534;Mondschein KG;abgerechnet;00:04
+Lichtblick AG / Renewable Energy;8621487;20.02.2024;Added localization support for multiple languages.;Sara Brandt;0.10147;0;Lichtblick AG;abgerechnet;00:12
+Wunderbar GmbH / Marketing Overhaul;1866150;14.02.2024;Fixed compatibility issues with legacy systems.;Tim Neumann;0.02739;0.03516;Wunderbar GmbH;abgerechnet;00:34
+Seeblick GmbH / Eco-Tourism;9686223;15.02.2024;Developed new analytics dashboard for insights.;Lena Krause;0.39382;0.44026;Seeblick GmbH;abgerechnet;03:25
+Eisberg GmbH / Logistics Optimization;6965897;14.02.2024;Fixed compatibility issues with legacy systems.;Simon Seidel;0.126;0.11197;Eisberg GmbH;abgerechnet;01:16
+Adlerflug GmbH / Flight Dynamics;4911966;13.02.2024;Automated deployment processes for CI/CD pipeline.;Max Mueller;0.29937;0.25577;Adlerflug GmbH;abgerechnet;02:22
+Fels & Stein GmbH / Rock Mechanics;5783994;27.02.2024;Enhanced search functionality with advanced filters.;Niklas Hahn;0.20063;0.45215;Fels & Stein GmbH;abgerechnet;04:12
+Himmelsstürmer KG / Aircraft Maintenance;2289820;23.02.2024;Integrated third-party API for extended functionality.;Olivia Berg;0.02627;0.03503;Himmelsstürmer KG;abgerechnet;00:31
+Adlerflug GmbH / Aerospace Engineering;3700407;13.02.2024;Redesigned landing page for better conversion rates.;Lara Zimmer;0.33456;0.23054;Adlerflug GmbH;abgerechnet;02:06
+Weitblick KG / Long-Term Investments;9309666;13.02.2024;Developed prototype for upcoming product launch.;Lena Krause;0.02519;0.02637;Weitblick KG;abgerechnet;00:20
+Weitblick KG / Wealth Management;2293203;02.02.2024;Implemented caching mechanism for efficiency.;Clara Klein;0.40368;0.46464;Weitblick KG;abgerechnet;03:27
+Seeblick GmbH / Hotel Management;8659546;19.02.2024;Upgraded server infrastructure for scalability.;Mia Koch;0.03318;0.05325;Seeblick GmbH;abgerechnet;00:08
+Wunderbar GmbH / Brand Innovation;5257243;15.02.2024;Improved security protocols to protect data.;Noah Schmid;0.12765;0.14027;Wunderbar GmbH;abgerechnet;01:15
+Mondschein KG / Innovation;7988643;06.02.2024;Improved error handling and logging mechanisms.;Clara Klein;0.03406;0.03243;Mondschein KG;abgerechnet;00:45
+Sandsturm AG / Desert Farming;3952249;29.02.2024;Enhanced mobile responsiveness of the website.;Max Mueller;0.05765;0.11536;Sandsturm AG;abgerechnet;01:24
+Sandsturm AG / Desert Farming;2760589;26.02.2024;Added a new feature to improve user experience.;Clara Klein;0.03451;0.05148;Sandsturm AG;abgerechnet;00:12
+Schattenspringer AG / Digital Media;6850501;06.02.2024;Implemented user authentication system.;Finn Lehmann;0.03507;0.02594;Schattenspringer AG;abgerechnet;00:36
+Kleeblatt AG / Sustainability;7994808;14.02.2024;Resolved bug in the payment module.;Lisa Schulz;0.13638;0.16997;Kleeblatt AG;abgerechnet;01:33
+Bergwerk AG / Safety Enhancement;2349078;06.02.2024;Implemented caching mechanism for efficiency.;Jan Kohler;0.02966;0.03313;Bergwerk AG;abgerechnet;00:22
+Himmelsstürmer KG / Pilot Programs;5734405;05.02.2024;Fixed compatibility issues with legacy systems.;Lara Zimmer;0.26296;0.23198;Himmelsstürmer KG;abgerechnet;02:05
+Sandsturm AG / Water Scarcity;1607712;07.02.2024;Upgraded server infrastructure for scalability.;Lara Zimmer;0.03616;0.02844;Sandsturm AG;abgerechnet;00:21
+Weitblick KG / Wealth Management;4265038;05.02.2024;Fixed compatibility issues with legacy systems.;Noah Schmid;0.03619;0.02656;Weitblick KG;abgerechnet;00:31
+Kieselstein GmbH / Urban Planning;7980980;14.02.2024;Developed prototype for upcoming product launch.;Hannah Boehm;0.03203;0.05528;Kieselstein GmbH;abgerechnet;00:52
+Wildfang AG / Outdoor Equipment;1932135;29.02.2024;Implemented caching mechanism for efficiency.;Simon Seidel;0.03594;0.03552;Wildfang AG;abgerechnet;00:31
+Funkeln & Glanz KG / Luxury Goods;7645906;01.02.2024;Improved error handling and logging mechanisms.;David Meier;0.19675;0.21494;Funkeln & Glanz KG;abgerechnet;01:25
+Sternschuppen AG / Astrophysics;8123576;27.02.2024;Enhanced search functionality with advanced filters.;Sara Brandt;0.31437;0.41544;Sternschuppen AG;abgerechnet;02:55
+Drachenfels GmbH / Virtual Reality;5794193;28.02.2024;Added localization support for multiple languages.;Sara Brandt;0.06334;0.12196;Drachenfels GmbH;abgerechnet;01:21
+Drachenfels GmbH / Virtual Reality;6111689;14.02.2024;Updated UI for a more modern look.;Sara Brandt;0.0276;0;Drachenfels GmbH;abgerechnet;00:12
+Glücksklee GmbH / Pharmaceutical Development;6475337;16.02.2024;Enhanced mobile responsiveness of the website.;Lara Zimmer;0.03423;0.03164;Glücksklee GmbH;abgerechnet;00:20
+Blitz & Co KG / Smart Grid;9187910;28.02.2024;Updated UI for a more modern look.;Paul Bauer;0.03688;0.02912;Blitz & Co KG;abgerechnet;00:08
+Wasserfall AG / Eco-friendly Solutions;8163832;09.02.2024;Improved security protocols to protect data.;Noah Schmid;0.10863;0.34067;Wasserfall AG;abgerechnet;02:07
+Sandsturm AG / Water Scarcity;8897896;15.02.2024;Fixed compatibility issues with legacy systems.;Emma Hoffmann;0.36482;0.346;Sandsturm AG;abgerechnet;02:20
+Sternschuppen AG / Satellite Technology;4019173;16.02.2024;Refactored code for better maintainability.;Sara Brandt;0.14573;0.11088;Sternschuppen AG;abgerechnet;01:26
+Sternschuppen AG / Space Exploration;4829403;27.02.2024;Enhanced search functionality with advanced filters.;Hannah Boehm;0.47701;0.51299;Sternschuppen AG;abgerechnet;04:13
+Eisberg GmbH / Supply Chain;3104402;14.02.2024;Redesigned landing page for better conversion rates.;Olivia Berg;0.03515;0.028;Eisberg GmbH;abgerechnet;00:04
+Wolkenbruch AG / Data Security;6377446;20.02.2024;Improved security protocols to protect data.;Emma Hoffmann;0.02651;0.05607;Wolkenbruch AG;abgerechnet;00:21
+Wunderbar GmbH / Brand Innovation;4254131;29.02.2024;Upgraded server infrastructure for scalability.;Laura Schwarz;0.23277;0.46318;Wunderbar GmbH;abgerechnet;04:08
+Sandsturm AG / Water Scarcity;9106877;07.02.2024;Improved error handling and logging mechanisms.;Anna Becker;0.22089;0.29895;Sandsturm AG;abgerechnet;01:55
+Mondschein KG / Innovation;5176130;15.02.2024;Improved security protocols to protect data.;Tim Neumann;0.5278;1.30781;Mondschein KG;abgerechnet;11:12
+Mondschein KG / Night Vision Tech;8837435;09.02.2024;Upgraded server infrastructure for scalability.;Ben Richter;0.33258;0.77761;Mondschein KG;abgerechnet;05:29
+Funkeln & Glanz KG / Jewelry Design;3959401;27.02.2024;Integrated third-party API for extended functionality.;Lena Krause;0.35579;0.91418;Funkeln & Glanz KG;abgerechnet;07:51
+Kleeblatt AG / Crop Management;9665787;08.02.2024;Developed new analytics dashboard for insights.;Emma Hoffmann;0.05397;0.05646;Kleeblatt AG;abgerechnet;00:01
+Himmelsstürmer KG / Aircraft Maintenance;6653366;29.02.2024;Conducted performance testing and optimizations.;Liam Scholz;0.03445;0.03401;Himmelsstürmer KG;abgerechnet;00:29
+Mondschein KG / Night Vision Tech;8396485;09.02.2024;Updated UI for a more modern look.;Lukas Fischer;0.07386;0.13981;Mondschein KG;abgerechnet;01:41
+Silberfuchs GmbH / Cybersecurity;4493220;14.02.2024;Optimized database queries for faster load times.;Tom Braun;0.3515;0;Silberfuchs GmbH;abgerechnet;00:09
+Schattenspringer AG / Film Production;6884645;29.02.2024;Redesigned landing page for better conversion rates.;Mia Koch;0.13692;0.13016;Schattenspringer AG;abgerechnet;01:34
+Funkeln & Glanz KG / Jewelry Design;2063821;20.02.2024;Developed prototype for upcoming product launch.;Clara Klein;0.03546;0.029;Funkeln & Glanz KG;abgerechnet;00:01
+Funkeln & Glanz KG / Luxury Goods;5527002;21.02.2024;Developed new analytics dashboard for insights.;Lara Zimmer;0.02896;0.03021;Funkeln & Glanz KG;abgerechnet;00:12
+Fels & Stein GmbH / Mineral Extraction;2126784;21.02.2024;Redesigned landing page for better conversion rates.;Olivia Berg;0.10847;0;Fels & Stein GmbH;abgerechnet;00:11
+Bergwerk AG / Mining Expansion;3154854;07.02.2024;Refactored code for better maintainability.;Tom Braun;0.02568;0.03527;Bergwerk AG;abgerechnet;00:37
+Wunderbar GmbH / Brand Innovation;8371706;14.02.2024;Integrated third-party API for extended functionality.;Jonas Wagner;0.03545;0.03158;Wunderbar GmbH;geprueft;00:40
+Bergwerk AG / Safety Enhancement;9796236;13.02.2024;Fixed compatibility issues with legacy systems.;Jonas Wagner;0.13778;0.39333;Bergwerk AG;abgerechnet;02:37
+Blitz & Co KG / Lightning Protection;8334576;20.02.2024;Added a new feature to improve user experience.;Lisa Schulz;0.11302;0.35371;Blitz & Co KG;abgerechnet;02:45
+Hinterland GmbH / Community Building;2830561;23.02.2024;Enhanced mobile responsiveness of the website.;Liam Scholz;0.55736;0.80488;Hinterland GmbH;abgerechnet;05:53
+Drachenfels GmbH / Fantasy Game Development;7332703;27.02.2024;Implemented user authentication system.;Niklas Hahn;0.03629;0.03123;Drachenfels GmbH;abgerechnet;00:14
+Lichtblick AG / Environmental Impact;6985255;12.02.2024;Enhanced search functionality with advanced filters.;Finn Lehmann;0.43192;0.45582;Lichtblick AG;abgerechnet;03:35
+Funkeln & Glanz KG / Retail Expansion;5739923;26.02.2024;Resolved bug in the payment module.;Simon Seidel;0.05617;0.08354;Funkeln & Glanz KG;abgerechnet;00:39
+Glücksklee GmbH / Biotech Research;1150462;27.02.2024;Developed new analytics dashboard for insights.;Anna Becker;0.06028;0.06552;Glücksklee GmbH;abgerechnet;00:10
+Himmelsstürmer KG / Aviation Training;5147557;08.02.2024;Optimized database queries for faster load times.;Jan Kohler;0.03515;0.02635;Himmelsstürmer KG;abgerechnet;00:10
+Sternschuppen AG / Satellite Technology;5553472;16.02.2024;Conducted performance testing and optimizations.;Olivia Berg;0.06648;0.05655;Sternschuppen AG;abgerechnet;00:31
+Wolkenbruch AG / Data Security;3461576;12.02.2024;Enhanced mobile responsiveness of the website.;Noah Schmid;0.28599;0.26741;Wolkenbruch AG;abgerechnet;02:28
+Kleeblatt AG / Agriculture Innovation;5895117;28.02.2024;Updated UI for a more modern look.;Mia Koch;0.28888;0.26154;Kleeblatt AG;abgerechnet;02:11
+Adlerflug GmbH / Aerospace Engineering;8372209;01.02.2024;Enhanced mobile responsiveness of the website.;David Meier;0.05196;0.12872;Adlerflug GmbH;abgerechnet;01:06
+Wolfsblut GmbH / Zoology;3016220;20.02.2024;Enhanced search functionality with advanced filters.;Liam Scholz;0.05646;0.16187;Wolfsblut GmbH;abgerechnet;01:31
+Kleeblatt AG / Sustainability;1872490;01.02.2024;Enhanced search functionality with advanced filters.;Simon Seidel;0.03142;0.0595;Kleeblatt AG;abgerechnet;00:39
+Blitz & Co KG / Electrical Systems;8677682;13.02.2024;Enhanced mobile responsiveness of the website.;Emma Hoffmann;0.06115;0.05674;Blitz & Co KG;abgerechnet;00:37
+Blitz & Co KG / Smart Grid;8567045;20.02.2024;Implemented caching mechanism for efficiency.;Ben Richter;0.08528;0.1086;Blitz & Co KG;abgerechnet;00:19
+Funkeln & Glanz KG / Jewelry Design;4549788;15.02.2024;Enhanced mobile responsiveness of the website.;Jan Kohler;0.1003;0;Funkeln & Glanz KG;abgerechnet;00:30
+Silberfuchs GmbH / Cybersecurity;2378198;08.02.2024;Enhanced search functionality with advanced filters.;Emma Kruger;0.21505;0.61627;Silberfuchs GmbH;abgerechnet;05:06
+Sternschuppen AG / Satellite Technology;1982253;12.02.2024;Refactored code for better maintainability.;Max Mueller;0.08376;0.08621;Sternschuppen AG;abgerechnet;00:28
+Weitblick KG / Wealth Management;5135575;20.02.2024;Implemented user authentication system.;Max Mueller;0.07428;0.06726;Weitblick KG;abgerechnet;00:09
+Mondschein KG / Innovation;3425417;01.02.2024;Developed new analytics dashboard for insights.;Lukas Fischer;0.02711;0.02781;Mondschein KG;abgerechnet;00:08
+Wildfang AG / Product Innovation;1435675;27.02.2024;Enhanced mobile responsiveness of the website.;Clara Klein;0.03311;0.05663;Wildfang AG;abgerechnet;00:16
+Wolfsblut GmbH / Wildlife Conservation;7969958;23.02.2024;Implemented user authentication system.;Liam Scholz;0.03159;0;Wolfsblut GmbH;abgerechnet;00:10
+Morgenstern AG / Solar Energy;3168126;12.02.2024;Enhanced search functionality with advanced filters.;Liam Scholz;0.08986;0.10225;Morgenstern AG;abgerechnet;00:47
+Mondschein KG / Optical Engineering;2799233;13.02.2024;Enhanced search functionality with advanced filters.;Tim Neumann;0.03558;0.03062;Mondschein KG;abgerechnet;00:14
+Nordlicht KG / Arctic Exploration;7771756;29.02.2024;Optimized database queries for faster load times.;Julia Weber;0.06135;0.12045;Nordlicht KG;abgerechnet;01:27
+Glücksklee GmbH / Health Solutions;6206866;16.02.2024;Fixed compatibility issues with legacy systems.;Felix Voigt;0.02952;0.02578;Glücksklee GmbH;abgerechnet;00:40
+Sonnenstrahl KG / Lighting Design;8126185;21.02.2024;Improved error handling and logging mechanisms.;Paul Bauer;0.07418;0.16333;Sonnenstrahl KG;abgerechnet;01:25
+Wildfang AG / Outdoor Equipment;6973533;13.02.2024;Implemented user authentication system.;Sara Brandt;0.1343;0.12588;Wildfang AG;abgerechnet;00:49
+Morgenstern AG / Green Initiatives;7198722;20.02.2024;Added localization support for multiple languages.;Sara Brandt;0.0306;0.05968;Morgenstern AG;abgerechnet;00:03
+Glücksklee GmbH / Pharmaceutical Development;6599146;01.02.2024;Developed new analytics dashboard for insights.;Tim Neumann;0.03083;0;Glücksklee GmbH;abgerechnet;00:17
+Kieselstein GmbH / Urban Planning;7183032;13.02.2024;Implemented user authentication system.;Jan Kohler;0.32115;0.41748;Kieselstein GmbH;abgerechnet;02:59
+Kleeblatt AG / Agriculture Innovation;9321554;19.02.2024;Enhanced search functionality with advanced filters.;Tom Braun;0.05138;0.0545;Kleeblatt AG;abgerechnet;00:02
+Sandsturm AG / Desert Farming;6401235;13.02.2024;Automated deployment processes for CI/CD pipeline.;Jonas Wagner;0.02688;0;Sandsturm AG;abgerechnet;00:14
+Silberfuchs GmbH / Cybersecurity;9095181;29.02.2024;Upgraded server infrastructure for scalability.;Max Mueller;0.37692;1.1968;Silberfuchs GmbH;abgerechnet;08:31
+Mondschein KG / Innovation;4538808;15.02.2024;Implemented caching mechanism for efficiency.;Niklas Hahn;0.16137;0.43996;Mondschein KG;abgerechnet;03:15
+Blitz & Co KG / Electrical Systems;9879306;12.02.2024;Refactored code for better maintainability.;Jan Kohler;0.10326;0.09333;Blitz & Co KG;abgerechnet;01:01
+Kieselstein GmbH / Construction Innovation;2992856;02.02.2024;Updated UI for a more modern look.;Mia Koch;0.29151;0;Kieselstein GmbH;abgerechnet;00:07
+Mondschein KG / Night Vision Tech;1366568;12.02.2024;Implemented caching mechanism for efficiency.;Mia Koch;0.18311;0.52442;Mondschein KG;abgerechnet;04:12
+Sternschuppen AG / Satellite Technology;6888809;07.02.2024;Enhanced mobile responsiveness of the website.;Ben Richter;0.0265;0.03456;Sternschuppen AG;abgerechnet;00:27
+Feuersturm GmbH / Fire Safety;3052012;16.02.2024;Refactored code for better maintainability.;Lara Zimmer;0.18385;0.22386;Feuersturm GmbH;abgerechnet;01:27
+Adlerflug GmbH / Flight Dynamics;9346112;14.02.2024;Enhanced search functionality with advanced filters.;Liam Scholz;0.17601;0.14455;Adlerflug GmbH;abgerechnet;01:31
+Sonnenstrahl KG / Sustainable Solutions;4842050;14.02.2024;Fixed compatibility issues with legacy systems.;Mia Koch;0.09458;0.10716;Sonnenstrahl KG;abgerechnet;00:52
+Sonnenstrahl KG / Energy Efficiency;2960124;12.02.2024;Added a new feature to improve user experience.;Lukas Fischer;0.03026;0;Sonnenstrahl KG;abgerechnet;00:02
+Seeblick GmbH / Eco-Tourism;7668917;12.02.2024;Improved error handling and logging mechanisms.;Mia Koch;0.0351;0.03383;Seeblick GmbH;abgerechnet;00:34
+Sonnenstrahl KG / Energy Efficiency;4637976;02.02.2024;Automated deployment processes for CI/CD pipeline.;Jonas Wagner;0.12093;0;Sonnenstrahl KG;abgerechnet;00:11
+Lichtblick AG / Environmental Impact;2319781;19.02.2024;Upgraded server infrastructure for scalability.;Emma Kruger;0.18246;0.21124;Lichtblick AG;abgerechnet;01:28
+Schattenspringer AG / Digital Media;5125876;21.02.2024;Enhanced mobile responsiveness of the website.;David Meier;0.19582;0.20459;Schattenspringer AG;abgerechnet;01:51
+Wildfang AG / Outdoor Equipment;1964224;20.02.2024;Implemented caching mechanism for efficiency.;Tim Neumann;0.07391;0.07327;Wildfang AG;abgerechnet;00:52
+Bergwerk AG / Sustainable Resources;5465214;28.02.2024;Implemented user authentication system.;Paul Bauer;0.11762;0.27087;Bergwerk AG;abgerechnet;02:28
+Lichtblick AG / Renewable Energy;2396195;12.02.2024;Added localization support for multiple languages.;Simon Seidel;0.03455;0;Lichtblick AG;abgerechnet;00:29
+Wasserfall AG / Water Conservation;4906480;26.02.2024;Refactored code for better maintainability.;Sophie Schmidt;0.03665;0;Wasserfall AG;abgerechnet;00:30
+Wunderbar GmbH / Customer Engagement;6864353;21.02.2024;Integrated third-party API for extended functionality.;Emma Hoffmann;0.18369;0.18086;Wunderbar GmbH;abgerechnet;01:24
+Fels & Stein GmbH / Rock Mechanics;4410504;15.02.2024;Enhanced search functionality with advanced filters.;Julia Weber;0.25007;0.33133;Fels & Stein GmbH;abgerechnet;01:49
+Bergwerk AG / Safety Enhancement;7026992;09.02.2024;Developed prototype for upcoming product launch.;Mia Koch;0.19214;0.18631;Bergwerk AG;abgerechnet;01:36
+Fels & Stein GmbH / Rock Mechanics;3062995;07.02.2024;Resolved bug in the payment module.;Emma Kruger;0.06892;0.07362;Fels & Stein GmbH;abgerechnet;00:03
+Hinterland GmbH / Community Building;6086101;19.02.2024;Conducted performance testing and optimizations.;Niklas Hahn;0.2472;0.65995;Hinterland GmbH;abgerechnet;04:30
+Hinterland GmbH / Community Building;5447894;28.02.2024;Improved error handling and logging mechanisms.;Anna Becker;0.24809;0.27962;Hinterland GmbH;abgerechnet;01:58
+Nordlicht KG / Arctic Exploration;9248382;01.02.2024;Improved security protocols to protect data.;Emma Hoffmann;0.5627;0.43281;Nordlicht KG;abgerechnet;03:30
+Wolfsblut GmbH / Zoology;3045196;14.02.2024;Improved security protocols to protect data.;Lisa Schulz;0.03642;0.03146;Wolfsblut GmbH;abgerechnet;00:39
+Silberfuchs GmbH / Technology R&D;3643554;12.02.2024;Updated UI for a more modern look.;Julia Weber;0.02715;0.03014;Silberfuchs GmbH;abgerechnet;00:41
+Hinterland GmbH / Infrastructure;2523407;08.02.2024;Integrated third-party API for extended functionality.;Anna Becker;0.06625;0.06868;Hinterland GmbH;abgerechnet;00:09
+Wildfang AG / Outdoor Equipment;2762462;08.02.2024;Fixed compatibility issues with legacy systems.;David Meier;0.5814;1.49859;Wildfang AG;abgerechnet;10:20
+Morgenstern AG / Green Initiatives;7007911;19.02.2024;Enhanced mobile responsiveness of the website.;Lena Krause;0.03157;0.02632;Morgenstern AG;abgerechnet;00:32
+Wolkenbruch AG / IT Infrastructure;2565013;12.02.2024;Developed new analytics dashboard for insights.;Mia Koch;0.14954;0.42199;Wolkenbruch AG;abgerechnet;02:39
+Eisberg GmbH / Supply Chain;9635057;16.02.2024;Implemented user authentication system.;Clara Klein;0.2835;0.27576;Eisberg GmbH;abgerechnet;01:46
+Lichtblick AG / Renewable Energy;1090265;02.02.2024;Resolved bug in the payment module.;Lukas Fischer;0.0282;0.03623;Lichtblick AG;geprueft;00:23
+Hinterland GmbH / Rural Development;8150352;16.02.2024;Developed new analytics dashboard for insights.;Laura Schwarz;0.10422;0.07576;Hinterland GmbH;abgerechnet;00:55
+Schattenspringer AG / Digital Media;3229976;16.02.2024;Optimized database queries for faster load times.;Emma Hoffmann;0.03554;0.07176;Schattenspringer AG;abgerechnet;00:39
+Sturm & Partner / Market Analysis;2989236;13.02.2024;Redesigned landing page for better conversion rates.;Julia Weber;0.03147;0.03218;Sturm & Partner;abgerechnet;00:14
+Lichtblick AG / Renewable Energy;6828733;08.02.2024;Integrated third-party API for extended functionality.;Niklas Hahn;0.03106;0;Lichtblick AG;abgerechnet;00:13
+Lichtblick AG / Environmental Impact;6241183;20.02.2024;Integrated third-party API for extended functionality.;David Meier;0.03486;0.02577;Lichtblick AG;abgerechnet;00:07
+Feuersturm GmbH / Fire Safety;1524465;26.02.2024;Automated deployment processes for CI/CD pipeline.;Niklas Hahn;0.02551;0.08369;Feuersturm GmbH;abgerechnet;01:12
+Feuersturm GmbH / Emergency Planning;3457550;23.02.2024;Resolved bug in the payment module.;Clara Klein;0.32172;0.41164;Feuersturm GmbH;abgerechnet;02:32
+Seeblick GmbH / Hotel Management;6242055;19.02.2024;Optimized database queries for faster load times.;Jan Kohler;0.031;0.03109;Seeblick GmbH;abgerechnet;00:45
+Schattenspringer AG / Entertainment Ventures;4338894;16.02.2024;Optimized database queries for faster load times.;Olivia Berg;0.06134;0;Schattenspringer AG;abgerechnet;00:28
+Hinterland GmbH / Infrastructure;7927940;27.02.2024;Implemented user authentication system.;Sara Brandt;0.03258;0.02585;Hinterland GmbH;abgerechnet;00:06
+Wunderbar GmbH / Marketing Overhaul;5834733;26.02.2024;Conducted performance testing and optimizations.;Niklas Hahn;0.10723;0.31965;Wunderbar GmbH;abgerechnet;02:36
+Drachenfels GmbH / Virtual Reality;8472447;06.02.2024;Improved security protocols to protect data.;Clara Klein;0.15122;0.15757;Drachenfels GmbH;abgerechnet;01:50
+Seeblick GmbH / Tourism Development;3900535;19.02.2024;Optimized database queries for faster load times.;Lea Schneider;0.05659;0.05652;Seeblick GmbH;abgerechnet;00:51
+Weitblick KG / Long-Term Investments;5832177;06.02.2024;Integrated third-party API for extended functionality.;Tim Neumann;0.03382;0.02874;Weitblick KG;abgerechnet;00:17
+Feuersturm GmbH / Equipment Design;1045701;19.02.2024;Conducted performance testing and optimizations.;Emma Hoffmann;0.08696;0.09671;Feuersturm GmbH;abgerechnet;00:54
+Schattenspringer AG / Digital Media;5401192;12.02.2024;Implemented caching mechanism for efficiency.;Lena Krause;0.02895;0.02651;Schattenspringer AG;abgerechnet;00:20
+Adlerflug GmbH / Aviation Safety;6156535;12.02.2024;Added a new feature to improve user experience.;David Meier;0.05592;0.06549;Adlerflug GmbH;abgerechnet;00:41
+Wolfsblut GmbH / Veterinary Research;8848246;19.02.2024;Redesigned landing page for better conversion rates.;Lena Krause;0.05022;0.06229;Wolfsblut GmbH;abgerechnet;00:46
+Wildfang AG / Adventure Gear;9796429;29.02.2024;Added localization support for multiple languages.;Emma Hoffmann;0.03459;0.03327;Wildfang AG;abgerechnet;00:34
+Adlerflug GmbH / Flight Dynamics;5082651;13.02.2024;Optimized database queries for faster load times.;Sara Brandt;0.03169;0.03538;Adlerflug GmbH;abgerechnet;00:02
+Wunderbar GmbH / Marketing Overhaul;6636076;28.02.2024;Automated deployment processes for CI/CD pipeline.;Emma Kruger;0.10357;0.09444;Wunderbar GmbH;abgerechnet;01:01
+Wolfsblut GmbH / Wildlife Conservation;2161199;21.02.2024;Conducted performance testing and optimizations.;Lara Zimmer;0.11586;0.36499;Wolfsblut GmbH;abgerechnet;02:54
+Wunderbar GmbH / Marketing Overhaul;5156350;08.02.2024;Optimized database queries for faster load times.;Anna Becker;0.03063;0.03236;Wunderbar GmbH;abgerechnet;00:45
+Weitblick KG / Retirement Planning;8438578;27.02.2024;Implemented user authentication system.;Tim Neumann;0.03549;0.03079;Weitblick KG;abgerechnet;00:17
+Drachenfels GmbH / Fantasy Game Development;4176199;14.02.2024;Fixed compatibility issues with legacy systems.;Clara Klein;0.05728;0;Drachenfels GmbH;abgerechnet;00:21
+Wolfsblut GmbH / Wildlife Conservation;1655861;13.02.2024;Added localization support for multiple languages.;Liam Scholz;0.2962;0.35813;Wolfsblut GmbH;abgerechnet;02:23
+Nordlicht KG / Renewable Energy;3059207;12.02.2024;Fixed compatibility issues with legacy systems.;Lena Krause;0.07253;0.06112;Nordlicht KG;abgerechnet;01:00
+Wunderbar GmbH / Brand Innovation;4601034;26.02.2024;Fixed compatibility issues with legacy systems.;Anna Becker;0.28983;0.8052;Wunderbar GmbH;abgerechnet;06:04
+Sturm & Partner / Risk Management;6571710;15.02.2024;Automated deployment processes for CI/CD pipeline.;Jan Kohler;0.10628;0.10236;Sturm & Partner;abgerechnet;01:27
+Weitblick KG / Wealth Management;1069503;12.02.2024;Developed new analytics dashboard for insights.;Jan Kohler;0.03607;0.02934;Weitblick KG;abgerechnet;00:27
+Eisberg GmbH / Cold Chain Solutions;9117056;07.02.2024;Integrated third-party API for extended functionality.;Lena Krause;0.20086;0.2518;Eisberg GmbH;abgerechnet;01:20
+Sandsturm AG / Water Scarcity;6306542;15.02.2024;Redesigned landing page for better conversion rates.;Niklas Hahn;0.10267;0.07717;Sandsturm AG;abgerechnet;01:01
+Weitblick KG / Retirement Planning;4033750;09.02.2024;Improved security protocols to protect data.;Lea Schneider;0.03468;0.0367;Weitblick KG;abgerechnet;00:17
+Mondschein KG / Innovation;7078699;12.02.2024;Developed new analytics dashboard for insights.;Max Mueller;0.02994;0;Mondschein KG;abgerechnet;00:02
+Glücksklee GmbH / Health Solutions;5478616;20.02.2024;Implemented user authentication system.;Clara Klein;0.02869;0;Glücksklee GmbH;abgerechnet;00:30
+Glücksklee GmbH / Pharmaceutical Development;5172397;29.02.2024;Improved error handling and logging mechanisms.;Laura Schwarz;0.03741;0.06273;Glücksklee GmbH;abgerechnet;00:40
+Funkeln & Glanz KG / Jewelry Design;3272299;21.02.2024;Added a new feature to improve user experience.;Laura Schwarz;0.053;0.05967;Funkeln & Glanz KG;abgerechnet;00:55

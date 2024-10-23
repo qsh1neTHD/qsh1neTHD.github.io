@@ -1,0 +1,390 @@
+Summary of Formula Examples
+The console.log statements can be seen via the dev tools console in the brower (strg+shift+i).
+
+#######################
+Formula for calculating the "Gebucht (in PT)"
+note: parseFloat is used to make sure the data is added as a number even though excel sometimes views numbers as strings
+
+ console.log(employeeName); 
+let totalPtGebucht = 0;
+  const headers = data[0];
+   const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+ // console.log("Mitarbeiter Column Index:", mitarbeiterColumnIndex); // Debugging line
+  const ptGebuchtColumnIndex = helpers.findIndexByName(headers,"Gebucht (in PT)");
+
+  for (let i = 1; i < data.length; i++) {
+    if (data[i][mitarbeiterColumnIndex] === employeeName) {
+     
+      totalPtGebucht += parseFloat(data[i][ptGebuchtColumnIndex]);
+    }
+  }
+  return totalPtGebucht;
+
+#####################  
+Formula for getting the "gebuchteTageSoll"
+
+gebuchteTageSoll = helpers.returnworkdays2024();
+console.log("Mitarbeiter:", employeeName, "TageSoll", gebuchteTageSoll);
+return gebuchteTageSoll;
+
+#####################
+Formula for calculating the "Fakturierbar (in PT)"
+note: the decimalseparator in the data is "," and is converted to "." before using parseFloat
+
+console.log(employeeName, "Fakturierbare Tage");
+let totalPtFakturierbar = 0;
+const headers = data[0];
+const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+const fakturierbareTageColumnIndex = helpers.findIndexByName(headers,"Fakturierbar (in PT)");
+
+for (let i = 1; i < data.length; i++) {
+    if (data[i][mitarbeiterColumnIndex] === employeeName) {
+        let value = data[i][fakturierbareTageColumnIndex];
+
+        // Convert the value to a string first to handle both cases
+        value = value.toString();
+
+        // Check if value contains a comma and adjust it
+        if (value.includes(',')) {
+            value = value.replace(',', '.');
+        } else if (!value.includes('.') && parseInt(value) > 999) {
+            // If no decimal point and value is greater than 999, assume it's a misinterpretation            
+            value = value.slice(0, -3) + '.' + value.slice(-3);
+        }
+
+        // Parse the value safely
+        const incrementalValue = parseFloat(value);
+
+        // Only add valid numbers (NaN check)
+        if (!isNaN(incrementalValue)) {
+            totalPtFakturierbar += incrementalValue;
+        } else {
+            console.error(`Failed to parse value: ${value}`);
+        }
+    }
+}
+
+return totalPtFakturierbar;
+
+
+
+#####################
+Formula for calculating the KIS Premium non-Faktura PT
+
+
+console.log(employeeName, "KIS Premium");
+let TotalKISPremiumNonFaktura = 0;
+let absDiffGebuchtMinusAbgerechnet = 0;
+const headers = data[0];
+const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+const AbrechenbarColumnIndex = helpers.findIndexByName(headers, "Abrechenbar");
+const gebuchtColumnIndex = helpers.findIndexByName(headers, "Gebucht (in PT)");
+const projektName = "KIS / Wartung Premium";
+const projekteColumnIndex = helpers.findIndexByName(headers, "Projekt");
+
+for (let i = 1; i < data.length; i++) {
+    if (data[i][mitarbeiterColumnIndex] === employeeName && data[i][projekteColumnIndex] === projektName)  {
+   
+        let gebuchtValue = parseFloat(data[i][gebuchtColumnIndex]);
+        let abrechenbarValue = parseFloat(data[i][AbrechenbarColumnIndex]);
+
+        if (!isNaN(gebuchtValue) && !isNaN(abrechenbarValue)) {
+// Converte Min to PT
+let abrechenbarValuePT = abrechenbarValue/480;
+
+            DiffGebuchtMinusAbgerechnet = gebuchtValue - abrechenbarValuePT;
+if (DiffGebuchtMinusAbgerechnet > 0) {
+            TotalKISPremiumNonFaktura += DiffGebuchtMinusAbgerechnet;
+console.log("Diff, Total, Line", DiffGebuchtMinusAbgerechnet, TotalKISPremiumNonFaktura, i);
+}
+
+
+        } else {
+            console.log(`Invalid number at row ${i}: Gebucht=${data[i][gebuchtColumnIndex]}, Abrechenbar=${data[i][AbrechenbarColumnIndex]}`);
+        }
+    }
+}
+
+return TotalKISPremiumNonFaktura;
+
+
+
+#####################
+Formula for calculating the OTLG non-Faktura PT
+
+
+
+
+
+console.log(employeeName, "OTLG");
+let TotalNonFaktura = 0;
+let absDiffGebuchtMinusAbgerechnet = 0;
+const headers = data[0];
+const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+const AbrechenbarColumnIndex = helpers.findIndexByName(headers, "Abrechenbar");
+const gebuchtColumnIndex = helpers.findIndexByName(headers, "Gebucht (in PT)");
+const projektName = "VW OTLG / Wartung Subscription 2024";
+const projekteColumnIndex = helpers.findIndexByName(headers, "Projekt");
+
+for (let i = 1; i < data.length; i++) {
+    if (data[i][mitarbeiterColumnIndex] === employeeName && data[i][projekteColumnIndex] === projektName)  {
+   
+        let gebuchtValue = parseFloat(data[i][gebuchtColumnIndex]);
+        let abrechenbarValue = parseFloat(data[i][AbrechenbarColumnIndex]);
+
+        if (!isNaN(gebuchtValue) && !isNaN(abrechenbarValue)) {
+// Converte Min to PT
+let abrechenbarValuePT = abrechenbarValue/480;
+
+            DiffGebuchtMinusAbgerechnet = gebuchtValue - abrechenbarValuePT;
+if (DiffGebuchtMinusAbgerechnet > 0) {
+            TotalNonFaktura += DiffGebuchtMinusAbgerechnet;
+console.log("Diff, Total, Line" ,DiffGebuchtMinusAbgerechnet, TotalNonFaktura, i);
+
+}
+
+
+        } else {
+            console.log(`Invalid number at row ${i}: Gebucht=${data[i][gebuchtColumnIndex]}, Abrechenbar=${data[i][AbrechenbarColumnIndex]}`);
+        }
+    }
+}
+
+return TotalNonFaktura;
+
+
+
+
+
+
+################################
+Formula for calculating Deductionas (Abschläage) of multiple Projects
+
+
+console.log(employeeName);
+let TotalAbschlaegeSonstiges = 0;
+let absDiffGebuchtMinusAbgerechnet = 0;
+const headers = data[0];
+const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+const AbrechenbarColumnIndex = helpers.findIndexByName(headers, "Abrechenbar");
+const gebuchtColumnIndex = helpers.findIndexByName(headers, "Gebucht (in PT)");
+const projekteColumnIndex = helpers.findIndexByName(headers, "Projekt");
+
+// List of project names to check
+const projectNames = [
+    "ProjectNameA"
+];
+
+for (let i = 1; i < data.length; i++) {
+    if (data[i][mitarbeiterColumnIndex] === employeeName && projectNames.includes(data[i][projekteColumnIndex]))  {
+   console.log("Project found in line ", i+1);
+        let gebuchtValue = parseFloat(data[i][gebuchtColumnIndex]);
+        let abrechenbarValue = parseFloat(data[i][AbrechenbarColumnIndex]);
+
+        if (!isNaN(gebuchtValue) && !isNaN(abrechenbarValue)) {
+// Convert time to PT
+let abrechenbarValuePT = abrechenbarValue/480;
+
+
+            absDiffGebuchtMinusAbgerechnet = gebuchtValue - abrechenbarValuePT;
+if (absDiffGebuchtMinusAbgerechnet > 0){
+            TotalAbschlaegeSonstiges += absDiffGebuchtMinusAbgerechnet;
+console.log("gebucht,abgerechnet", gebuchtValue, abrechenbarValue/480)
+console.log("Total:", TotalAbschlaegeSonstiges)
+}
+        } else {
+            console.log(`Invalid number at row ${i}: Gebucht=${data[i][gebuchtColumnIndex]}, Abrechenbar=${data[i][AbrechenbarColumnIndex]}`);
+        }
+    }
+}
+return TotalAbschlaegeSonstiges;
+
+
+
+
+################################
+Formula for calculating markups (Aufschläge) of multiple Projects
+
+console.log(employeeName, "Aufschläge gesamt");
+let TotalAufschlaege = 0;
+let absDiffGebuchtMinusAbgerechnet = 0;
+const headers = data[0];
+const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+const AbrechenbarColumnIndex = helpers.findIndexByName(headers, "Abrechenbar");
+const gebuchtColumnIndex = helpers.findIndexByName(headers, "Gebucht (in PT)");
+const projekteColumnIndex = helpers.findIndexByName(headers, "Projekt");
+
+// List of project names to check
+
+const projectNames = [
+    "ProjectNameA"
+];
+for (let i = 1; i < data.length; i++) {
+    if (data[i][mitarbeiterColumnIndex] === employeeName && projectNames.includes(data[i][projekteColumnIndex]))  {
+   console.log("Project found in line", i+1);
+        let gebuchtValue = parseFloat(data[i][gebuchtColumnIndex]);
+        let abrechenbarValue = parseFloat(data[i][AbrechenbarColumnIndex]);
+
+        if (!isNaN(gebuchtValue) && !isNaN(abrechenbarValue)) {
+// Convert time to PT
+let abrechenbarValuePT = abrechenbarValue/480;
+
+
+            absDiffGebuchtMinusAbgerechnet = gebuchtValue - abrechenbarValuePT;
+if (absDiffGebuchtMinusAbgerechnet < 0){
+            TotalAufschlaege += absDiffGebuchtMinusAbgerechnet;
+console.log("gebucht,abgerechnet", gebuchtValue, abrechenbarValue/480)
+console.log("Total:", TotalAufschlaege)
+}
+        } else {
+            console.log(`Invalid number at row ${i}: Gebucht=${data[i][gebuchtColumnIndex]}, Abrechenbar=${data[i][AbrechenbarColumnIndex]}`);
+        }
+    }
+}
+return (-1)*TotalAufschlaege;
+
+
+
+
+#############################
+Interne Aufwände
+
+
+console.log(employeeName);
+let totalPTIntern = 0;
+const headers = data[0];
+const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+const gebuchtColumnIndex = helpers.findIndexByName(headers, "Gebucht (in PT)");
+const projekteColumnIndex = helpers.findIndexByName(headers, "Projekt");
+
+// List of project names to check
+const projectNames = [
+"ProjectNameA"
+];
+
+for (let i = 1; i < data.length; i++) {
+    if (data[i][mitarbeiterColumnIndex] === employeeName && projectNames.includes(data[i][projekteColumnIndex]))  {
+   console.log("Project found in line", i+1);
+        let gebuchtValue = parseFloat(data[i][gebuchtColumnIndex]);
+
+        if (!isNaN(gebuchtValue)) {
+            totalPTIntern += gebuchtValue;
+            
+        } else {
+            console.log(`Invalid number at row ${i}: Gebucht=${data[i][gebuchtColumnIndex]}`);
+        }
+    }
+}
+return totalPTIntern;
+
+
+#########################
+xRM TRADE etc. (single Projects)
+
+
+console.log(employeeName, "xRM TRADE");
+let totalPT = 0;
+const headers = data[0];
+const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+const gebuchtColumnIndex = helpers.findIndexByName(headers, "Gebucht (in PT)");
+const projekteColumnIndex = helpers.findIndexByName(headers, "Projekt");
+
+// List of project names to check
+const projectNames = [
+"xRM-Trade 2020"
+];
+
+for (let i = 1; i < data.length; i++) {
+    if (data[i][mitarbeiterColumnIndex] === employeeName && projectNames.includes(data[i][projekteColumnIndex]))  {
+   console.log("Project found in line", i+1);
+        let gebuchtValue = parseFloat(data[i][gebuchtColumnIndex]);
+
+        if (!isNaN(gebuchtValue)) {
+            totalPT += gebuchtValue;
+            
+        } else {
+            console.log(`Invalid number at row ${i}: Gebucht=${data[i][gebuchtColumnIndex]}`);
+        }
+    }
+}
+return totalPT;
+
+
+#########################
+xRM-Service
+
+console.log(employeeName, "xRM-Service");
+let totalPT = 0;
+const headers = data[0];
+const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+const gebuchtColumnIndex = helpers.findIndexByName(headers, "Gebucht (in PT)");
+const projekteColumnIndex = helpers.findIndexByName(headers, "Projekt");
+
+// List of project names to check
+const projectNames = [
+"xRM-Service"
+];
+
+for (let i = 1; i < data.length; i++) {
+    if (data[i][mitarbeiterColumnIndex] === employeeName && projectNames.includes(data[i][projekteColumnIndex]))  {
+   console.log("Project found in line", i+1);
+        let gebuchtValue = parseFloat(data[i][gebuchtColumnIndex]);
+
+        if (!isNaN(gebuchtValue)) {
+            totalPT += gebuchtValue;
+            
+        } else {
+            console.log(`Invalid number at row ${i}: Gebucht=${data[i][gebuchtColumnIndex]}`);
+        }
+    }
+}
+return totalPT;
+
+##########################
+xRM-Sonstiges
+
+console.log(employeeName, "xRM-Sonstiges");
+let totalPT = 0;
+const headers = data[0];
+const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+const gebuchtColumnIndex = helpers.findIndexByName(headers, "Gebucht (in PT)");
+const projekteColumnIndex = helpers.findIndexByName(headers, "Projekt");
+
+// List of project names to check
+const projectNames = [
+"xRM Projectnames"
+];
+
+for (let i = 1; i < data.length; i++) {
+    if (data[i][mitarbeiterColumnIndex] === employeeName && projectNames.includes(data[i][projekteColumnIndex]))  {
+   console.log("Project found in line", i+1);
+        let gebuchtValue = parseFloat(data[i][gebuchtColumnIndex]);
+
+        if (!isNaN(gebuchtValue)) {
+            totalPT += gebuchtValue;
+            
+        } else {
+            console.log(`Invalid number at row ${i}: Gebucht=${data[i][gebuchtColumnIndex]}`);
+        }
+    }
+}
+return totalPT;
+
+#################################
+Formula for calculating the "Faktura Tage" (billed PT)
+note: the /480 is to convert minutes to PT
+
+
+console.log(employeeName, "Faktura Tage")
+let totalPtBilled = 0;
+const headers = data[0];
+const mitarbeiterColumnIndex = helpers.findIndexByName(headers, "Mitarbeiter");
+const ptBilledColumnIndex = helpers.findIndexByName(headers,"Abrechenbar");
+
+for (let i = 1; i < data.length; i++) {
+if (data[i][mitarbeiterColumnIndex] === employeeName) {
+    
+    totalPtBilled += parseFloat(data[i][ptBilledColumnIndex])/480;
+}
+}
+return totalPtBilled;

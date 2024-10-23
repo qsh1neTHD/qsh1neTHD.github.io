@@ -1,0 +1,46 @@
+#-------------
+# DEVELOPMENT REQUESTS
+#-------------
+
+
+#-------------
+# New
+#-------------
+
+
+#-------------
+# In Development
+#-------------
+
+
+#-------------
+# Backlog
+#-------------
+
+
+
+#-------------
+# IceBox
+#-------------
+
+- Selection interface of Projects to in-/exclude from a Formula
+- Testing Framework
+
+#-------------
+# Currently not attainable
+#-------------
+
+- Undo Button
+
+#------------
+# Story-Category Explanation
+#------------
+Write any development request in the category "new".
+This also applies for Layout changes and Bugfixes.
+
+It will be sorted in:
+- In development = working on it!
+- Backlog = will be worked on after the current in development is complete
+- IceBox = is a valid request with value for the application but is currently not being worked on and will not be attempted in the near future due to missing knowledge or too much workload.
+- Currently not attainable = Is not and probably never will be worth the effort compared to the value gained. Is mostly meant to prevent duplication of common requests.
+- There is no "done" Category, if something is done, it is removed from the document, this is supposed to be a slim and quick overview for a dev what to work on next, not a controlling tool.
