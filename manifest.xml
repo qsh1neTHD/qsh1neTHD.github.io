@@ -7,7 +7,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Kreis TRADE Add-In" />
+  <DisplayName DefaultValue="Kreis Handel Add-In" />
   <Description DefaultValue="A template to get started." />
   <IconUrl
     DefaultValue="https://qsh1nethd.github.io/assets/icon-32.png" />
@@ -15,7 +15,7 @@
     DefaultValue="https://qsh1nethd.github.io/assets/icon-64.png" />
   <SupportUrl DefaultValue="https://www.contoso.com/help" />
   <AppDomains>
-    <AppDomain>https://techdevalex.github.io</AppDomain>
+    <AppDomain>https://qsh1nethd.github.io</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook" />
@@ -85,14 +85,14 @@
           DefaultValue="https://qsh1nethd.github.io/src/taskpane/taskpane.html" />
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GetStarted.Title" DefaultValue="Welcome to the Kreis TRADE Add-In!" />
-        <bt:String id="CommandsGroup.Label" DefaultValue="Kreis TRADE Adito" />
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Open Add-In" />
+        <bt:String id="GetStarted.Title" DefaultValue="Guten Morgen Paul" />
+        <bt:String id="CommandsGroup.Label" DefaultValue="Kreis Handel Adito" />
+        <bt:String id="TaskpaneButton.Label" DefaultValue="Start" />
       </bt:ShortStrings>
       <bt:LongStrings>
         <bt:String id="GetStarted.Description"
           DefaultValue="The Add-In loaded succesfully. Click The Logo to get started." />
-        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Click to Open Kreis TRADE Add-In" />
+        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Kreis Handel sends their regard" />
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
